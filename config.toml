@@ -1,0 +1,4 @@
+baseURL = "https://ivanasteven.com/"
+languageCode = "en-us"
+title = "Ivana & Steven"
+theme = gohugo-amp
