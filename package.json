@@ -1,0 +1,24 @@
+{
+  "name": "hugowebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mschen21@bitbucket.org/mschen21/ivana-steven-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mschen21/ivana-steven-website#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.4.10",
+    "cssnano": "^4.1.10",
+    "html-minifier": "^3.5.21",
+    "node-sass": "^4.11.0",
+    "nodemon": "^1.18.10",
+    "postcss": "^7.0.14"
+  }
+}
