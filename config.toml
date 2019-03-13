@@ -1,32 +1,42 @@
-baseURL = "https://ivanasteven.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Ivana & Steven"
-theme = "gohugo-amp"
+theme = "hugo-hero-theme"
 
 [params]
-    amp = true # enables amp features
-   
-    # define which amp-elements you are using globally, these elements will be included in every page
-    ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-carousel","amp-iframe","amp-app-banner","amp-dynamic-css-classes","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
+  google_analytics_id=""
 
-    themeColor = "#112233" # define a theme color (this will colorize the android address-bar)
+  [params.homepage_meta_tags]
+    meta_description = "Ivana and Steven are a husband &amp; wife photographer duo. We are natural light Chicago and destination wedding &amp; family photographers."
+    meta_og_title = "Ivana &amp; Steven Photography"
+    meta_og_type = "website"
+    meta_og_url = "/"
+    meta_og_image = "/"
+    meta_og_description = "Ivana and Steven are a husband &amp; wife photographer duo. We are natural light Chicago and destination wedding &amp; family photographers."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticio"
 
-    # adsensePublisher = "ca-pub-123456789" # required if you want to include google adsense
-    googleAnalytics = "UA-123456-78" # required if you want to use google analytics
-    # appleItunesApp = "app-id=123456789, app-argument=app-name://link/to/app-content" # required if you want to add an app banner with iOS app
-    # ampManifest = "/amp-manifest.json" # required if you want to add the app-banner feature
-    
-    alternatePageName = "Ivana & Steven" # alternative name for website structured data
-    organisationLogo = "https://gohugohq.com/logo.png" # set organisation logo for structured data
-    organisationName = "ivanasteven.com" # set organisation name
-    # organisationAddress = "Some Street 123, 12345 City" # set organisation address
+[[menu.main]]
+	name = "Home"
+	url = "/"
+    weight = 1
 
-    socialProfiles = ["http://www.facebook.com/","http://instagram.com/","http://www.linkedin.com/in/"]  # for sameAs in organisation's structured data
-    
-    publisherName = "ivanasteven.com" # publisher used in article schema
-    publisherLogo = "https://gohugo-amp.gohugohq.com/logo-publisher.png" # https://developers.google.com/search/docs/data-types/articles#logo-guidelines
-    publisherLogoWidth = 600 # logo width
-    publisherLogoHeight = 60 # logo height
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
 
-    stylesheetRegular = ["/base-styling.css"] # these styles are used when amp is disabled for a specific page
-    javascriptRegular = ["/script.js"] # these scripts are used when amp is disabled for a specific page
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+
+[[menu.main]]
+    name = "Check Availability"
+    url = "/check-availability/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

@@ -1,24 +1,39 @@
 {
-  "name": "hugowebsite",
+  "name": "your-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "describe your project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "go": "npm run hugo:server",
+    "hugo:server": "hugo server --buildDrafts --buildFuture",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:prod": "npm run theme:build && hugo && npm run optimize:html",
+    "optimize:html": "./node_modules/.bin/html-minifier --input-dir ./public/ --output-dir ./public/ --file-ext html -c ./.html-minifier-config.json",
+    "theme:build": "node ./.bin/styling",
+    "theme:watch": "./node_modules/.bin/nodemon -e scss -w ./ -x npm run theme:build"
+  },
+  "author": "Your Name",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "html-minifier": "^3.1.1",
+    "autoprefixer": "^6.5.3",
+    "cssnano": "^3.8.0",
+    "node-sass": "^3.11.3",
+    "nodemon": "^1.11.0",
+    "postcss": "^5.2.5"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://mschen21@bitbucket.org/mschen21/ivana-steven-website.git"
+    "url": "git+https://LINK-TO-YOUR-REPOSITORY"
   },
-  "author": "",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/mschen21/ivana-steven-website#readme",
-  "devDependencies": {
-    "autoprefixer": "^9.4.10",
-    "cssnano": "^4.1.10",
-    "html-minifier": "^3.5.21",
-    "node-sass": "^4.11.0",
-    "nodemon": "^1.18.10",
-    "postcss": "^7.0.14"
-  }
+  "keywords": [
+    "kw1",
+    "kw2",
+    "kw3"
+  ],
+  "bugs": {
+    "url": "https://LINK-TO-YOUR-BUG-TRACKER"
+  },
+  "homepage": "https://YOUR-HOMEPAGE.TLD"
 }
