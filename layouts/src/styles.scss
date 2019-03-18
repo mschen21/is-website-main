@@ -38,7 +38,6 @@ img.image-border {
     font-family: 'Melinda';
     text-align: center;
     font-size: 3em;
-    text-transform: lowercase;
     color: #8C8C8C;
     font-weight: normal;
   }
@@ -52,4 +51,21 @@ img.image-border {
     margin-top: 26px;
     margin-left: 30px;
   }
+}
+
+.about-us-homepage {
+  p {
+    font-size: 1.2em;
+  }
+  .button {
+    background: #FFFFFF;
+    border: 1px solid #888888;
+    color: #888888;
+  }
+}
+
+.review-image {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
 }
