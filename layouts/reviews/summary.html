@@ -1,10 +1,10 @@
 <div class="row review review-summary">
   {{ if .Params.image }}
-  <div class="review-image col-md-3">
+  <div class="review-image col-md-7">
     <img width="100%" src="{{ .Site.BaseURL }}{{ .Params.image }}"/>
   </div>
   {{ end }}
-  <div class="review-content col-md-4">
+  <div class="review-content col-md-5 d-flex flex-column align-self-end">
     <h2 class="review-title">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
