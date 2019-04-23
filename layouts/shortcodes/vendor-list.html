@@ -1,12 +1,8 @@
 {{ $backgroundImage := .Get "image" }}
-{{ $text := .Get "text" }}
 {{ $backgroundColor := .Get "color" }}
-{{ $fontColor := .Get "fontColor" }}
 
 <div class="strip hero-section" style="{{ with $backgroundImage }} background-image: url(' {{ $backgroundImage }}') {{ else }} background-color: #{{ $backgroundColor }} {{ end }}">
-  <div class="row justify-content-center pl-2 pr-2 pl-sm-0 pr-sm-0">
-    <div class="container mt-md-2 mb-md-2">
-      {{ .Inner }}
-    </div>
+  <div class="container vendor-list">
+      {{ .Inner | replaceRE "<p>" "<div class=\"vendor-list-item\">" | replaceRE "</p>" "</div>" | safeHTML }}
   </div>
 </div>

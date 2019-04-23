@@ -8,6 +8,44 @@ heroBackground: '/images/koenig/IMG_0564.jpg'
 thumbnail: '/images/koenig/koenig41-300.jpg'
 ---
 
+{{% vendor-list color="dbdbdb" %}}
+
+Rehearsal Dinner // [Saranello's](http://saranellos.com/)
+
+Wedding & Reception Venue // [Renaissance Chicago North Shore Hotel by Marriott](https://www.marriott.com/hotels/travel/chinb-renaissance-chicago-north-shore-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
+
+Wedding Planner // Michele Zurlo @ [Renaissance Chicago North Shore Hotel by Marriott](https://www.marriott.com/hotels/travel/chinb-renaissance-chicago-north-shore-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
+
+Photographer // [Ivana & Steven Photography](https://ivanasteven.com/)
+
+Wedding Dress // [Bridal & Formal](https://bridalandformalinc.com/)
+
+Bridesmaid Dresses // [David's Bridal](https://www.davidsbridal.com/)
+
+Hair & Makeup // [Hairs 2 the Bride](http://www.hairs2thebride.com/)
+
+Groom & Groomsmen Suits // [Men's Wearhouse](https://www.menswearhouse.com/)
+
+Music // [The Andrew Blake Band](https://www.andrewblakeband.com/)
+
+Cake // [Oak Mill Bakery](http://www.oakmillbakery.com/)
+
+{{% /vendor-list %}}
+
+How to begin our love for Lauren & Adam? Let's start with Lauren's family: the Sobol's. Our story begins back at Indiana University when I met Lauren's brother, Adam, in 2012. We worked as orientation leaders together for freshman orientation that summer. We immediately struck up a friendship and made all sorts of lifelong memories from fun college antics. Adam ironically also became friends with Steven through pursuing the same major, Informatics, and later becoming roommates for their graduate degree in Information Systems. We've even all shared a Valentine's Day dinner together and narrowly avoided burning the apartment down when cooking steaks...we now live in Chicago together and feel lucky to call Adam one of our best friends.
+
+In 2016, we invited the entire Sobol family to our wedding because they are the absolute kindest, most adorable, loving, supportive, and FUN family you will EVER meet! From the moment you meet Jody, Lauren's mom, she is your instant best friend who is invested in your life and cares about you deeply. Todd, Lauren's dad, served as our personal guide and insider to the family and hotel on Lauren & Adam's wedding day. He even helped me carry my bags around and gave us tips for best spots for shooting at the Renaissance Chicago North Shore Hotel by Marriott. Do you know how much that means to me as a pregnant lady? Everything!! Steven and I took a trip to the Middle East earlier this year, coinciding with Carly, Lauren's sister's study abroad program. Though we didn't get a chance to meet up, Carly told us all the best places to visit including eating at Miznon, whose food I still dream about to this day.
+
+Okay, on to our time with Lauren & Adam Koenig. These two have had a special place in our hearts clearly for a while now as we've been a part of their engagement journey and we couldn't have been more overjoyed to be a part of both their rehearsal dinner at Saranello's Italian restaurant & wedding day!! The Sobol family put together the wedding rehearsal dinner to perfection and felt like a wedding of its own with a private ballroom and delicious Italian meal at Saranello's.
+
+Adam & Lauren. Their story began with a swipe. Not just any swipe - a swipe on JSwipe.
+
+"JSwipe is the #1 Jewish dating app with users in over 70 countries! We make finding that special someone you take home for matzo ball soup as fun as it *should* be. Find your long lost love from summer camp and start to meet Jewish singles today. Find your perfect match and start dating today!"
+
+Too funny, but oh so true as it brought these two together. Lauren is a friend to all, with a smile that will warm your heart. I know this because mine felt incredibly warm all day, especially every time she looked at Adam. Adam adds height, easy going charm, and a hard-working work diligence to the relationship. Together, they are one of the happiest and most adorable couples alive. 
+
+We started the day in separate ballrooms for the bride and groom prepping hair makeup, sipping mimosas and beers, and enjoying these last precious moments before saying "I do."
+
 {{< section-row >}}
 
 {{< figure src="/images/koenig/IMG_1217A.jpg" alt="Koenig image" >}}
@@ -26,7 +64,7 @@ thumbnail: '/images/koenig/koenig41-300.jpg'
 {{< /section-row >}}
 
 
-{{< background-text-fullwidth >}}First looks are always one of our very favorite parts of the day. Lauren shared a first look not only with Adam, but also her father! Cue the tears. It was very sweet. I'd happily advocate first looks between daughters and fathers for every wedding!{{</ background-text-fullwidth >}}
+First looks are always one of our very favorite parts of the day. Lauren shared a first look not only with Adam, but also her father! Cue the tears. It was very sweet. I'd happily advocate first looks between daughters and fathers for every wedding!
 
 
 {{< section-row >}}
@@ -36,9 +74,7 @@ thumbnail: '/images/koenig/koenig41-300.jpg'
 
 {{< /section-row >}}
 
-
-{{< background-text-fullwidth text="And then the first look with Adam..." />}}
-
+And then the first look with Adam...
 
 {{< section-row >}}
 
@@ -50,7 +86,7 @@ thumbnail: '/images/koenig/koenig41-300.jpg'
 {{< /section-row >}}
 
 
-{{< background-text-fullwidth >}}We've always wanted to attend a Jewish wedding and we finally got our wish! There are many Jewish traditions and it was a joy experiencing them through Lauren & Adam. First up, the signing of the Ketubah. It's a Jewish wedding contract that Lauren & Adam signed in the presence of Rabbi Foster, their families and witnesses. Pamela Feldman-Hill of Pearl Editions handmade and customized their Ketubah with loving care in Columbus, OH! Absolutely gorgeous and decorated with incredible care.{{< /background-text-fullwidth >}}
+We've always wanted to attend a Jewish wedding and we finally got our wish! There are many Jewish traditions and it was a joy experiencing them through Lauren & Adam. First up, the signing of the Ketubah. It's a Jewish wedding contract that Lauren & Adam signed in the presence of Rabbi Foster, their families and witnesses. Pamela Feldman-Hill of Pearl Editions handmade and customized their Ketubah with loving care in Columbus, OH! Absolutely gorgeous and decorated with incredible care.
 
 {{< section-row >}}
 
@@ -59,7 +95,7 @@ thumbnail: '/images/koenig/koenig41-300.jpg'
 
 {{< /section-row >}}
 
-{{< background-text-fullwidth >}}Next up: the beautiful ceremony! Lauren walked down the aisle with both her parents and the couple circled each other a total of seven times to create a sacred space with the promise of protection that Lauren & Adam are making to one another as it reminds them they are the center of each other's worlds. Their program described each element in detail, which really helped us understand the Jewish customs.
+Next up: the beautiful ceremony! Lauren walked down the aisle with both her parents and the couple circled each other a total of seven times to create a sacred space with the promise of protection that Lauren & Adam are making to one another as it reminds them they are the center of each other's worlds. Their program described each element in detail, which really helped us understand the Jewish customs.
 
 Within the beautiful ballroom, Lauren and Adam wed under a beautiful floral chuppah, the traditional wedding canopy. It represents the home that Lauren & Adam will establish together. The sides are deliberately left open to signify that family and friends are always welcome in their home. The chuppah incorporated Lauren's grandmother's weaved tablecloth that was used on her confirmation many years ago and Adam's Uncle Frank's tallis that was used during the ceremony.
 
@@ -70,7 +106,6 @@ Another unique aspect is the exchange of rings where they placed rings on each o
 One of our favorite parts? The breaking of the glass!
 
 Adam stepped mightily on a glass, signifying celebration as guests share a big Mazel Tov. It's a reminder of how beautiful and fragile life can be and that relationships should always be treated with great care, love and respect. So many special elements filled with thoughtfulness and rich spiritual significant made this ceremony one to remember. Immediately after the ceremony, Lauren & Adam retired to a private room to share their first moments alone as husband and wife before rejoining the wedding celebration in a tradition called the Yichud!
-{{< /background-text-fullwidth >}}
 
 {{< section-row >}}
 
@@ -89,9 +124,7 @@ Adam stepped mightily on a glass, signifying celebration as guests share a big M
 
 {{< /section-row >}}
 
-{{< background-text-fullwidth >}}
 Last but not least, the reception to end all parties! Their bridal party pulled out all the stops for best entrance dance moves. The Andrew Blake Band played absolutely incredible cover music and Sobol family friends performed a surprise song for the first dance, mother/son & father/daughter dances. The daughter is fresh off Broadway's Sound of Music!! So amazing. 
-{{< /background-text-fullwidth >}}
 
 {{< section-row >}}
 
@@ -103,9 +136,7 @@ Last but not least, the reception to end all parties! Their bridal party pulled 
 
 {{< /section-row >}}
 
-{{< background-text-fullwidth >}}
 The absolute best part was the Jewish chair dance, or "hora" that came out of nowhere. As we were enjoying the reception, a song came on that magically prompted all family and friends to link arms around each other, dance in concentric circles, and start lifting Lauren and Adam into the air bouncing on chairs! Oh my goodness. I will never forget that lively dance. Even Jody & Todd got a turn in this unforgettable dance.
-{{< /background-text-fullwidth >}}
 
 {{< section-row >}}
 
@@ -118,9 +149,7 @@ The absolute best part was the Jewish chair dance, or "hora" that came out of no
 
 {{< /section-row >}}
 
-{{< background-text-fullwidth >}}
 Last but not least, a few sunset photos because there is nothing more magical to end a wedding day.
-{{< /background-text-fullwidth >}}
 
 {{< section-row >}}
 
@@ -132,17 +161,4 @@ Last but not least, a few sunset photos because there is nothing more magical to
 
 {{< /section-row >}}
 
-{{< background-text-fullwidth >}}
 Adam & Lauren, we love you so much and are so excited for your lives as the Koenig's. Enjoy your first few months of marriage! We can't wait to walk by your side and experience many more memories together.
-{{< /background-text-fullwidth >}}
-
-Rehearsal Dinner: Saranello's 
-Wedding & Reception Venue: Renaissance Chicago North Shore Hotel by Marriott
-Wedding Planner: MIchele Zurlo @ Renaissance Chicago North Shore Hotel by Marriott
-Photographer: Ivana & Steven Photography
-Wedding Dress: Bridal & Formal
-Bridesmaid Dresses: David's Bridal
-Hair & Makeup: Hairs 2 the Bride
-Groom & Groomsmen Suits: Men's Wearhouse
-Music: The Andrew Blake Band
-Cake: Oak Mill Bakery
