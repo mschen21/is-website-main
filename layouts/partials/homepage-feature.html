@@ -1,18 +1,30 @@
 <div class="container pt-10">
-    <div class="row homepage-feature-section">
-        <div class="d-flex justify-content-center flex-wrap">
-            <a href="{{ .Site.BaseURL }}travel" class="col-sm-4">
-                <img class="image-border" src="{{ .Site.BaseURL }}homepage/ocean.webp" width="100%" />
-                <h1 class="text-lowercase">Travel</h1>
-            </a>
-            <a href="{{ .Site.BaseURL }}weddings" class="col-sm-4">
-                <img class="image-border" src="{{ .Site.BaseURL }}homepage/JimmyChooShoes.webp" width="100%" />
-                <h1 class="text-lowercase">Weddings</h1>
-            </a>
-            <a href="{{ .Site.BaseURL }}families" class="col-sm-4">
-                <img class="image-border" src="{{ .Site.BaseURL }}homepage/family.webp" width="100%" />
-                <h1 class="text-lowercase">Families</h1>
-            </a>
-        </div>
+    <div class="row homepage-feature-section flex-column">
+        <a href="{{ .Site.BaseURL }}weddings" class="feature-image-link">
+            <div class="feature-image-item mb-2"
+                style="background-image: url({{ .Site.BaseURL }}/homepage/JimmyChooShoes.jpg)">
+                <div class="d-flex feature-image-overlay flex-column justify-content-center align-items-center">
+                    <div class="hero-title mt-2">Weddings</div>
+                    <div class="hero-info">view more</div>
+                </div>
+            </div>
+        </a>
+        <a href="{{ .Site.BaseURL }}families" class="feature-image-link">
+            <div class="feature-image-item mb-2"
+                style="background-image: url({{ .Site.BaseURL }}/homepage/JueFamily.jpg)">
+                <div class="d-flex feature-image-overlay flex-column justify-content-center align-items-center">
+                    <div class="hero-title mt-2">Families</div>
+                    <div class="hero-info">view more</div>
+                </div>
+            </div>
+        </a>
+        <a href="{{ .Site.BaseURL }}events" class="feature-image-link">
+            <div class="feature-image-item" style="background-image: url({{ .Site.BaseURL }}/homepage/EventPhoto.jpg)">
+                <div class="d-flex feature-image-overlay flex-column justify-content-center align-items-center">
+                    <div class="hero-title mt-2">Events</div>
+                    <div class="hero-info">view more</div>
+                </div>
+            </div>
+        </a>
     </div>
 </div>

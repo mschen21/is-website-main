@@ -12,29 +12,61 @@
 */
 
 html, body {
-  font-family: 'Roboto', sans-serif;
-  color: #676767;
+  font-family: 'Ovo', serif;
+  color: rgba(71, 71, 71, 0.664);
+  font-size: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cardo', serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.header {
+  height: 120px;
+}
+
+.page {
+  
+  .about-us-cover {
+    padding-top: 14em;
+    line-height: 1.38rem;
+  }
 }
 
 .logo {
   width: 220px;
 }
 
+.logo-mobile {
+  width: 200px;
+}
+
+.hamburger .hamburger-inner, .hamburger .hamburger-inner::before, .hamburger .hamburger-inner::after {
+  background: #E2CFCF;
+}
+
+.main-menu-mobile {
+  background: #E2CFCF;
+}
+
 .page-home {
   .main-page-header {
-    font-family: 'Melinda';
+    //font-family: 'Melinda';
+    font-style: italic;
     color: #676767;
   }
 }
 
 img.image-border {
-  outline: 3px solid #FFF;
-  outline-offset: -20px;
+  outline: 2px solid #fff;
+  outline-offset: -15px;
 }
 
 .homepage-feature-section {
-  h1, h2, h3, h4, h5, h6 {
-    font-family: 'Melinda';
+  h1{
+    //font-family: 'Melinda';
     text-align: center;
     color: #8C8C8C;
     font-weight: normal;
@@ -56,6 +88,11 @@ img.image-border {
   }
 }
 
+.button {
+  font-family: 'Muli', sans-serif;
+  font-weight: 300;
+}
+
 .about-us-homepage {
   p {
   }
@@ -70,8 +107,139 @@ img.image-border {
   border-top: 1px solid #979797;
   border-bottom: 1px solid #979797;
   border-right: 1px solid #979797;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0;
 }
 
 h2.review-title {
   border-bottom: 1px solid #979797;
+  text-transform: uppercase;
+  font-family: 'Ovo', serif;
+  font-style: italic;
+  a {
+    color: #676767;
+    font-size: .75em;
+  }
 }
+
+.hero-image {
+  background-blend-mode: unset;
+}
+
+.hero-image-setheight {
+  background-color: rgba(122, 122, 122, 0.438);
+  background-position: center;
+  height: 60vh;
+  color: #FFF;
+  padding-top: 0;
+  .hero-title {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 2rem;
+    text-transform: lowercase;
+  }
+  .hero-subtitle {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    line-height: .6rem;
+    color: #FFF;
+    transition: .4s ease;
+    font-size: .75rem;
+    text-transform: uppercase;
+  }
+}
+
+.portfolio-image {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  transition: .5s ease;
+}
+
+.featured-container {
+  a {
+    text-decoration: none;
+  }
+}
+
+
+.feature-image-overlay, .portfolio-image-overlay {
+  transition: .4s ease;
+  height: 100%;
+  background-color: rgba(122, 122, 122, 0.438);
+  &:hover {
+    background-color: rgba(121, 121, 121, 0.651);
+    text-decoration: none;
+  }
+  .hero-title {
+    font-family: 'Cardo', serif;
+    color: #FFF;
+    font-style: italic;
+    text-transform: lowercase;
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
+  .hero-info {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    line-height: 2rem;
+    transition: .4s ease;
+    opacity: 0;
+    font-size: .75rem;
+    text-transform: uppercase;
+  }
+  .hero-subtitle {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    line-height: .6rem;
+    color: #FFF;
+    transition: .4s ease;
+    font-size: .75rem;
+    text-transform: uppercase;
+  }
+  &:hover .hero-info {
+    opacity: 1;
+    color: #FFF;
+  }
+}
+
+.feature-image-item {
+  height: 450px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  transition: .5s ease;
+}
+
+.portfolio {
+  .hero-section {
+    margin-bottom: 1rem;
+  }
+  img {
+    width: 100%;
+  }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 325px) { 
+  .carousel .slick-track, .hero-image .slick-track {
+    height: 400px;
+  }
+ }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { }
+
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .carousel .slick-track, .hero-image .slick-track {
+    height: 85vh;
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {  }
+

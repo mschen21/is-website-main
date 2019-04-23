@@ -18,6 +18,10 @@
   {{ end }}
   <link rel="stylesheet" href="{{ .Site.BaseURL }}fonts/stylesheet.css">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+  <link href="https://fonts.googleapis.com/css?family=Ovo" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Cardo:400,400i" rel="stylesheet">
 
   {{ block "header_css" . }}{{ end }}
 
@@ -35,6 +39,7 @@
   {{ partial "sub-footer.html" . }}
 
   {{ $scripts := resources.Get "js/scripts.js" }}
+  {{ $jqueryScripts := resources.Get "js/jqueryScripts.js"}}
 
   {{ block "footer_js" . }}
   {{ end }}
@@ -47,5 +52,15 @@
 
   {{ partial "google-analytics.html" . }}
 
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  {{ if .Site.IsServer }}
+  <script type="text/javascript" src="{{ $jqueryScripts.RelPermalink }}"></script>
+  {{ else }}
+  <script type="text/javascript" src="{{ ($jqueryScripts | minify | fingerprint).RelPermalink }}"></script>
+  {{ end }}
+
 </body>
+
 </html>

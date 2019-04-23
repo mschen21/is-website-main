@@ -1,10 +1,22 @@
 ---
-title: 'About Content 2'
+title: 'About Ivana'
 date: 2018-12-06T09:29:16+10:00
-background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
+featuredImage: 'about/ivana.jpg'
 button: ''
 ---
 
-## Integrity & Performance
+## ivana
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+Avid documenter who loves to journal, reflect, and take a lot of pictures of food. Eager host to guests, but won't know how to make coffee given I'm a tea drinker. Big planner who loves to create agendas for vacations, birthdays, and surprise get-togethers. Can't watch anything scary unless you want me hiding behind pillows the whole time. Trying new recipes.
+
+All time favorites:
+
+* All things Anthropologie
+* Magnolia banana pudding
+* Ramen and any food adventures
+* Chamomile, jasmine, or chrysanthemum tea
+* Shark Tank (TV show)
+* Balayage hair
+* Everyday booties
+* New York City
+* Potlucks and get-togethers

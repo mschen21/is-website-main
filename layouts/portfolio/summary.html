@@ -1,0 +1,14 @@
+<a href="{{ .Permalink }}">
+  {{ if .Params.thumbnail }}
+  <div class="portfolio-image mb-2"
+    style="background-image: url('{{ .Site.BaseURL }}{{ .Params.thumbnail }}');">
+    {{ if .Params.heroHeading }}
+    <div class="d-flex portfolio-image-overlay flex-column justify-content-center align-items-center">
+      <div class="hero-title mt-2">{{.Params.heroHeading}}</div>
+      <div class="hero-subtitle">{{.Params.heroSubHeading}}</div>
+      <div class="hero-info">view more</div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</a>

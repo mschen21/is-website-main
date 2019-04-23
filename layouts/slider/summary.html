@@ -1,0 +1,11 @@
+{{ if .Params.image }}
+<div class="hero-image" style="background-image: url('{{ .Params.image | relURL }}');">
+    <div class="container">
+      <div class="hero-text">
+        <span class="hero-section"></span>
+        <h1>{{.Params.heroTitle}}</h1>
+        <p>{{.Params.heroSubtitle}}</p>
+      </div>
+    </div>
+  </div>
+  {{ end }}
