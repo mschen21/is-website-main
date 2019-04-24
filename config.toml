@@ -38,8 +38,8 @@ theme = "hugo-hero-theme"
     weight = 4
 
 [[menu.main]]
-    name = "Check Availability"
-    url = "/check-availability/"
+    name = "Contact"
+    url = "/contact/"
     weight = 5
 
 [permalinks]

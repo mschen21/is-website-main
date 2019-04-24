@@ -51,6 +51,23 @@ h1, h2, h3, h4, h5, h6 {
   background: #E2CFCF;
 }
 
+.main-menu > ul > li > a {
+  color: #676767;
+}
+
+.main-menu > ul > li.active > a {
+  background: #E2CFCF;
+}
+
+.main-menu > ul > li.active > a:hover {
+  background: #E2CFCF;
+}
+
+.main-menu > ul > li > a:hover {
+  background: #E2CFCF;
+}
+
+
 .page-home {
   .main-page-header {
     //font-family: 'Melinda';
@@ -221,15 +238,24 @@ h2.review-title {
     width: 100%;
   }
   .vendor-list {
-    max-width: 1140px;
     margin: 0 auto;
     column-width: 25em;
     .vendor-list-item {
-      font-size: .75rem;
+      font-size: .65rem;
       font-family: 'Muli', sans-serif;
       font-weight: 300;
       text-transform: uppercase;
     }
+    .white {
+      color: #FFF;
+    }
+  }
+}
+
+// special for devices 1300px & up
+@media (min-width: 1300px) {
+  .vendor-list {
+    max-width: 1140px;
   }
 }
 

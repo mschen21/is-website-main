@@ -1,7 +1,11 @@
 ---
-title: "Fifth_month"
+title: "Fifth month"
 date: 2019-04-10T23:37:53-05:00
 draft: true
+heroHeading: 'Lauren & Adam'
+heroSubHeading: 'Chicago, Illinois'
+heroBackground: '/images/koenig/IMG_0564.jpg'
+thumbnail: '/images/koenig/koenig41-300.jpg'
 ---
 
 Short sleeved onesies. Uncontrollable giggles. Gripping our arms and new toys. These small steps towards new milestones have filled our hearts with indescribable joy this past 5th month of life for Noah. 
