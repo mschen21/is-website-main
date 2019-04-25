@@ -45,7 +45,7 @@ Sweet Elle has so many funny things she does. She likes to pick up the phone (he
 After having fun in the park, we ended up time together back at the Stewart home. Steph & Max had set up the most adorable backdrop and decorations for Elle's 1st ever cake smash! Elle donned a tutu, pearls, and a glittery "1" crown and *actually* enjoyed smashing her funfetti cake with vanilla frosting (which Max baked)! Perfect baby cake smash.
 
 {{< section-row >}}
-https://static1.squarespace.com/static/5527182de4b0be723b167dab/t/5b147e2b6d2a735db8a7a589/1528069687587/IMG_8315.jpg?format=1500w
+
 {{< figure src="/images/stewart/IMG_8311.jpg" alt="stewart image" >}}
 {{< figure src="/images/stewart/IMG_8315.jpg" alt="stewart image" >}}
 {{< figure src="/images/stewart/IMG_9866.jpg" alt="stewart image" >}}
@@ -59,7 +59,7 @@ https://static1.squarespace.com/static/5527182de4b0be723b167dab/t/5b147e2b6d2a73
 Family photos are the best because they are literally freezing precious memories in time. I've decided that Finn's little arm rolls are one of my favorite things in the whole world and I'm SO glad we now have these photos to memorialize them forever! The boys gave little hugs to each other and kisses to their mom and dad that melted my heart. We played with bubble machines, listened to the Moana soundtrack, and spent the best morning playing and shooting together. 
 
 {{< section-row >}}
-https://static1.squarespace.com/static/5527182de4b0be723b167dab/t/5b147e08562fa7ba71d649ce/1528069653960/IMG_8325.jpg?format=1500w
+
 {{< figure src="/images/stewart/IMG_9998.jpg" alt="stewart image" >}}
 {{< figure src="/images/stewart/stewart+Family-022.jpg" alt="stewart image" >}}
 {{< figure src="/images/stewart/IMG_8348.jpg" alt="stewart image" >}}
