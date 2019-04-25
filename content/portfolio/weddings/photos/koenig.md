@@ -32,6 +32,8 @@ Cake // [Oak Mill Bakery](http://www.oakmillbakery.com/)
 
 {{% /vendor-list %}}
 
+{{% section-column "25em" %}}
+
 How to begin our love for Lauren & Adam? Let's start with Lauren's family: the Sobol's. Our story begins back at Indiana University when I met Lauren's brother, Adam, in 2012. We worked as orientation leaders together for freshman orientation that summer. We immediately struck up a friendship and made all sorts of lifelong memories from fun college antics. Adam ironically also became friends with Steven through pursuing the same major, Informatics, and later becoming roommates for their graduate degree in Information Systems. We've even all shared a Valentine's Day dinner together and narrowly avoided burning the apartment down when cooking steaks...we now live in Chicago together and feel lucky to call Adam one of our best friends.
 
 In 2016, we invited the entire Sobol family to our wedding because they are the absolute kindest, most adorable, loving, supportive, and FUN family you will EVER meet! From the moment you meet Jody, Lauren's mom, she is your instant best friend who is invested in your life and cares about you deeply. Todd, Lauren's dad, served as our personal guide and insider to the family and hotel on Lauren & Adam's wedding day. He even helped me carry my bags around and gave us tips for best spots for shooting at the Renaissance Chicago North Shore Hotel by Marriott. Do you know how much that means to me as a pregnant lady? Everything!! Steven and I took a trip to the Middle East earlier this year, coinciding with Carly, Lauren's sister's study abroad program. Though we didn't get a chance to meet up, Carly told us all the best places to visit including eating at Miznon, whose food I still dream about to this day.
@@ -46,7 +48,9 @@ Too funny, but oh so true as it brought these two together. Lauren is a friend t
 
 We started the day in separate ballrooms for the bride and groom prepping hair makeup, sipping mimosas and beers, and enjoying these last precious moments before saying "I do."
 
-{{< section-row >}}
+{{% /section-column %}}
+
+{{< section-row "mt-4 mb-4" >}}
 
 {{< figure src="/images/koenig/IMG_1217A.jpg" alt="Koenig image" >}}
 {{< figure src="/images/koenig/IMG_0696.jpg" alt="Koenig image" >}}
@@ -67,7 +71,7 @@ We started the day in separate ballrooms for the bride and groom prepping hair m
 First looks are always one of our very favorite parts of the day. Lauren shared a first look not only with Adam, but also her father! Cue the tears. It was very sweet. I'd happily advocate first looks between daughters and fathers for every wedding!
 
 
-{{< section-row >}}
+{{< section-row "mt-4 mb-4" >}}
 
 {{< figure src="/images/koenig/koenig10.jpg" alt="Koenig image" >}}
 {{< figure src="/images/koenig/koenig11.jpg" alt="Koenig image" >}}
@@ -76,7 +80,7 @@ First looks are always one of our very favorite parts of the day. Lauren shared 
 
 And then the first look with Adam...
 
-{{< section-row >}}
+{{< section-row "mt-4 mb-4" >}}
 
 {{< figure src="/images/koenig/koenig12.jpg" alt="Koenig image" >}}
 {{< figure src="/images/koenig/koenig13.jpg" alt="Koenig image" >}}
@@ -88,7 +92,7 @@ And then the first look with Adam...
 
 We've always wanted to attend a Jewish wedding and we finally got our wish! There are many Jewish traditions and it was a joy experiencing them through Lauren & Adam. First up, the signing of the Ketubah. It's a Jewish wedding contract that Lauren & Adam signed in the presence of Rabbi Foster, their families and witnesses. Pamela Feldman-Hill of Pearl Editions handmade and customized their Ketubah with loving care in Columbus, OH! Absolutely gorgeous and decorated with incredible care.
 
-{{< section-row >}}
+{{< section-row "mt-4 mb-4" >}}
 
 {{< figure src="/images/koenig/koenig16.jpg" alt="Koenig image" >}}
 {{< figure src="/images/koenig/koenig17.jpg" alt="Koenig image" >}}
@@ -107,7 +111,7 @@ One of our favorite parts? The breaking of the glass!
 
 Adam stepped mightily on a glass, signifying celebration as guests share a big Mazel Tov. It's a reminder of how beautiful and fragile life can be and that relationships should always be treated with great care, love and respect. So many special elements filled with thoughtfulness and rich spiritual significant made this ceremony one to remember. Immediately after the ceremony, Lauren & Adam retired to a private room to share their first moments alone as husband and wife before rejoining the wedding celebration in a tradition called the Yichud!
 
-{{< section-row >}}
+{{< section-row "mt-4 mb-4" >}}
 
 {{< figure src="/images/koenig/koenig18.jpg" alt="Koenig image" >}}
 {{< figure src="/images/koenig/koenig19.jpg" alt="Koenig image" >}}
@@ -126,7 +130,7 @@ Adam stepped mightily on a glass, signifying celebration as guests share a big M
 
 Last but not least, the reception to end all parties! Their bridal party pulled out all the stops for best entrance dance moves. The Andrew Blake Band played absolutely incredible cover music and Sobol family friends performed a surprise song for the first dance, mother/son & father/daughter dances. The daughter is fresh off Broadway's Sound of Music!! So amazing. 
 
-{{< section-row >}}
+{{< section-row "mt-4 mb-4" >}}
 
 {{< figure src="/images/koenig/koenig30.jpg" alt="Koenig image" >}}
 {{< figure src="/images/koenig/koenig31.jpg" alt="Koenig image" >}}
@@ -138,7 +142,7 @@ Last but not least, the reception to end all parties! Their bridal party pulled 
 
 The absolute best part was the Jewish chair dance, or "hora" that came out of nowhere. As we were enjoying the reception, a song came on that magically prompted all family and friends to link arms around each other, dance in concentric circles, and start lifting Lauren and Adam into the air bouncing on chairs! Oh my goodness. I will never forget that lively dance. Even Jody & Todd got a turn in this unforgettable dance.
 
-{{< section-row >}}
+{{< section-row "mt-4 mb-4" >}}
 
 {{< figure src="/images/koenig/koenig35.jpg" alt="Koenig image" >}}
 {{< figure src="/images/koenig/koenig36.jpg" alt="Koenig image" >}}
@@ -151,7 +155,7 @@ The absolute best part was the Jewish chair dance, or "hora" that came out of no
 
 Last but not least, a few sunset photos because there is nothing more magical to end a wedding day.
 
-{{< section-row >}}
+{{< section-row "mt-4 mb-4" >}}
 
 {{< figure src="/images/koenig/koenig41.jpg" alt="Koenig image" >}}
 {{< figure src="/images/koenig/koenig42.jpg" alt="Koenig image" >}}

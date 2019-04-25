@@ -36,11 +36,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo {
-  width: 220px;
+  width: 350px;
 }
 
 .logo-mobile {
-  width: 200px;
+  width: 250px;
 }
 
 .hamburger .hamburger-inner, .hamburger .hamburger-inner::before, .hamburger .hamburger-inner::after {
@@ -66,6 +66,18 @@ h1, h2, h3, h4, h5, h6 {
 .main-menu > ul > li > a:hover {
   background: #E2CFCF;
 }
+
+a {
+  color: #e2a549;
+  opacity: 0.83;
+  transition: .4s ease;
+  &:hover {
+    color: #e2a549;
+    opacity: 1;
+  }
+}
+
+
 
 
 .page-home {
