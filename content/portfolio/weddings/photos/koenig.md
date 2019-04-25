@@ -1,7 +1,7 @@
 ---
 title: "Lauren & Adam | Chicago Renaissance Wedding Photography"
 date: 2018-06-24T23:54:11-05:00
-draft: true
+draft: false
 heroHeading: 'Lauren & Adam'
 heroSubHeading: 'Chicago, Illinois'
 heroBackground: '/images/koenig/IMG_0564.jpg'

@@ -1,7 +1,7 @@
 ---
 title: "Muzairra Family | Chicago Women's Park Family Photography"
 date: 2019-04-20T23:54:11-05:00
-draft: true
+draft: false
 heroHeading: 'Muzzaira Family'
 heroSubHeading: 'Chicago, Illinois'
 heroBackground: '/images/muzairra/IMG_1587.jpg'
@@ -20,14 +20,14 @@ We lucked out as the park happened to be setting up for a community Easter Egg h
 
 {{< figure src="/images/muzairra/IMG_1603.jpg" alt="muzairra image" >}}
 {{< figure src="/images/muzairra/IMG_1626.jpg" alt="muzairra image" >}}
-{{< figure src="/images/muzairra/muzairra2.jpg" alt="muzairra image" >}}
+{{< figure src="/images/muzairra/muzzaira2.png" alt="muzairra image" >}}
 {{< figure src="/images/muzairra/IMG_1588.jpg" alt="muzairra image" >}}
 {{< figure src="/images/muzairra/IMG_1662.jpg" alt="muzairra image" >}}
-{{< figure src="/images/muzairra/muzairra1.jpg" alt="muzairra image" >}}
+{{< figure src="/images/muzairra/muzairra1.png" alt="muzairra image" >}}
 {{< figure src="/images/muzairra/IMG_1638.jpg" alt="muzairra image" >}}
 {{< figure src="/images/muzairra/IMG_1604.jpg" alt="muzairra image" >}}
 {{< figure src="/images/muzairra/IMG_1746.jpg" alt="muzairra image" >}}
-{{< figure src="/images/muzairra/muzairra3.jpg" alt="muzairra image" >}}
+{{< figure src="/images/muzairra/muzzaira3.png" alt="muzairra image" >}}
 {{< figure src="/images/muzairra/IMG_1700.jpg" alt="muzairra image" >}}
 
 {{< /section-row >}}
