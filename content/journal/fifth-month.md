@@ -3,7 +3,7 @@ title: "Noah’s 5th Month"
 date: 2019-04-10T23:37:53-05:00
 draft: false
 heroHeading: 'Noah’s 5th Month'
-thumbnail: '/images/journal/noahfifthmonth/Noah_Month_5-064.jpg'
+thumbnail: 'images/journal/noahfifthmonth/Noah_Month_5-064.jpg'
 ---
 
 {{< section-row "mt-4 mb-4" >}}

@@ -77,6 +77,36 @@ a {
   }
 }
 
+.journal-item {
+  .journal-cover-image {
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+  }
+  .journal-text {
+    background-color: #e9e9e9c4;
+    .hero-title{
+      font-family: 'Cardo', serif;
+      font-style: italic;
+      font-size: calc(18px + (20 - 18) * ((100vw - 300px) / (1900 - 300)));
+      font-weight: 400;
+    }
+    .hero-date {
+      font-family: 'Muli', sans-serif;
+      font-weight: 300;
+      font-size: calc(10px + (12 - 10) * ((100vw - 300px) / (1900 - 300)));
+      opacity: 0.8;
+    }
+    .hero-content {
+      font-size: calc(12px + (14 - 12) * ((100vw - 300px) / (1900 - 300)));
+    }
+    .button {
+      font-size: calc(12px + (14 - 12) * ((100vw - 300px) / (1900 - 300)));
+    }
+  }
+}
+
 
 
 
@@ -120,6 +150,17 @@ img.image-border {
 .button {
   font-family: 'Muli', sans-serif;
   font-weight: 300;
+  background: transparent;
+  border: 1px solid #e2a549;
+  color: #888888;
+  transition: .4s ease;
+  opacity: 0.83;
+  &:hover {
+    background: #FFFFFF;
+    border: 1px solid #888888;
+    color: #888888;
+    opacity: 1;
+  }
 }
 
 .about-us-homepage {
@@ -154,6 +195,7 @@ h2.review-title {
 
 .hero-image {
   background-blend-mode: unset;
+  background-color: transparent;
 }
 
 .hero-image-setheight {

@@ -1,7 +1,7 @@
 ---
 title: "Halvorsen Family | Chicago West Loop Family Photography"
 date: 2018-06-16
-draft: true
+draft: false
 heroHeading: 'Halvorsen Family'
 heroSubHeading: 'Chicago, Illinois'
 heroBackground: '/images/halvorsen/IMG_9881.jpg'

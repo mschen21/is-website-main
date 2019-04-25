@@ -1,21 +1,18 @@
-baseURL = "/"
+baseURL = "https://ivanasteven.com/"
 languageCode = "en-us"
 title = "Ivana & Steven"
 theme = "hugo-hero-theme"
 
 [params]
-  google_analytics_id=""
+  google_analytics_id="UA-99821839-1"
 
   [params.homepage_meta_tags]
     meta_description = "Ivana and Steven are a husband &amp; wife photographer duo. We are natural light Chicago and destination wedding &amp; family photographers."
     meta_og_title = "Ivana &amp; Steven Photography"
     meta_og_type = "website"
-    meta_og_url = "/"
+    meta_og_url = "https://ivanasteven.com/"
     meta_og_image = "/"
     meta_og_description = "Ivana and Steven are a husband &amp; wife photographer duo. We are natural light Chicago and destination wedding &amp; family photographers."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
 	name = "Home"
