@@ -50,12 +50,12 @@
 
 {{ $reviews := where (where .Site.RegularPages "Type" "reviews") ".Params.featured" true }}
 {{if gt (len $reviews) 0}}
-<div class="container pt-8 pb-md-5 pt-md-14">
+<div class="container pt-8 pb-md-5 pt-md-6">
   <div class="row justify-content-start">
     <div class="col-12">
-      <h1 class="main-page-header text-capitalize text-center mb-3">the heart of our business</h2>
+      <h1 class="main-page-header text-capitalize text-center mb-3">kind words</h2>
     </div>
-    <div class="reviews-carousel col-12">
+    <div class="reviews-carousel d-flex align-items-center col-12">
       {{ range first 6 (sort $reviews ".Params.weight") }}
         {{ .Render "summary" }}
       {{ end }}

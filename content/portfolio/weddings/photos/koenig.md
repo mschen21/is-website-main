@@ -4,8 +4,8 @@ date: 2018-06-24T23:54:11-05:00
 draft: false
 heroHeading: 'Lauren & Adam'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: '/images/koenig/IMG_0564.jpg'
-thumbnail: '/images/koenig/koenig41-300.jpg'
+heroBackground: 'images/koenig/IMG_0564.jpg'
+thumbnail: 'images/koenig/koenig41-300.jpg'
 ---
 
 {{% vendor-list color="dbdbdb" %}}

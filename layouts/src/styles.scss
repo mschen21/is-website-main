@@ -173,6 +173,10 @@ img.image-border {
   }
 }
 
+.slick-initialized .slick-slide{
+  display: flex !important;
+}
+
 .review-image {
   border-top: 1px solid #979797;
   border-bottom: 1px solid #979797;

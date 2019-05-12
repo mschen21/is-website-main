@@ -8,7 +8,7 @@ thumbnail: 'images/journal/noahfourthmonth/IMG_0435.jpg'
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5_Cover.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/IMG_0435.jpg" alt="Noah Fifth Month image" >}}
 
 {{< /section-row >}}
 
@@ -44,134 +44,305 @@ Noah loves hanging out in his crib. He’s started hugging the stuffed animals, 
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/noah5-2.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah5-4.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-020.jpg" alt="Noah Fifth Month image" >}}
-
+{{< figure src="/images/journal/noahfourthmonth/noah1.jpg" alt="Noah fourth Month image" >}}
 {{< /section-row >}}
 
-It’s wild even reminiscing on one month’s worth of photos as I can literally see his hair grow longer as the month progresses and clothes he fit into in the earlier weeks actually don’t fit anymore. In fact, Steven tried stuffing him into one of our favorite grey onesies and it ripped. RIP onesie.
+Morning cuddles are the best.
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-006.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-003.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-We take Noah on all the adventures of our normal lives and he is such a delight. Below is when we went to dim sum at Mayflower Restaurant and when we are sitting in the back seat together. He started grabbing his own pacifier and taking it out of his mouth. Developing hand eye coordination already!!
+The morning after Noah slept 12 hours in a row for the first time. 
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/noah5-5.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/IMG_4817-ANIMATION.gif" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-004.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-At the beginning of the month, he was eating a variety of fingers except his thumb. By the end of the month, he found his thumb and now that he has “explored” his entire hand, he’s moved on to any other object in his reach. Such an observant and adventurous little buddy :)
+We had a date with baby Trevor at The Field Museum! His mom, Kelli, and I were orientation leaders at IU together and it’s been so fun reconnecting after years lived in Chicago together. The boys are only 2 weeks apart and it was the cutest watching them hang out (during the small period of time they were both awake) ;) 
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-027.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-026.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-018.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-011.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/noah9.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-007.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-006.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-Noah makes us laugh. Whether it’s his funny faces or random spit up moments, no two days are quite the same.
+Noah celebrated his first Chinese New Year!! We celebrated by placing a red envelope filled with no money on his stomach. He still seemed pretty happy :D
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/noah5-8.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-010.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-He had some fun times meeting new friends!
+During this month, Noah officially left the world of double digit days and turned 100 days!
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-030.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-007.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-012.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-013.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-023.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-061.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-And of course, seeing one of his favorite aunts, Aunt Karen! We had great Korean food while Steven’s family was in town at Ahjoomah’s Apron. 
+It’s true. Noah looks a lot more like Steven than me. I’m okay with it :)
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/noah5-9.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/noah10.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-Noah loves to match me & Steven. Always by choice of course. ;)
+When Noah discovers the Photobooth feature on the iPad…or rather, I introduced it to him XD
+
+Noah_Month 4-014.jpg
+Noah_Month 4-016.jpg
+Noah_Month 4-015.jpg
+
+Big fan of this tropical bedsheet from [Babiease](https://www.etsy.com/shop/Babiease)!
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/noah5-3.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah5-6.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-018.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-Noah loves going to the library where he can meet lots of new friends and play with new toys. Yep, he built that block tower all by himself!!! ;) 
+We had a fun family expedition to the Garfield Park Conservatory for their “Sweet Saturday” event! This day featured tastings of sweets like cinnamon, molasses, papaya, and chocolate. They are all grown in the conservatory! With free entrance and parking, this place is such a gem especially in the Chicago winter. 
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-039.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/noah5-7.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-035.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/noah2.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-He always gets lots of quality Facetime with his grandparents, aunts and uncles who live in Indiana.
+Noah slept the entire time (probably because it felt like a nice warm sauna), so it kind of felt like a date for us (+a stroller)!
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/noah5-10.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/noah3.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-Our little adventurer. 
+They had a table with “poems written while you wait” where you give them a 1-2 word topic, walk around for 15-20 minutes, and when you come back, there is a poem written for you from a typewriter! Coolest idea ever. Naturally, I provided the topic of “Noah Baby,” and I was SHOOK by this beautiful poem. It literally gave me goosebumps and I’ll be framing this for his nursery. 
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-044.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/noah4.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-One day out of nowhere, Noah started being able to frown and make this adorable pouting face. It is so funny and cute.
+I’m blessed that my coworkers are also my friends and are also walking through the fun stage of new babies, older babies, and a baby to be! We got brunch together at [Carbon Arc Bar](https://www.davistheater.com/carbon-arc-bar/) and it was so fun to have our first outing with fellow babies with them.
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-082.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/IMG_3647.JPG" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/IMG_3578-ANIMATION.gif" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-026.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-I won’t lie. This month I feel extra sentimental because I’m in the last week of my maternity leave. I know, I am SO grateful for the past 6 months I’ve been able to savor with Noah (both outside of and inside my belly). It just flew by so quickly. It’s been the most incredible time and I know I appreciate it so much *because* I have to go back to work. I will miss Noah so much during the day, but am so grateful that my mother in law will be caring for him. 
-
-Stay young forever, my love.
+Baby Jack was born just 10 days before Noah!
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-045.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-046.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-047.jpg" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-027.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
 
-Happiest of 5 months to our Noah bear. We know the next month will be just as transformational and we feel so blessed to be your parents <3
+Noah’s smile is so heartwarming.
 
 {{< section-row "mt-4 mb-4" >}}
 
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-056.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/noah5-11.jpg" alt="Noah Fifth Month image" >}}
-{{< figure src="/images/journal/noahfourthmonth/Noah_Month_5-060-ANIMATION.gif" alt="Noah Fifth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/noah11.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-032.jpg" alt="Noah fourth Month image" >}}
 
 {{< /section-row >}}
+
+Noah even got to meet my oldest friend from childhood, Kimberly and her mom! Kimberly had a spontaneous business trip to Chicago from NYC so her mom drove in from Indiana and it was the best getting to reunite. We’ve been friends for two decades. What is sweeter than that!
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-033.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+{{< image-row-column "mt-4 mb-4" >}}
+
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-030.jpg" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-029.jpg" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+{{< /image-row-column >}}
+
+Over Valentine’s Day weekend, Steven’s family came in town, giving us a rare opportunity to go out together! <3 We celebrated with a romantic dinner at [Sofi](https://www.sofichicago.com/) and are so grateful for that time. We actually didn’t have a reservation and every table was booked. We felt impending disappointment on the horizon when the manager came over and said he would be able to get us in. Seriously?! Night made :)
+
+The focaccia bread starter and Steven’s lobster linguini were absolutely tremendous. Would recommend 10/10!
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/noah5.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+For dessert, we had a [Gordo’s](http://gordosicecream.com/) strawberry ice cream bar with a chocolate shell dipped in Heath bar and Oreo. Amazing and also would recommend 10/10.
+
+Going on dates now as parents is tinged with bittersweet feelings (at least for now). You find yourself missing your baby and talking about him even though you’re celebrating time away to invest in your marriage. It’s hard to imagine life without Noah now. As a parent, your child(ren) are probably always in the back of your mind the rest of your life. Whoa! 
+
+Noah_Month 4-037.jpg
+
+Noah is Steven’s little twin. My favorite boys :) 
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/noah6.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-049.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-041.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-057.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/noah12.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+Our friends, Wanchen & Chris had a baby girl named Lydia at the end of 2018! She is growing so fast she’s actually bigger and heavier than little Noah already.
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-038.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+My friend, Min, was also in Chicago for the weekend. I loved getting lunch with her and having her meet Noah. He loved hanging with her!
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-040.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+I had the honor of being one of 25 distinguished alumni from the College of Arts & Sciences at IU for a career development event! It was an honor to speak on a few panels to students and so great to be back in Bloomington with Steven and Noah for the first time! We dropped by home to visit my parents and Noah got to meet one of Steven’s good friends, Alex!
+
+{{< image-row-column "mt-4 mb-4" >}}
+
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/image-3.png" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-043.jpg" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-044.jpg" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+
+{{< /image-row-column >}}
+
+My mom put Noah in this ridiculous yellow vest…haha!
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/IMG_1921-ANIMATION.gif" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+Touring campus with my sister, Eunice, who is a student at IU right now! Special thanks to her as she watched Noah during some of our time in Bloomington.
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-045.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+{{< image-row-column "mt-4 mb-4" >}}
+
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-047.jpg" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-048.jpg" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+
+{{< /image-row-column >}}
+
+
+Steven and I got to attend the College of Arts & Sciences banquet honoring truly amazing alum who won awards for achievements like leading brand partnerships at the Ellen DeGeneres Show, winning the James Beard Restaurant Award, and more. So inspired!
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-050.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+
+We also met up with baby Canaan, who was born one day after Noah! Fun little playdate :) We even had the honor of inheriting some of his old clothes because he’s already a few pounds heavier than Noah.  (2 column)
+
+{{< image-row-column "mt-4 mb-4" >}}
+
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/IMG_1941-ANIMATION.gif" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/IMG_1952-ANIMATION.gif" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+
+{{< /image-row-column >}}
+
+On our drive back to Chicago, we stopped by our rival college, Purdue University, to see my sister, Beth! Our family friend, Silvia, was also there :) It’s wild that all of my siblings live in different cities, so it’s actually pretty rare that I get to see all of them in one weekend.
+
+{{< image-row-column "mt-4 mb-4" >}}
+
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-052.jpg" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-053.jpg" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+
+{{< /image-row-column >}}
+
+Being that embarrassing mom…but also loving these silly filters.
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/noah8.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/Noah_Month4-056.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+I can’t get over Noah’s laughing face when being tickled. Pure joy.
+
+{{< image-row-column "mt-4 mb-4" >}}
+
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/IMG_2069-ANIMATION.gif" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+{{% image-column %}}
+{{< figure src="/images/journal/noahfourthmonth/IMG_2068-ANIMATION.gif" alt="Noah fourth Month image" >}}
+{{% /image-column %}}
+
+{{< /image-row-column >}}
+
+I attend a mom’s small group at my church and it’s fun to see Noah with all the little ones each week. Sweet one year old Bella loves babies and wanted to hold Noah even though they are basically the same size. It’s adorable.. She was so sweet and loved putting Noah’s pacifier in his mouth every time it dropped out. :)
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/noah7.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
+
+Can’t believe Noah is 4 months! Our prayer is that Noah would continue to stay healthy, sleep well, love those around him and get to experience the most life-giving gift: a personal relationship with God someday. He is the greatest gift from God and our hearts overflow with thankfulness that we get the privilege of being his mom and dad.
+
+{{< section-row "mt-4 mb-4" >}}
+
+{{< figure src="/images/journal/noahfourthmonth/IMG_0452.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/IMG_0438.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/IMG_0435.jpg" alt="Noah fourth Month image" >}}
+{{< figure src="/images/journal/noahfourthmonth/IMG_0482.jpg" alt="Noah fourth Month image" >}}
+
+{{< /section-row >}}
+
 
 Keep up with Noah’s monthly milestones below!
 

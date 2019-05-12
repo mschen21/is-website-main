@@ -1,7 +1,7 @@
 ---
 title: 'Lauren & Derek | Chicago Wedding Photography'
 date: 2016-06-11T23:54:11-05:00
-draft: false
+draft: true
 heroHeading: 'Lauren & Derek'
 heroSubHeading: 'Chicago, Illinois'
 heroBackground: '/images/vajda/hero.jpg'
