@@ -177,6 +177,13 @@ img.image-border {
   display: flex !important;
 }
 
+.slick-arrow {
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  padding: 1em;
+}
+
 .review-image {
   border-top: 1px solid #979797;
   border-bottom: 1px solid #979797;
@@ -321,6 +328,10 @@ h2.review-title {
 @media (min-width: 325px) { 
   .carousel .slick-track, .hero-image .slick-track {
     height: 400px;
+  }
+  .image-border-offset {
+    width: 294px;
+    height: 430px;
   }
  }
 
