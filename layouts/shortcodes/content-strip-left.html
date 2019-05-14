@@ -8,7 +8,7 @@
   style="background-image: url(' {{ .Params.background | relURL }} ');">
   <div class="container">
     <div class="row justify-content-between">
-      <div class="order-2 order-md-1 col-12 col-md-6">
+      <div class="order-2 order-md-1 col-12 col-md-6 content">
         {{ .Content }}
         {{ if .Params.button }}
         <a class="button button-primary" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button}}</a>

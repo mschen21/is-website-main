@@ -1,0 +1,9 @@
+{{ $customClass := .Get 0 }}
+
+<section>
+    <div class="row pl-2 pr-2 pl-sm-0 pr-sm-0">
+      <div class="container {{ with $customClass }}{{ $customClass }}{{ end }}">
+        {{ .Inner }}
+      </div>
+  </div>
+</section>

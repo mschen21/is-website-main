@@ -6,11 +6,7 @@ heroHeading: 'Noah’s 6th Month'
 thumbnail: 'images/journal/noahsixthmonth/NoahCover2.jpg'
 ---
 
-{{< section-row "mt-4 mb-4" >}}
-
 {{< figure src="/images/journal/noahsixthmonth/NoahCover2.jpg" alt="Noah Sixth Month image" >}}
-
-{{< /section-row >}}
 
 Never enough time. After returning to work, I never feel like I have enough with Noah. 
 
@@ -31,88 +27,57 @@ All in all, this sixth month brought so much delight and newfound joy with our l
 - Lights up and smiles at all strangers or at his parents when we come home from work
 - Adores dancing to the macarena and playing with his reflection in the mirror with mommy
 
+
 One of the best things while I'm at work is receiving photos of happy Noah (even when they're blurry)!
 
-{{< section-row "mt-4 mb-4" >}}
-
-{{< figure src="/images/journal/noahsixthmonth/Noah Month 6-004.jpg" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/Noah%20Month%206-004.jpg" alt="Noah sixth Month image" >}}
 {{< figure src="/images/journal/noahsixthmonth/IMG_3902-ANIMATION.gif" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/Noah Month 6-006.jpg" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/Noah Month 6-015.jpg" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/Noah%20Month%206-006.jpg" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/Noah%20Month%206-015.jpg" alt="Noah sixth Month image" >}}
 {{< figure src="/images/journal/noahsixthmonth/IMG_0223-ANIMATION.gif" alt="Noah sixth Month image" >}}
-
-{{< /section-row >}}
 
 I also traveled away from Noah overnight for the first time for my friend's bachelorette party in Austin. It was hard to figure out the milk situation and so strange to be on Facetime with my own baby! It warmed my heart though and Noah survived just fine with his dad and grandma! 
 
 I love seeing Noah and his daddy together <3 
 
-{{< section-row "mt-4 mb-4" >}}
-
 {{< figure src="/images/journal/noahsixthmonth/noah2.jpg" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/Noah Month 6-021.jpg" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/Noah%20Month%206-021.jpg" alt="Noah sixth Month image" >}}
 {{< figure src="/images/journal/noahsixthmonth/noah3.jpg" alt="Noah sixth Month image" >}}
 {{< figure src="/images/journal/noahsixthmonth/noah4.jpg" alt="Noah sixth Month image" >}}
 {{< figure src="/images/journal/noahsixthmonth/noah5.jpg" alt="Noah sixth Month image" >}}
 
-{{< /section-row >}}
-
 At Google, we had a "Take Your Kids to Work Day"! Obviously Noah had to come and experience Google breakfast (blackberries and raspberries for him), get photographed for his Google badge, and meet an Android!
 
-{{< section-row "mt-4 mb-4" >}}
-
-{{< figure src="/images/journal/noahsixthmonth/Noah_Month_6-135.jpg" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/Noah1.jpg" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/IMG_4866-ANIMATION.jpg" alt="Noah sixth Month image" >}}
-
-{{< /section-row >}}
+{{< figure src="/images/journal/noahsixthmonth/Noah%20Month%206-135.jpg" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/noah1.jpg" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/IMG_4866-ANIMATION.gif" alt="Noah sixth Month image" >}}
 
 Selfies are getting harder to take with Noah now that he loves to grab everything in sight (like our phones). 
 
-{{< section-row "mt-4 mb-4" >}}
-
-{{< figure src="/images/journal/noahsixthmonth/Noah3.jpg" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/Noah Month 6-003.gif" alt="Noah sixth Month image" >}}
-
-{{< /section-row >}}
+{{< figure src="/images/journal/noahsixthmonth/noah3.jpg" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/Noah%20Month%206-003.jpg" alt="Noah sixth Month image" >}}
 
 Noah is already a good eater and loves trying foods! Fruit is his favorite :)
 
-{{< section-row "mt-4 mb-4" >}}
-
-{{< figure src="/images/journal/noahsixthmonth/IMG_4787-ANIMATION.jpg" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/IMG_3912-ANIMATION.jpg" alt="Noah sixth Month image" >}}
-
-{{< /section-row >}}
+{{< figure src="/images/journal/noahsixthmonth/IMG_4787-ANIMATION.gif" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/IMG_3912-ANIMATION.gif" alt="Noah sixth Month image" >}}
 
 We celebrated Noah's first Easter!
 
-{{< section-row "mt-4 mb-4" >}}
-
-{{< figure src="/images/journal/noahsixthmonth/IMG_5020-ANIMATION.jpg" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/IMG_1885.JPG" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/IMG_1893.JPG" alt="Noah sixth Month image" >}}
-
-{{< /section-row >}}
+{{< figure src="/images/journal/noahsixthmonth/IMG_5020-ANIMATION.gif" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/IMG_1885.jpg" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/IMG_1893.jpg" alt="Noah sixth Month image" >}}
 
 Noah is so blessed to have so much family that loves him and loves Facetiming with him!
 
-{{< section-row "mt-4 mb-4" >}}
-
 {{< figure src="/images/journal/noahsixthmonth/noah8.jpg" alt="Noah sixth Month image" >}}
-
-{{< /section-row >}}
 
 Happy half birthday, Noah :) We can't believe you're now closer to 1 year old than to when you were born. You are curious, sweet, and fun. Our little adventurer that we can't imagine living without. 
 
-{{< section-row "mt-4 mb-4" >}}
-
 {{< figure src="/images/journal/noahsixthmonth/noah6.jpg" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/IMG_4239-AMIMATION.gif" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/Noah_Month_6-037.jpg" alt="Noah sixth Month image" >}}
-{{< figure src="/images/journal/noahsixthmonth/Noah_Month_6-096.jpg" alt="Noah sixth Month image" >}}
-
-{{< /section-row >}}
+{{< figure src="/images/journal/noahsixthmonth/IMG_4239-ANIMATION.gif" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/Noah%20Month%206-037.jpg" alt="Noah sixth Month image" >}}
+{{< figure src="/images/journal/noahsixthmonth/Noah%20Month%206-096.jpg" alt="Noah sixth Month image" >}}
 
 Keep up with Noah’s monthly milestones below!
 
