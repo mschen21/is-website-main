@@ -3,7 +3,7 @@ title: "Noah’s 6th Month"
 date: 2019-05-10T23:37:53-05:00
 draft: false
 heroHeading: 'Noah’s 6th Month'
-thumbnail: 'images/journal/noahsixthmonth/NoahCover2.jpg'
+thumbnail: 'images/journal/noahsixthmonth/Noah Month 6-076.jpeg'
 ---
 
 {{< figure src="/images/journal/noahsixthmonth/NoahCover2.jpg" alt="Noah Sixth Month image" >}}

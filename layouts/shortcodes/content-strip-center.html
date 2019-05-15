@@ -8,7 +8,7 @@
     <div class="strip bg-position-top bg-overlay" style="background-image: url(' {{ .Params.background | relURL }}'); {{if .Params.height}}height: {{.Params.height}}{{end}}">
       <div class="container about-us-cover">
         <div class="row justify-content-center">
-          <div class="col-12 col-md-6 text-center content">
+          <div class="col-12 col-md-6 text-center">
             {{ .Content }}
             {{ if .Params.button }}
                 <a class="button button-white" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>

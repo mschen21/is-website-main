@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
   font-style: italic;
 }
 
-.content ul > li:before, .portfolio ul > li:before {
+.content ul > li:before, .portfolio ul > li:before, .style-list > ul > li:before {
   content: "+";
   margin-right: 4px;
 }
