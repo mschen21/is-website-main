@@ -4,6 +4,7 @@ date: 2019-03-10T23:37:53-05:00
 draft: false
 heroHeading: 'Noah’s 4th Month'
 thumbnail: 'images/journal/noahfourthmonth/Noah_Week_17_Month 4-020.jpeg'
+tags: 'noah'
 ---
 
 {{< figure src="/images/journal/noahfourthmonth/IMG_0435.jpg" alt="Noah Fifth Month image" >}}

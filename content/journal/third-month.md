@@ -4,6 +4,7 @@ date: 2019-02-10T23:37:53-05:00
 draft: false
 heroHeading: 'Noah’s 3rd Month'
 thumbnail: 'images/journal/noahthirdmonth/Noah_3rd Month_13 Weeks-021.jpeg'
+tags: 'noah'
 ---
 
 {{< figure src="/images/journal/noahthirdmonth/Noah3MonthCover.jpg" alt="Noah Third Month image" >}}

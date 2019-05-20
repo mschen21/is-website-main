@@ -31,14 +31,14 @@
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}
 {{ range first 1 $reusablePages }}
 <div id="home" class="strip bg-cover bg-position-top bg-overlay" style="background-color: {{ .Params.background}};">
-  <div class="container pl-2 pr-2 pl-md-0 pr-md-0 pt-2 pt-md-10 pb-10 about-us-homepage">
-    <div class="row align-items-center justify-content-between">
-      <div class="col-12 col-sm-4 col-md-6 mb-3 mb-md-0">
+  <div class="container pl-2 pr-2 pl-md-0 pr-md-0 pt-2 pt-md-10 pb-md-10 about-us-homepage">
+    <div class="row align-items-center justify-content-lg-between">
+      <div class="col-12 col-md-6 mb-3 mb-md-0 text-center">
         <h1 class="main-page-header text-capitalize">{{ .Title }}</h1>
         <p>{{ .Content }}</p>
         <a class="button buttonBackground" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
       </div>
-      <div class="col-12 col-md-4">
+      <div class="col-12 col-md-4 d-none d-md-block">
         <div class="image-border-offset">
           <img width="100%" src="{{ .Site.BaseURL}}{{ .Params.featuredImage }}" />
         </div>

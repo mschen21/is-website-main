@@ -23,6 +23,17 @@ h1, h2, h3, h4, h5, h6 {
   font-style: italic;
 }
 
+.footer {
+  .social-media {
+    a {
+      color: #FFF;
+      margin: 0 15px;
+    }
+    font-size: 1.5rem;
+  }
+  color: #FFF;
+}
+
 .content ul > li:before, .portfolio ul > li:before, .style-list > ul > li:before {
   content: "+";
   margin-right: 4px;
@@ -34,14 +45,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .header {
   height: 120px;
-}
-
-.page {
-  
-  .about-us-cover {
-    padding-top: 14em;
-    line-height: 1.38rem;
-  }
 }
 
 .logo {
@@ -229,7 +232,7 @@ button {
 
 h2.review-title {
   border-bottom: 1px solid #979797;
-  text-transform: uppercase;
+  text-transform: normal;
   font-family: 'Ovo', serif;
   font-style: italic;
   a {
@@ -367,6 +370,19 @@ h2.review-title {
     width: 294px;
     height: 430px;
   }
+  .page {
+    .about-us-cover {
+      padding-top: 5em;
+      line-height: 1.38rem;
+    }
+  }
+ }
+
+ @media (max-width: 768px) {
+  .review-image {
+    border: 0px;
+    padding: 0px;
+  }
  }
 
 // Medium devices (tablets, 768px and up)
@@ -377,6 +393,12 @@ h2.review-title {
 @media (min-width: 992px) {
   .carousel .slick-track, .hero-image .slick-track {
     height: 85vh;
+  }
+  .page {
+    .about-us-cover {
+      padding-top: 14em;
+      line-height: 1.38rem;
+    }
   }
 }
 
