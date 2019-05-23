@@ -242,8 +242,12 @@ h2.review-title {
 }
 
 .hero-image {
-  background-blend-mode: unset;
+  background-blend-mode: soft-light;
   background-color: transparent;
+}
+
+.portfolio-single p {
+  font-size: 1.03rem;
 }
 
 .hero-image-setheight {

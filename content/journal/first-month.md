@@ -3,7 +3,7 @@ title: "Noah’s 1st Month"
 date: 2018-12-10T23:37:53-05:00
 draft: false
 heroHeading: 'Noah’s 1st Month'
-thumbnail: 'images/journal/noahfirstmonth/Noah_Week4_Finn+Emma-042.jpg'
+thumbnail: 'images/journal/noahfirstmonth/NoahWeek4FinnEmma-042.jpg'
 tags: 'noah'
 ---
 
@@ -134,7 +134,7 @@ Noah had the honor of attending my sister Beth’s wedding on 11/24! He’s so p
 {{% /image-column %}}
 {{< /image-row-column >}}
 
-{{< figure src="/images/journal/noahfirstmonth/ChenFamily11.24.18-BMWWedding2.jpg" alt="Noah First Month image" >}}
+{{< figure src="/images/journal/noahfirstmonth/ChenFamilyGroupPhoto.jpg" alt="Noah First Month image" >}}
 
 One of the most confusing things I’ve encountered numbering Noah’s days is the fact that turning 4 weeks doesn’t equal turning 1 month! I had been counting every Monday on being the next weekly milestone, yet his 1 month technically fell on Thursday. It probably sounds very simple reading this, but I seriously had to ponder this out loud to understand how this could be the case. Can any other moms relate?!
 

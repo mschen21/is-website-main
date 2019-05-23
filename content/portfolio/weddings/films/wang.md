@@ -4,8 +4,8 @@ date: 2017-08-19T23:54:11-05:00
 draft: false
 heroHeading: 'Elizabeth & Michael'
 heroSubHeading: 'Carmel, Indiana'
-heroBackground: '/images/wang/wang-hero-full.jpg'
-thumbnail: '/images/wang/wang-hero-small.jpg'
+heroBackground: 'images/wang/wang-hero-full.jpg'
+thumbnail: 'images/wang/wang-hero-small.jpg'
 ---
 
 {{% vendor-list color="dbdbdb" %}}
@@ -33,7 +33,8 @@ Music // [Circle City Sound DJ](https://indydj.com/)
 {{% /vendor-list %}}
 
 It's been only a few months since Elizabeth Huang and Michael Wang's amazing wedding day, but it feels like just yesterday as we are ready to share their full length feature film! We love you guys so much and hope this helps you relive the day again and again.
-
+<br/>
+<br/>
 {{% section-row %}}
 
 {{< vimeo 304870563 >}}
