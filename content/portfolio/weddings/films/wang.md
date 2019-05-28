@@ -1,5 +1,5 @@
 ---
-title: Elizabeth & Michael | Ritz Charles Wedding Film"
+title: 'Elizabeth & Michael | Ritz Charles Wedding Film'
 date: 2017-08-19T23:54:11-05:00
 draft: false
 heroHeading: 'Elizabeth & Michael'
