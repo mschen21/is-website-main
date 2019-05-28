@@ -39,6 +39,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 4px;
 }
 
+.topFull {
+  background-position: top center !important;
+  height: 460px !important;
+}
+
 .portfolio ul {
   margin-bottom: 1rem;
 }
@@ -400,7 +405,7 @@ h2.review-title {
   }
   .page {
     .about-us-cover {
-      padding-top: 14em;
+      padding-top: 10em;
       line-height: 1.38rem;
     }
   }

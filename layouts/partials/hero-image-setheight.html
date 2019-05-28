@@ -1,6 +1,6 @@
-<div id="hero" class="hero-image hero-image-setheight" style="background-image: url('{{ .background | relURL }}')">
+<div id="hero" class="hero-image hero-image-setheight {{ .heroSize }}" style="background-image: url('{{ .background | relURL }}');">
   <div class="container justify-content-center align-items-center">
-    <div class="hero-title">{{ .heading }}</div>
-    <div class="hero-subtitle">{{ .subheading }}</div>
+    <h1 class="hero-title">{{ .heading }}</h1>
+    <h2 class="hero-subtitle">{{ .subheading }}</h2>
   </div>
 </div>
