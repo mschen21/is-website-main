@@ -1,0 +1,13 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-general-layout{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+
+<div class="general content-landing mt-5 mb-3">
+    <div class="container style-list">
+        {{ .Content | safeHTML }}
+    </div>
+</div>
+
+{{ end }}
