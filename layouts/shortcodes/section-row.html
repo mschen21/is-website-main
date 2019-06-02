@@ -2,6 +2,6 @@
 
 <section>
   <div class="container {{ with $customClass }}{{ $customClass }}{{ end }}">
-      {{ .Inner }}
+      {{ .Inner | markdownify}}
   </div>
 </section>

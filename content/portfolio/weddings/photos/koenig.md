@@ -1,5 +1,5 @@
 ---
-title: "Lauren & Adam | Chicago Renaissance Wedding Photography"
+title: 'Lauren & Adam | Chicago Renaissance Wedding Photography'
 date: 2018-06-24T23:54:11-05:00
 draft: false
 heroHeading: 'Lauren & Adam'
@@ -9,7 +9,6 @@ thumbnail: 'images/koenig/koenig41-300.jpg'
 ---
 
 {{% vendor-list color="dbdbdb" %}}
-
 Rehearsal Dinner // [Saranello's](http://saranellos.com/)
 
 Wedding & Reception Venue // [Renaissance Chicago North Shore Hotel by Marriott](https://www.marriott.com/hotels/travel/chinb-renaissance-chicago-north-shore-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
@@ -29,7 +28,6 @@ Groom & Groomsmen Suits // [Men's Wearhouse](https://www.menswearhouse.com/)
 Music // [The Andrew Blake Band](https://www.andrewblakeband.com/)
 
 Cake // [Oak Mill Bakery](http://www.oakmillbakery.com/)
-
 {{% /vendor-list %}}
 
 {{% section-row "text-center mb-md-2" %}}
