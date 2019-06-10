@@ -39,6 +39,16 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 4px;
 }
 
+.style-list > ol {
+  margin-left: 18px;
+  list-style-type: decimal;
+}
+
+.style-list > ol > li > ul > li:before {
+  content: "+";
+  margin-right: 4px;  
+}
+
 .topFull {
   background-position: top center !important;
   height: 107vh !important;
