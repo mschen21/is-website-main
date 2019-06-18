@@ -135,3 +135,5 @@ Last but not least, a few sunset photos because there is nothing more magical to
 {{< figure src="/images/koenig/koenig45.jpg" alt="Koenig image" >}}
 
 Adam & Lauren, we love you so much and are so excited for your lives as the Koenig's. Enjoy your first few months of marriage! We can't wait to walk by your side and experience many more memories together.
+
+{{< cta-button "I want this wedding" "https://ivanasteven.com/contact" >}}

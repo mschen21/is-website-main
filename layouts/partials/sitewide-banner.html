@@ -1,0 +1,7 @@
+{{ if and (.IsHome) (.Site.Params.sitewide_message) }}
+<div class="sitewide-container">
+    <div class="container text-center">
+            <a href="{{- .Site.Params.sitewide_url -}}"><span class="sitewide-message">{{- .Site.Params.sitewide_message -}}</span></a>
+    </div>
+</div>
+{{ end }}

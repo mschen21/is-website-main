@@ -1,8 +1,8 @@
 ---
-title: "Castro Family | Chicago Family Photography"
+title: "Castro In-Home Newborn Session | Chicago Family Photography"
 date: 2019-06-09T20:41:50-05:00
 draft: false
-heroHeading: 'Bella’s In-Home Newborn Session'
+heroHeading: 'Bella - Newborn Session'
 heroSubHeading: 'Chicago, Illinois'
 heroBackground: 'images/castro/P1044618.jpg'
 thumbnail: 'images/castro/P1044618.jpg'
@@ -11,7 +11,7 @@ headerPosition: 'topFull'
 
 {{% section-row "mt-3 mb-3" %}}
 
-After having a baby, our hearts have a special place for newborns. Their tiny fragile bodies and wide eyed wonder captivate us every time. What felt emotional for us is 10x that for baby Bella’s parents, Kristina and Tony. 
+After having a baby, our hearts have a special place for newborns. Their tiny fragile bodies and wide-eyed wonder captivate us every time. What felt emotional for us is 10x that for baby Bella’s parents, Kristina and Tony. 
 
 When we arrived at their home in the Chicago suburbs, Kristina, Tony, baby Bella, and Kristina’s parents greeted us. Something we love about babies is that they bring families together and it’s such a blessing for grandparents to step in and help out the tired parents during those first few weeks of raising baby. 
 

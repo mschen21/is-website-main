@@ -105,7 +105,7 @@ of the most memorable nights for all guests that night :)
 {{< figure src="/images/parham/parham37.jpg" alt="Parham Wedding Image" >}}
 {{< figure src="/images/parham/parham38.jpg" alt="Parham Wedding Image" >}}
 {{< figure src="/images/parham/parham39.jpg" alt="Parham Wedding Image" >}}
-{{< figure src="/images/parham/parham40.jpg" alt="Parham Wedding Image" >}}
+{{< figure src="/images/parham/parham40.png" alt="Parham Wedding Image" >}}
 {{< figure src="/images/parham/parham41.jpg" alt="Parham Wedding Image" >}}
 {{< figure src="/images/parham/parham42.jpg" alt="Parham Wedding Image" >}}
 {{< figure src="/images/parham/parham43.jpg" alt="Parham Wedding Image" >}}
