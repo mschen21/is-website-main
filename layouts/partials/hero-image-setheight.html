@@ -1,4 +1,4 @@
-<div id="hero" class="hero-image hero-image-setheight {{ .heroSize }}" style="background-image: url('{{ .background | relURL }}');">
+<div id="hero" class="hero-image hero-image-setheight {{ .heroSize }}" style="background-image: url('{{ .background | relURL }}'); {{with .heroPositionPercent}}background-position: {{.}};{{end}}">
   <div class="container justify-content-center align-items-center">
     <h1 class="hero-title">{{ .heading }}</h1>
     <h2 class="hero-subtitle">{{ .subheading }}</h2>

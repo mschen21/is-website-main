@@ -4,7 +4,7 @@ date: 2019-01-10T23:37:53-05:00
 draft: false
 heroHeading: 'Noah’s 2nd Month'
 thumbnail: 'images/journal/noahsecondmonth/Noah_Week8Christmas-012.jpg'
-tags: 'noah'
+categories: ["noah"]
 ---
 
 {{< figure src="/images/journal/noahsecondmonth/NoahMonth2.jpg" alt="Noah Second Month image" >}}
