@@ -7,7 +7,7 @@ layout: 'aboutlayout'
 <div>
 {{< content-strip-center "/pages/about" "content1" >}}
 </div>
-<div>
+<div><a id="learn-more"></a>
 {{< content-strip-right "/pages/about" "content2" >}}
 </div>
 <div>

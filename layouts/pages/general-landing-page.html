@@ -3,9 +3,18 @@
 {{ define "header_classes" }}{{ end }}
 
 {{ define "main" }}
+{{ if isset .Params "background" }}
+<div class="strip hero-image hero-image-setheight"
+  style="background-image: url(' {{ .Params.background }}');">
+  <div class="container justify-content-center align-items-center">
+    <h1 class="hero-title">{{ .Title }}</h1>
+  </div>
+</div>
+{{ else }}
+{{ end }}
 
 <div class="general content-landing mt-5 mb-3">
-    <div class="container style-list">
+    <div class="container style-list {{ with .Params.textalign }}{{ . }}{{ end }}">
         {{ .Content | safeHTML }}
     </div>
 </div>

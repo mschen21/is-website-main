@@ -4,15 +4,15 @@
 {{ define "header_classes" }}header-transparent{{ end }}
 
 {{ define "meta_tags" }}
-<meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
-<meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
-<meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type }}" />
-<meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url }}" />
-<meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image }}" />
-<meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description }}" />
-<meta name="twitter:card" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_card }}" />
-<meta name="twitter:site" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_site }}" />
-<meta name="twitter:creator" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_creator }}" />
+<meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description | safeHTML }}" />
+<meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title | safeHTML}}" />
+<meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type | safeHTML}}" />
+<meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url | safeHTML}}" />
+<meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image | safeHTML}}" />
+<meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description | safeHTML}}" />
+<meta name="twitter:card" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_card | safeHTML}}" />
+<meta name="twitter:site" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_site | safeHTML}}" />
+<meta name="twitter:creator" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_creator | safeHTML}}" />
 {{ end }}
 
 {{ define "main" }}
@@ -36,7 +36,7 @@
       <div class="col-12 col-md-6 mb-3 mb-md-0 text-center">
         <h1 class="main-page-header text-capitalize">{{ .Title }}</h1>
         <p>{{ .Content }}</p>
-        <a class="button buttonBackground" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+        <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
       </div>
       <div class="col-12 col-md-4 d-none d-md-block">
         <div class="image-border-offset">

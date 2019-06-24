@@ -1,13 +1,13 @@
 <div class="row review review-summary col-md-12">
   {{ if .Params.image }}
   <div class="review-image col-md-7">
-    <img width="100%" src="{{ .Site.BaseURL }}{{ .Params.image }}" data-src="{{ .Site.BaseURL }}{{ .Params.image }}"/>
+    <a href="{{ .Params.link }}"><img width="100%" src="{{ .Site.BaseURL }}{{ .Params.image }}" data-src="{{ .Site.BaseURL }}{{ .Params.image }}"/></a>
   </div>
   {{ end }}
   <div class="review-content col-md-5 d-flex flex-column align-self-end">
     <h2 class="review-title">
       <a href="{{ .Params.link }}">{{ .Title }}</a>
     </h2>
-    {{ .Content | truncate 150 "..." }}
+    {{ .Content }}
   </div>
 </div>

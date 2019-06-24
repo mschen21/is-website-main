@@ -7,10 +7,11 @@ button: ''
 
 ## ivana
 
-Avid documenter who loves to journal, reflect, and take a lot of pictures of food. Eager host to guests, but won't know how to make coffee given I'm a tea drinker. Big planner who loves to create agendas for vacations, birthdays, and surprise get-togethers. Can't watch anything scary unless you want me hiding behind pillows the whole time. Trying new recipes.
+Avid documenter who loves to journal, reflect, and take a lot of pictures of food. Eager host to guests, but won't know how to make coffee given I'm a tea drinker. Big planner who loves to create agendas for vacations, birthdays, and surprise get-togethers. Can't watch anything scary unless you want me hiding behind pillows the whole time.
 
 All time favorites:
 
+* Trying new recipes
 * All things Anthropologie
 * Magnolia banana pudding
 * Ramen and any food adventures

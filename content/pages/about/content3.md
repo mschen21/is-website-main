@@ -18,5 +18,5 @@ All time favorites:
 * Friends (TV show)
 * Stout beers
 * Smart home devices
-* start-up culture
+* Start-up culture
 * Upgrading home interiors

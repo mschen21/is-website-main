@@ -3,7 +3,7 @@ title: "Katherine & Andrew | West Loop Engagement Photography"
 date: 2018-02-25
 draft: false
 heroHeading: 'Katherine & Andrew'
-heroSubHeading: 'Chicago, Illinois'
+heroSubHeading: 'Engagement Photography in Chicago, Illinois'
 heroBackground: 'images/kandrew/kandrew1.jpeg'
 thumbnail: 'images/kandrew/kandrew1.jpeg'
 ---

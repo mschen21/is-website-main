@@ -11,12 +11,12 @@ theme = "hugo-hero-theme"
   sitewide_url="https://ivanasteven.com/contact"
 
   [params.homepage_meta_tags]
-    meta_description = "Ivana and Steven are a husband &amp; wife photography and filmmaker duo. We are based in Chicago but travel worldwide."
-    meta_og_title = "Ivana &amp; Steven | Photographer &amp; Filmmaker"
+    meta_description = "Ivana & Steven are a husband and wife photography & filmmaker duo. We are based in Chicago but travel worldwide."
+    meta_og_title = "Ivana & Steven | Photographer & Filmmaker"
     meta_og_type = "website"
     meta_og_url = "https://ivanasteven.com/"
     meta_og_image = "/"
-    meta_og_description = "Ivana and Steven are a husband &amp; wife photography and filmmaker duo. We are based in Chicago but travel worldwide."
+    meta_og_description = "Ivana & Steven are a husband and wife photography & filmmaker duo. We are based in Chicago but travel worldwide."
 
 [[menu.main]]
 	name = "Home"

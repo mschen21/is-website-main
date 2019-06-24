@@ -8,7 +8,7 @@ heroBackground: 'images/koenig/IMG_0564.jpg'
 thumbnail: 'images/koenig/koenig41-300.jpg'
 ---
 
-{{% vendor-list color="dbdbdb" %}}
+{{% vendor-list color="f1f1f1" %}}
 Rehearsal Dinner // [Saranello's](http://saranellos.com/)
 
 Wedding & Reception Venue // [Renaissance Chicago North Shore Hotel by Marriott](https://www.marriott.com/hotels/travel/chinb-renaissance-chicago-north-shore-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
