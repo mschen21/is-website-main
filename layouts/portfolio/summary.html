@@ -4,8 +4,8 @@
     style="background-image: url('{{ .Site.BaseURL }}{{ .Params.thumbnail }}'); {{with .Params.thumbnailPercent}}background-position: {{.}};{{end}}">
     {{ if .Params.heroHeading }}
     <div class="d-flex portfolio-image-overlay flex-column justify-content-center align-items-center">
-      <div class="hero-title mt-2">{{.Params.heroHeading}}</div>
-      <div class="hero-subtitle">{{.Params.heroSubHeading}}</div>
+      <div class="hero-title mt-2 ml-1 mr-1 ml-lg-0 mr-lg-0 text-center">{{.Params.heroHeading}}</div>
+      <div class="hero-subtitle mt-1 ml-1 mr-1 ml-lg-0 mr-lg-0 text-center">{{.Params.heroSubHeading}}</div>
       <div class="hero-info">view more</div>
     </div>
     {{ end }}

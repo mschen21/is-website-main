@@ -295,8 +295,9 @@ button {
     font-family: 'Playfair Display', serif;
     color: #FFF;
     font-style: italic;
+    line-height: 1.3rem;
     text-transform: lowercase;
-    font-size: 1.5rem;
+    font-size: calc(18px + (20 - 18) * ((100vw - 300px) / (1900 - 300)));
     font-weight: 400;
   }
   .hero-info {
@@ -311,7 +312,7 @@ button {
   .hero-subtitle {
     font-family: 'Muli', sans-serif;
     font-weight: 300;
-    line-height: .6rem;
+    line-height: 1rem;
     color: #FFF;
     transition: .4s ease;
     font-size: .75rem;
