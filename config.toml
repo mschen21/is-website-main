@@ -18,6 +18,10 @@ theme = "hugo-hero-theme"
     meta_og_image = "/"
     meta_og_description = "Ivana & Steven are a husband and wife photography & filmmaker duo. We are based in Chicago but travel worldwide."
 
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
 [[menu.main]]
 	name = "Home"
 	url = "/"

@@ -103,7 +103,7 @@ Happiest of 5 months to our Noah bear. We know the next month will be just as tr
 
 Keep up with Noah’s monthly milestones below!
 
-[Month 1](https://ivanasteven.com/journal/first-month) | [Month 2](https://ivanasteven.com/journal/second-month) | [Month 3](https://ivanasteven.com/journal/third-month) | [Month 4](https://ivanasteven.com/journal/fourth-month) | [Month 6](https://ivanasteven.com/journal/sixth-month)
+[Month 1](/journal/first-month) | [Month 2](/journal/second-month) | [Month 3](/journal/third-month) | [Month 4](/journal/fourth-month) | [Month 6](/journal/sixth-month)
 
 Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us). 
 

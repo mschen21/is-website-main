@@ -9,7 +9,7 @@ categories: ["noah"]
 
 {{< figure src="/images/journal/noahsecondmonth/NoahMonth2.jpg" alt="Noah Second Month image" >}}
 
-I can hardly believe Noah has doubled his lifespan since his [first month of life](https://ivanasteven.com/journal/noah-first-month/)! To me, he’s already looking like a little boy, not quite a baby anymore. Since turning 1 month, he’s started changing rapidly. Here are some of the changes we love:
+I can hardly believe Noah has doubled his lifespan since his [first month of life](/journal/noah-first-month/)! To me, he’s already looking like a little boy, not quite a baby anymore. Since turning 1 month, he’s started changing rapidly. Here are some of the changes we love:
 
 - Not crying during diaper changes anymore
 - He’s found his voice and loves to socialize with us with baby gurgles. Favorite sound: “ah goo” 
@@ -79,7 +79,7 @@ Can’t forget about tummy time! His neck strength is only getting stronger & st
 
 {{< figure src="/images/journal/noahsecondmonth/IMG_9116.jpg" alt="Noah Second Month image" >}}
 
-One of the biggest highlights from this month was visiting [LA over Christmas](https://ivanasteven.com/travel/christmas-in-la-2018/) with him. He rocked his first flight by sleeping and eating the whole time under my nursing cover. He loved the white noise and soft vibration of the plane. Toddlers cried all around him, but being a relatively young baby, flying felt easy with him. I know some parents dread bringing their babies out, but we love integrating him into the lives we are living and want to create so many new memories with him.
+One of the biggest highlights from this month was visiting [LA over Christmas](/travel/christmas-in-la-2018/) with him. He rocked his first flight by sleeping and eating the whole time under my nursing cover. He loved the white noise and soft vibration of the plane. Toddlers cried all around him, but being a relatively young baby, flying felt easy with him. I know some parents dread bringing their babies out, but we love integrating him into the lives we are living and want to create so many new memories with him.
 
 {{< figure src="/images/journal/noahsecondmonth/IMG_9204.jpg" alt="Noah Second Month image" >}}
 {{< figure src="/images/journal/noahsecondmonth/IMG_7972.jpg" alt="Noah Second Month image" >}}
@@ -125,7 +125,7 @@ We love you, sweet boy. Don’t grow up too fast!
 {{< figure src="/images/journal/noahsecondmonth/IMG_8468.jpg" alt="Noah Second Month image" >}}
 {{< figure src="/images/journal/noahsecondmonth/IMG_8758.jpg" alt="Noah Second Month image" >}}
 
-[Month 1](https://ivanasteven.com/journal/first-month) | [Month 3](https://ivanasteven.com/journal/third-month) | [Month 4](https://ivanasteven.com/journal/fourth-month) | [Month 5](https://ivanasteven.com/journal/fifth-month) | [Month 6](https://ivanasteven.com/journal/sixth-month)
+[Month 1](/journal/first-month) | [Month 3](/journal/third-month) | [Month 4](/journal/fourth-month) | [Month 5](/journal/fifth-month) | [Month 6](/journal/sixth-month)
 
 Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us). 
 

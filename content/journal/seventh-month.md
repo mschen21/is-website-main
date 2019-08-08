@@ -37,7 +37,7 @@ Our family celebrated a very proud moment together as Steven graduated with his 
 {{< figure src="/images/journal/noahseventhmonth/mba2.jpg" alt="Noah seventh month image" >}}
 {{< figure src="/images/journal/noahseventhmonth/mba.gif" alt="Noah seventh month image" >}}
 
-This month also started off with Steven’s family’s annual vacation! [We headed east to Cape Cod](https://ivanasteven.com/journal/cape-cod/) this year and had a wonderful time. Noah had just started being able to sit up for a few seconds on his own before falling over. 
+This month also started off with Steven’s family’s annual vacation! [We headed east to Cape Cod](/journal/cape-cod/) this year and had a wonderful time. Noah had just started being able to sit up for a few seconds on his own before falling over. 
 
 During this trip, we also learned that Noah *loves* to hold water bottles. Especially giant metal ones that make resounding echos when you bang on them. 
 
@@ -109,7 +109,7 @@ I haven’t found that the working mom life gets easier. I miss him just as much
 
 Keep up with Noah’s monthly milestones below!
 
-[Month 1](https://ivanasteven.com/journal/first-month) | [Month 2](https://ivanasteven.com/journal/second-month) | [Month 3](https://ivanasteven.com/journal/third-month) | [Month 4](https://ivanasteven.com/journal/fourth-month) | [Month 5](https://ivanasteven.com/journal/fifth-month) | [Month 6](https://ivanasteven.com/journal/sixth-month)
+[Month 1](/journal/first-month) | [Month 2](/journal/second-month) | [Month 3](/journal/third-month) | [Month 4](/journal/fourth-month) | [Month 5](/journal/fifth-month) | [Month 6](/journal/sixth-month)
 
 Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us). 
 

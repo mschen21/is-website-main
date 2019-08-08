@@ -144,7 +144,7 @@ It’s surreal that we’ve made it this far! Noah, we can’t wait to treasure 
 
 {{< figure src="/images/journal/noahfirstmonth/Noah1MonthCover2.jpg" alt="Noah First Month image" >}}
 
-[Month 2](https://ivanasteven.com/journal/second-month) | [Month 3](https://ivanasteven.com/journal/third-month) | [Month 4](https://ivanasteven.com/journal/fourth-month) | [Month 5](https://ivanasteven.com/journal/fifth-month) | [Month 6](https://ivanasteven.com/journal/sixth-month)
+[Month 2](/journal/second-month) | [Month 3](/journal/third-month) | [Month 4](/journal/fourth-month) | [Month 5](/journal/fifth-month) | [Month 6](/journal/sixth-month)
 
 Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us). 
 
