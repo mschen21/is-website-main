@@ -222,6 +222,18 @@ button {
  05 - PORTFOLIO LAYOUT
  **********************/
 
+ .page-portfolio-single { // push down content for fixed top
+  .hero-image {
+    margin-top: 120px;
+  }
+ }
+
+ .page-portfolio-list, .page-portfolio-wedding-list { // push down content for fixed top
+  .wrapper > .container {
+    margin-top: 120px;
+  }
+ }
+
 .topCenter {
   background-position: center !important;
   height: 107vh !important;
@@ -358,6 +370,12 @@ button {
  05 - JOURNAL LAYOUT
  **********************/
 
+ .page-services-list {
+   .container > .row {
+     margin-top: 120px;
+   }
+ }
+
 .journal-item {
   .journal-cover-image {
     height: 350px;
@@ -460,11 +478,25 @@ h2.review-title {
 /***********************
  06 - ABOUT PAGE LAYOUT
  **********************/
-
+.page-pages-aboutlayout {
+  .aboutstrip {
+    margin-top:120px;
+  }
+}
 
 .about-us-homepage {
   .image-border-offset {
     border-color:rgba(71,71,71,.664) !important;
+  }
+}
+
+/***********************
+ 06 - CONTACT PAGE
+ **********************/
+
+.page-contact {
+  .hero-image {
+    margin-top: 120px;
   }
 }
 

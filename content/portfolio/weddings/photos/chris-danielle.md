@@ -3,7 +3,7 @@ title: "Chris & Danielle’s Winter Lincoln Park Conservatory Proposal"
 date: 2019-03-09
 draft: false
 heroHeading: 'Chris & Danielle'
-heroSubHeading: 'Engagement Photography in Chicago, Illinois'
+heroSubHeading: 'Proposal Photography in Chicago, Illinois'
 heroBackground: 'images/chrisdanielle/IMG_0640.jpg'
 thumbnail: 'images/chrisdanielle/IMG_0640.jpg'
 ---
@@ -91,3 +91,5 @@ Congrats, Chris & Danielle!!!! We are thrilled for you two and know your happies
 
 {{< figure src="/images/chrisdanielle/IMG_0640.jpg" alt="Chris & Danielle Engagement Photo" >}}
 {{< figure src="/images/chrisdanielle/IMG_2579.jpg" alt="Chris & Danielle Engagement Photo" >}}
+
+[Check out Chris & Danielle's Engagement Session at Chicago's beautiful Museum Campus!](/portfolio/weddings/photos/chicago-engagement-museum-campus-chris-danielle)

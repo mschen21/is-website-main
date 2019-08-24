@@ -1,4 +1,4 @@
-<div class='header'>
+<div class='{{ if .IsHome }}header{{else}}header fixed-top{{ end }}'>
     <div class="container ml-lg-auto mr-lg-auto">
       <div class="logo">
         <a href="{{ .Site.BaseURL }}"><img alt="Ivana & Steven Photography" src="{{ .Site.BaseURL }}images/logo.png" /></a>
