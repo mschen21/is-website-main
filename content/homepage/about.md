@@ -3,7 +3,7 @@ title: 'Ivana & Steven'
 weight: 1
 background: '#f1f1f1'
 button: 'Get to Know Us More'
-buttonLink: 'about'
+buttonLink: 'about/'
 featuredImage: 'homepage/IS-167.jpg'
 ---
 

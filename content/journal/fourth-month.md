@@ -236,7 +236,7 @@ Can’t believe Noah is 4 months! Our prayer is that Noah would continue to stay
 
 Keep up with Noah’s monthly milestones below!
 
-[Month 1](/journal/first-month) | [Month 2](/journal/second-month) | [Month 3](/journal/third-month) | [Month 5](/journal/fifth-month) | [Month 6](/journal/sixth-month)
+[Month 1](/journal/first-month/) | [Month 2](/journal/second-month/) | [Month 3](/journal/third-month/) | [Month 5](/journal/fifth-month/) | [Month 6](/journal/sixth-month/)
 
 Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us). 
 

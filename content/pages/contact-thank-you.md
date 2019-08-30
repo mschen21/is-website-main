@@ -8,4 +8,4 @@ textalign: 'text-center'
 ---
 Thank you for taking the time to contact us! We are looking forward to meeting you and will get back to you within 24-48 hours. :-)
 
-Please visit our [Families](/portfolio/families) and [Weddings](/portfolio/weddings) pages for more details on our photography experience!
+Please visit our [Families](/portfolio/families/) and [Weddings](/portfolio/weddings/) pages for more details on our photography experience!

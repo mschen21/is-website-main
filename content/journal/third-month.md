@@ -103,7 +103,7 @@ Your mom & dad <3
 {{< figure src="/images/journal/noahthirdmonth/IMG_0545.jpg" alt="Noah Third Month image" >}}
 {{< figure src="/images/journal/noahthirdmonth/Noah_3rdMonth_13Weeks-015.jpg" alt="Noah Third Month image" >}}
 
-[Month 1](/journal/first-month) | [Month 2](/journal/second-month) | [Month 4](/journal/fourth-month) | [Month 5](/journal/fifth-month) | [Month 6](/journal/sixth-month)
+[Month 1](/journal/first-month/) | [Month 2](/journal/second-month/) | [Month 4](/journal/fourth-month/) | [Month 5](/journal/fifth-month/) | [Month 6](/journal/sixth-month/)
 
 Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us). 
 

@@ -109,7 +109,7 @@ I haven’t found that the working mom life gets easier. I miss him just as much
 
 Keep up with Noah’s monthly milestones below!
 
-[Month 1](/journal/first-month) | [Month 2](/journal/second-month) | [Month 3](/journal/third-month) | [Month 4](/journal/fourth-month) | [Month 5](/journal/fifth-month) | [Month 6](/journal/sixth-month)
+[Month 1](/journal/first-month/) | [Month 2](/journal/second-month/) | [Month 3](/journal/third-month/) | [Month 4](/journal/fourth-month/) | [Month 5](/journal/fifth-month/) | [Month 6](/journal/sixth-month/)
 
 Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us). 
 

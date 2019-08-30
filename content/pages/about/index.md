@@ -14,5 +14,5 @@ layout: 'aboutlayout'
 {{< content-strip-left "/pages/about" "content3" >}}
 </div>
 <div class="mb-4">
-{{< cta-button "Let's work together!" "https://ivanasteven.com/contact" >}}
+{{< cta-button "Let's work together!" "https://ivanasteven.com/contact/" >}}
 </div>

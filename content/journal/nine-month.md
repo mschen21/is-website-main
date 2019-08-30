@@ -86,7 +86,7 @@ We love Noah endlessly and still marvel at the opportunity to be his parents.
 
 Keep up with Noah’s monthly milestones below!
 
-[Month 1](/journal/first-month) | [Month 2](/journal/second-month) | [Month 3](/journal/third-month) | [Month 4](/journal/fourth-month) | [Month 5](/journal/fifth-month) | [Month 6](/journal/sixth-month) | [Month 7](/journal/seventh-month) | [Month 8](/journal/eighth-month)
+[Month 1](/journal/first-month/) | [Month 2](/journal/second-month/) | [Month 3](/journal/third-month/) | [Month 4](/journal/fourth-month/) | [Month 5](/journal/fifth-month/) | [Month 6](/journal/sixth-month/) | [Month 7](/journal/seventh-month/) | [Month 8](/journal/eighth-month/)
 
 Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us). 
 

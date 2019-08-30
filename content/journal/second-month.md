@@ -125,7 +125,7 @@ We love you, sweet boy. Don’t grow up too fast!
 {{< figure src="/images/journal/noahsecondmonth/IMG_8468.jpg" alt="Noah Second Month image" >}}
 {{< figure src="/images/journal/noahsecondmonth/IMG_8758.jpg" alt="Noah Second Month image" >}}
 
-[Month 1](/journal/first-month) | [Month 3](/journal/third-month) | [Month 4](/journal/fourth-month) | [Month 5](/journal/fifth-month) | [Month 6](/journal/sixth-month)
+[Month 1](/journal/first-month/) | [Month 3](/journal/third-month/) | [Month 4](/journal/fourth-month/) | [Month 5](/journal/fifth-month/) | [Month 6](/journal/sixth-month/)
 
 Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us). 
 
