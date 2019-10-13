@@ -8,7 +8,7 @@ theme = "hugo-hero-theme"
   google_optimize_id="GTM-KDKZNDT"
 
   sitewide_message="Want to work with us? Contact us now!"
-  sitewide_url="https://ivanasteven.com/contact"
+  sitewide_url="https://ivanasteven.com/contact/"
 
   [params.homepage_meta_tags]
     meta_description = "Ivana & Steven are a husband and wife photography & filmmaker duo. We are based in Chicago but travel worldwide."
@@ -43,9 +43,14 @@ theme = "hugo-hero-theme"
     weight = 4
 
 [[menu.main]]
+    name = "Travel"
+    url = "/travel/"
+    weight = 5
+
+[[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

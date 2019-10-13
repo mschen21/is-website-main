@@ -225,6 +225,13 @@ button {
  .page-portfolio-single { // push down content for fixed top
   .hero-image {
     margin-top: 120px;
+    margin-bottom: -130px;
+  }
+  .travel {
+    margin-top: 145px;
+  }
+  .portfolio-single {
+    margin-top: 145px;
   }
  }
 
@@ -367,6 +374,35 @@ button {
 }
 
 /***********************
+ 05 - TRAVEL LAYOUT
+ **********************/
+
+ .travel-item {
+  .travel-cover-image {
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: calc(18px + (20 - 18) * ((100vw - 300px) / (1900 - 300)));
+      font-weight: 400;
+      color: rgba(71,71,71,.664);
+      border: 1px solid #085f63;
+      padding: 1.2em;
+      background-color: rgba(236, 236, 236, 0.596);
+    }
+  }
+}
+
+.page-travel {
+  .container-fluid {
+    margin-top: 120px;
+  }
+}
+
+/***********************
  05 - JOURNAL LAYOUT
  **********************/
 
@@ -501,7 +537,21 @@ h2.review-title {
 }
 
 /***********************
- 07 - MEDIA QUERIES
+ 07 - GENERAL PAGE LAYOUT
+ ***********************/
+
+ .page-general-layout {
+  .general {
+    margin-top: 145px;
+  }
+  h1 {
+    margin-bottom: 1.125em;
+  }
+ }
+ 
+
+/***********************
+ 08 - MEDIA QUERIES
  **********************/
 
  // smallest devices (iPhone 5/SE and below) (max-width:320px)
@@ -515,6 +565,11 @@ h2.review-title {
 @media (min-width: 1300px) {
   .vendor-list {
     max-width: 1140px;
+  }
+  .content-words {
+    .container {
+      max-width:800px;
+    }
   }
 }
 

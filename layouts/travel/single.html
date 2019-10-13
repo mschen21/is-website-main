@@ -7,7 +7,8 @@
 {{ partial "hero-image-setheight.html" (dict "background" $.Params.heroBackground "heading" $.Params.heroHeading "subheading" $.Params.heroSubHeading "section" $.Section "content" .)}}
 {{ end }}
 <div class="portfolio portfolio-single pb-4 pb-md-10">
-    <div class="container mt-4 mb-4">
+    <div class="travel container mb-4">
+        <h1>{{ .Title }}</h1>
         {{ .Content | safeHTML }}
     </div>
 </div>

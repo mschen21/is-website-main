@@ -1,15 +1,7 @@
-<div class="row journal-item">
-  <a href="{{ .Permalink }}" class="col-12 col-md-8 p-0">
-    <div class="journal-cover-image" style="background-image: url({{ .Site.BaseURL }}{{ .Params.thumbnail }}) ">
+<div class="row travel-item">
+  <a href="{{ .Permalink }}" class="col-12 p-0" style="text-decoration: none;">
+    <div class="travel-cover-image d-flex justify-content-center align-items-center" style="background-image: url({{ .Site.BaseURL }}{{ .Params.thumbnail }}) ">
+      <div class="hero-title">{{ .Params.heroHeading }}</div>
     </div>
   </a>
-  <div class="col-12 journal-text col-md-4 flex-column pl-5 pr-5">
-    {{ if .Params.heroHeading }}
-    <div class="hero-date mt-lg-5 mt-4">{{ dateFormat "January 2, 2006" .Date }}</div>
-    <div class="hero-title mt-md-1">{{ .Params.heroHeading }}</div>
-    <div class="hero-subtitle">{{ .Params.heroSubHeading }}</div>
-    <div class="hero-content mt-md-1">{{ .Summary | truncate 150 }}</div>
-    <a class="button mt-3 mb-4 mb-md-0" href="{{ .Permalink }}">view more</a>
-    {{ end }}
-  </div>
 </div>

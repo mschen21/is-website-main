@@ -1,7 +1,7 @@
 {
-  "name": "your-project",
+  "name": "ivana-steven-website",
   "version": "1.0.0",
-  "description": "describe your project",
+  "description": "Ivana & Steven Studios Website",
   "main": "index.js",
   "scripts": {
     "go": "npm run hugo:server",
@@ -12,7 +12,7 @@
     "theme:build": "node ./.bin/styling",
     "theme:watch": "./node_modules/.bin/nodemon -e scss -w ./ -x npm run theme:build"
   },
-  "author": "Your Name",
+  "author": "Steven Chen",
   "license": "UNLICENSED",
   "dependencies": {},
   "devDependencies": {

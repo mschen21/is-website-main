@@ -2,7 +2,7 @@
 title: "Muzairra Family | Chicago Women's Park Family Photography"
 date: 2019-04-20T23:54:11-05:00
 draft: false
-heroHeading: 'Muzzaira Family'
+heroHeading: 'Muzairra Family'
 heroSubHeading: 'Chicago, Illinois'
 heroBackground: 'images/muzairra/IMG_1587.jpg'
 thumbnail: 'images/muzairra/MuzairraThumbnail-001.jpg'
