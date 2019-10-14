@@ -3,8 +3,8 @@ title: Morgan & Glenn’s Wedding at Northerly Island
 date: '2019-10-13T21:30:22-05:00'
 heroHeading: Morgan & Glenn
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: /images/uploads/img_5311.jpg
-thumbnail: /images/uploads/img_5311.jpg
+heroBackground: images/uploads/img_5311.jpg
+thumbnail: images/uploads/img_5311.jpg
 ---
 Do you ever meet those couples where you see them together and you’re like wow, they belong together? Morgan & Glenn fit the bill 100%. 
 
