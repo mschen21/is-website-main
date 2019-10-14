@@ -5,7 +5,6 @@ heroHeading: Morgan & Glenn
 heroSubHeading: 'Chicago, Illinois'
 heroBackground: /images/uploads/img_5311.jpg
 thumbnail: /images/uploads/img_5311.jpg
-headerPosition: topFull
 ---
 Do you ever meet those couples where you see them together and you’re like wow, they belong together? Morgan & Glenn fit the bill 100%. 
 

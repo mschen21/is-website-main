@@ -5,8 +5,8 @@ site_url: https://ivanasteven.com
 logo_url: https://ivanasteven.com/images/logo.png
 
 
-media_folder: "static/images" # Folder where user uploaded files should go
-public_folder: "/images/uploads"
+media_folder: "static/images/uploads" # Folder where user uploaded files should go
+public_folder: "images/uploads"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "weddingphotos"
