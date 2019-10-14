@@ -5,6 +5,11 @@ heroHeading: Morgan & Glenn
 heroSubHeading: 'Chicago, Illinois'
 heroBackground: images/uploads/img_5311.jpg
 thumbnail: images/uploads/img_5311.jpg
+vendorlist:
+  - vendorname: Northerly Island Visitor Center
+    vendortype: Wedding & Reception Venue
+    vendorurl: >-
+      https://www.chicagoparkdistrict.com/parks-facilities/northerly-island-visitor-center
 ---
 Do you ever meet those couples where you see them together and you’re like wow, they belong together? Morgan & Glenn fit the bill 100%. 
 
@@ -17,3 +22,19 @@ Many happy tears and hearty stories were shared that night - we will never forge
 ![Morgan & Glenn Wedding Image](/images/uploads/img_5288.jpg)
 
 ![Morgan & Glenn Wedding Image](/images/uploads/img_5396.jpg)
+
+![Morgan & Glenn Wedding Image](/images/uploads/mg1.jpg)
+
+![Morgan & Glenn Wedding Image](/images/uploads/img_5278.jpg)
+
+![Morgan & Glenn Wedding Image](/images/uploads/mg2.jpg)
+
+![Morgan & Glenn Wedding Image](/images/uploads/mg3.jpg)
+
+![Morgan & Glenn Wedding Image](/images/uploads/img_5274.jpg)
+
+![Morgan & Glenn Wedding Image](/images/uploads/mg4.jpg)
+
+Much love to this beautiful couple. We wish you the best in married life!!
+
+![Morgan & Glenn Wedding Image](/images/uploads/img_5377.jpg)
