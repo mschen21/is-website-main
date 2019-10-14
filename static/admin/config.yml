@@ -1,0 +1,198 @@
+backend:
+  name: git-gateway
+
+media_folder: "site/static/images" # Folder where user uploaded files should go
+public_folder: "img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "tags"
+    label: "Tags"
+    files:
+      - file: "site/content/tags/_index.md"
+        label: "Default Tags"
+        name: "tags"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Google Analytics ID, name: ga_id, widget: string}
+          - {label: Google Optimize ID, name: go_id, widget: image}
+          - {label: "Additional Tags", name: additional_tags, widget: list, fields: [
+              {label: "Tag Script", name: "tag_script", widget: "string"}]}
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "site/content/post" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "portfolio"
+    label: "Wedding Photography"
+    folder: "site/content/portfolio/weddings/photos"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Hero Heading", name: "heroHeading", widget: "string"}
+      - {label: "Hero Subheading", name: "heroSubHeading", widget: "string"}
+      - {label: "Hero Background Image", name: "heroBackground", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "portfolio"
+    label: "Wedding Films"
+    folder: "site/content/portfolio/weddings/films"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Hero Heading", name: "heroHeading", widget: "string"}
+      - {label: "Hero Subheading", name: "heroSubHeading", widget: "string"}
+      - {label: "Hero Background Image", name: "heroBackground", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "portfolio"
+    label: "Family Session"
+    folder: "site/content/portfolio/families"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Hero Heading", name: "heroHeading", widget: "string"}
+      - {label: "Hero Subheading", name: "heroSubHeading", widget: "string"}
+      - {label: "Hero Background Image", name: "heroBackground", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "portfolio"
+    label: "General Events"
+    folder: "site/content/portfolio/events"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Hero Heading", name: "heroHeading", widget: "string"}
+      - {label: "Hero Subheading", name: "heroSubHeading", widget: "string"}
+      - {label: "Hero Background Image", name: "heroBackground", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "portfolio"
+    label: "Portraits"
+    folder: "site/content/portfolio/portraits"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Hero Heading", name: "heroHeading", widget: "string"}
+      - {label: "Hero Subheading", name: "heroSubHeading", widget: "string"}
+      - {label: "Hero Background Image", name: "heroBackground", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "journal"
+    label: "Journal"
+    folder: "site/content/journal"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Hero Heading", name: "heroHeading", widget: "string"}
+      - {label: "Hero Subheading", name: "heroSubHeading", widget: "string"}
+      - {label: "Hero Background Image", name: "heroBackground", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "reviews"
+    label: "Reviews"
+    folder: "site/content/reviews"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Hero Heading", name: "heroHeading", widget: "string"}
+      - {label: "Hero Subheading", name: "heroSubHeading", widget: "string"}
+      - {label: "Hero Background Image", name: "heroBackground", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "slider"
+    label: "Homepage Slider"
+    folder: "site/content/slider"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Hero Heading", name: "heroHeading", widget: "string"}
+      - {label: "Hero Subheading", name: "heroSubHeading", widget: "string"}
+      - {label: "Hero Background Image", name: "heroBackground", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "travel"
+    label: "Travel"
+    folder: "site/content/travel"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Hero Heading", name: "heroHeading", widget: "string"}
+      - {label: "Hero Subheading", name: "heroSubHeading", widget: "string"}
+      - {label: "Hero Background Image", name: "heroBackground", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Main Pages"
+    files:
+      - file: "site/content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Hero Slider", name: slider, widget: list, fields: [
+              {label: "Image", name: "image", widget: image},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Intro Blurb", name: intro, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"},
+              {label: "Link", name: "link", widget: "string"}]}
+          - {label: "Additional Sections", name: additional_section, widget: list, fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Text", name: "text", widget: "text"}]}
+      - file: "site/content/contact/_index.md"
+        label: "Contact Page"
+        name: "contact"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Logo, name: logo, widget: image}
+          - {label: Body, name: body, widget: markdown}
+          - label: Contact Entries
+            name: contact_entries
+            widget: list
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Text
+                name: text
+                widget: text
+      - file: "site/content/products/_index.md"
+        label: "Products Page"
+        name: "products"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
+          - {label: Full_image, name: full_image, widget: image}
+          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+      - file: "site/content/values/_index.md"
+        label: "Values Page"
+        name: "values"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Values
+            name: values
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
