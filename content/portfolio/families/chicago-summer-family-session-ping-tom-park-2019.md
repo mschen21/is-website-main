@@ -4,8 +4,8 @@ date: 2019-08-30T22:44:04-05:00
 draft: false
 heroHeading: 'Dresden Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/dresden-family-2019/IMG_4002.jpg'
-thumbnail: 'images/dresden-family-2019/IMG_4002.jpg'
+heroBackground: '/images/dresden-family-2019/IMG_4002.jpg'
+thumbnail: '/images/dresden-family-2019/IMG_4002.jpg'
 headerPosition: 'topFull'
 ---
 

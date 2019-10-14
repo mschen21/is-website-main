@@ -4,8 +4,8 @@ date: 2018-07-15
 draft: false
 heroHeading: 'Kosoff Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/kosoff/IMG_2567.jpg'
-thumbnail: 'images/kosoff/IMG_2567.jpg'
+heroBackground: '/images/kosoff/IMG_2567.jpg'
+thumbnail: '/images/kosoff/IMG_2567.jpg'
 ---
 
 {{% section-row "mt-3 mb-3" %}}

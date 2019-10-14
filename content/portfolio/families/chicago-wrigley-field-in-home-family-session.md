@@ -4,8 +4,8 @@ date: 2019-07-13
 draft: false
 heroHeading: 'Connor - Newborn Session'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/connor-infant/P1044771.jpg'
-thumbnail: 'images/connor-infant/P1044771.jpg'
+heroBackground: '/images/connor-infant/P1044771.jpg'
+thumbnail: '/images/connor-infant/P1044771.jpg'
 headerPosition: 'topFull'
 ---
 <br>

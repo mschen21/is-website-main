@@ -4,8 +4,8 @@ date: 2017-12-31
 draft: false
 heroHeading: "Jenna & Nate's NYE Wedding Party"
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/jenna-nate/IMG_4026.jpg'
-thumbnail: 'images/jenna-nate/IMG_4026.jpg'
+heroBackground: '/images/jenna-nate/IMG_4026.jpg'
+thumbnail: '/images/jenna-nate/IMG_4026.jpg'
 headerPosition: 'topFull'
 heroPositionPercent: '10% 20% !important'
 ---

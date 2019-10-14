@@ -19,22 +19,24 @@ I was so honored when Morgan asked us to photograph their lovely wedding at The 
 
 Many happy tears and hearty stories were shared that night - we will never forget it!
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5288.jpg)
+{{< lazy-load "/images/uploads/img_5288.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5396.jpg)
+{{< lazy-load "/images/uploads/img_5288.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/mg1.jpg)
+{{< lazy-load "/images/uploads/img_5396.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5278.jpg)
+{{< lazy-load "/images/uploads/mg1.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/mg2.jpg)
+{{< lazy-load "/images/uploads/img_5278.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/mg3.jpg)
+{{< lazy-load "/images/uploads/mg2.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5274.jpg)
+{{< lazy-load "/images/uploads/mg3.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/mg4.jpg)
+{{< lazy-load "/images/uploads/img_5274.jpg" >}}
+
+{{< lazy-load "/images/uploads/mg4.jpg" >}}
 
 Much love to this beautiful couple. We wish you the best in married life!!
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5377.jpg)
+{{< lazy-load "/images/uploads/img_5377.jpg" >}}

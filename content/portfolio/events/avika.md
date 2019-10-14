@@ -4,8 +4,8 @@ date: 2018-12-15
 draft: false
 heroHeading: "Avika’s 3rd Birthday Party"
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/avika/IMG_7804.jpg'
-thumbnail: 'images/avika/IMG_7804.jpg'
+heroBackground: '/images/avika/IMG_7804.jpg'
+thumbnail: '/images/avika/IMG_7804.jpg'
 thumbnailPercent: '10% 20%'
 heroPositionPercent: '10% 20% !important'
 ---

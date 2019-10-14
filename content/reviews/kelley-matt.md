@@ -2,7 +2,7 @@
 title: "Kelley & Matt"
 date: 2019-03-13T21:00:19-05:00
 draft: false
-image: 'images/parham/parham29.jpg'
+image: '/images/parham/parham29.jpg'
 featured: true
 weight: 1
 link: '/portfolio/weddings/photos/parham/'

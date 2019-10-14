@@ -1,3 +1,9 @@
+// ===== Lazy Loading =======
+const observer = window.lozad(); // lazy loads elements with default selector as '.lozad'
+observer.observe();
+
+// ====== SLIDER =========
+
 $(document).ready(function () {
     $('.carousel').slick({
         infinite: true,

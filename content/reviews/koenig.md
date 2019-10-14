@@ -2,7 +2,7 @@
 title: "Adam & Lauren Koenig"
 date: 2019-03-13T21:00:19-05:00
 draft: false
-image: 'reviews/koenig.jpg'
+image: '/reviews/koenig.jpg'
 featured: false
 weight: 1
 link: 'portfolio/weddings/photos/koenig/'

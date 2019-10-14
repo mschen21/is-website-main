@@ -4,8 +4,8 @@ date: 2018-06-03
 draft: false
 heroHeading: 'Stewart Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/stewart/IMG_8156.jpg'
-thumbnail: 'images/stewart/IMG_8156.jpg'
+heroBackground: '/images/stewart/IMG_8156.jpg'
+thumbnail: '/images/stewart/IMG_8156.jpg'
 ---
 
 {{% section-row "mt-3 mb-3" %}}
