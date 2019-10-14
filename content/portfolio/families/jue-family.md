@@ -4,8 +4,8 @@ date: 2017-10-21
 draft: false
 heroHeading: 'Jue Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/jue-family/IMG_9954.jpg'
-thumbnail: 'images/jue-family/IMG_9954.jpg'
+heroBackground: '/images/jue-family/IMG_9954.jpg'
+thumbnail: '/images/jue-family/IMG_9954.jpg'
 headerPosition: 'topBottom'
 ---
 

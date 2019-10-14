@@ -4,8 +4,8 @@ date: 2018-01-20
 draft: false
 heroHeading: "Leela's 1st Birthday Party"
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/leela/IMG_5053.jpg'
-thumbnail: 'images/leela/IMG_5053.jpg'
+heroBackground: '/images/leela/IMG_5053.jpg'
+thumbnail: '/images/leela/IMG_5053.jpg'
 ---
 <br/>
 <br/>

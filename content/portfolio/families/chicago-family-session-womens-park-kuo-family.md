@@ -4,8 +4,8 @@ date: 2017-10-27
 draft: false
 heroHeading: 'Kou Family Session'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/kuo-family/IMG_0727.jpg'
-thumbnail: 'images/kuo-family/IMG_0727.jpg'
+heroBackground: '/images/kuo-family/IMG_0727.jpg'
+thumbnail: '/images/kuo-family/IMG_0727.jpg'
 headerPosition: 'topFull'
 ---
 <br>

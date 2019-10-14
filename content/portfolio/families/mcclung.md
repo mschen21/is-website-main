@@ -4,8 +4,8 @@ date: 2015-10-01
 draft: false
 heroHeading: 'McClung Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/mcclung/IMG_8914.jpg'
-thumbnail: 'images/mcclung/IMG_8914.jpg'
+heroBackground: '/images/mcclung/IMG_8914.jpg'
+thumbnail: '/images/mcclung/IMG_8914.jpg'
 headerPosition: 'topBottom'
 ---
 

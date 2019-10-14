@@ -2,7 +2,7 @@
 title: "Dresden Family"
 date: 2019-09-15T21:00:19-05:00
 draft: false
-image: 'images/dresden-family-2019/IMG_3988.jpg'
+image: '/images/dresden-family-2019/IMG_3988.jpg'
 featured: false
 weight: 1
 link: 'portfolio/families/chicago-summer-family-session-ping-tom-park-2019/'

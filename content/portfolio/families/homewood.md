@@ -4,8 +4,8 @@ date: 2017-08-20
 draft: false
 heroHeading: 'Homewood Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/homewood/IMG_0471.jpg'
-thumbnail: 'images/homewood/IMG_0471.jpg'
+heroBackground: '/images/homewood/IMG_0471.jpg'
+thumbnail: '/images/homewood/IMG_0471.jpg'
 headerPosition: 'topBottom'
 ---
 

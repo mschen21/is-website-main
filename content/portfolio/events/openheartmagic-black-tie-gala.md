@@ -4,8 +4,8 @@ date: 2018-11-10
 draft: false
 heroHeading: "Open Heart Magic Black Tie Gala"
 heroSubHeading: 'The Casino Club | Chicago, Illinois'
-heroBackground: 'images/ohm/black-tie-event-2018/IMG_2516.jpg'
-thumbnail: 'images/ohm/black-tie-event-2018/IMG_2516.jpg'
+heroBackground: '/images/ohm/black-tie-event-2018/IMG_2516.jpg'
+thumbnail: '/images/ohm/black-tie-event-2018/IMG_2516.jpg'
 ---
 {{% vendor-list color="dbdbdb" %}}
 

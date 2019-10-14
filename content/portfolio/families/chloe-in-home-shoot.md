@@ -4,8 +4,8 @@ date: 2019-05-27
 draft: false
 heroHeading: 'Chloe - Newborn Session'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/chloe2019/StewartFamily19-043.jpg'
-thumbnail: 'images/chloe2019/StewartFamily19-043.jpg'
+heroBackground: '/images/chloe2019/StewartFamily19-043.jpg'
+thumbnail: '/images/chloe2019/StewartFamily19-043.jpg'
 headerPosition: 'topFull'
 keywords: 'chicago, weddings'
 ---

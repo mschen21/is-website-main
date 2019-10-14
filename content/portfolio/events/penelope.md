@@ -4,8 +4,8 @@ date: 2019-01-19
 draft: false
 heroHeading: "Penelope’s Baptism"
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/penelope/Penelope-Baptism-247.jpg'
-thumbnail: 'images/penelope/Penelope-Baptism-247.jpg'
+heroBackground: '/images/penelope/Penelope-Baptism-247.jpg'
+thumbnail: '/images/penelope/Penelope-Baptism-247.jpg'
 thumbnailPercent: '10% 20%'
 headerPosition: 'topFull'
 heroPositionPercent: '10% 20% !important'

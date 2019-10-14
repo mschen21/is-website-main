@@ -4,8 +4,8 @@ date: 2017-09-30T21:54:11-05:00
 draft: false
 heroHeading: 'LaVire Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/LaVire/LaVire-048.jpg'
-thumbnail: 'images/LaVire/LaVire-048.jpg'
+heroBackground: '/images/LaVire/LaVire-048.jpg'
+thumbnail: '/images/LaVire/LaVire-048.jpg'
 headerPosition: 'topFull'
 ---
 

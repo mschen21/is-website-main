@@ -2,7 +2,7 @@
 title: "Anderson Family"
 date: 2019-09-23T21:00:19-05:00
 draft: false
-image: 'images/anderson-family-2019/IMG_2747.jpg'
+image: '/images/anderson-family-2019/IMG_2747.jpg'
 featured: false
 weight: 1
 link: 'portfolio/families/chicago-summer-family-session-milton-olive-lee-park/'

@@ -4,7 +4,7 @@
 
 {{ define "main" }}
 {{ if isset .Params "background" }}
-<div class="strip hero-image hero-image-setheight"
+<div class="lozad strip hero-image hero-image-setheight" data-background-image="{{ .Params.background }}"
   style="background-image: url(' {{ .Params.background }}');">
   <div class="container justify-content-center align-items-center">
     <h1 class="hero-title">{{ .Title }}</h1>

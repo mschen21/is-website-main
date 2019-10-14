@@ -4,8 +4,8 @@ date: 2019-07-13
 draft: false
 heroHeading: 'Flores Family Session'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/flores-family/IMG_1734.jpg'
-thumbnail: 'images/flores-family/IMG_1734.jpg'
+heroBackground: '/images/flores-family/IMG_1734.jpg'
+thumbnail: '/images/flores-family/IMG_1734.jpg'
 headerPosition: 'topFull'
 ---
 <br>

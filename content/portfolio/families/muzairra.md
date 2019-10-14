@@ -4,8 +4,8 @@ date: 2019-04-20T23:54:11-05:00
 draft: false
 heroHeading: 'Muzairra Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/muzairra/IMG_1587.jpg'
-thumbnail: 'images/muzairra/MuzairraThumbnail-001.jpg'
+heroBackground: '/images/muzairra/IMG_1587.jpg'
+thumbnail: '/images/muzairra/MuzairraThumbnail-001.jpg'
 ---
 
 {{% section-row "mt-3 mb-3" %}}
