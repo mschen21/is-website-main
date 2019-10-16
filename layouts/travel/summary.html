@@ -1,6 +1,6 @@
 <div class="row travel-item">
   <a href="{{ .Permalink }}" class="col-12 p-0" style="text-decoration: none;">
-    <div class="travel-cover-image d-flex justify-content-center align-items-center" style="background-image: url({{ .Site.BaseURL }}{{ .Params.thumbnail }}) ">
+    <div class="lozad travel-cover-image d-flex justify-content-center align-items-center" data-background-image="{{ .Params.thumbnail }}" style="">
       <div class="hero-title">{{ .Params.heroHeading }}</div>
     </div>
   </a>
