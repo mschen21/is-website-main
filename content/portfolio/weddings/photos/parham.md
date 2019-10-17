@@ -4,8 +4,8 @@ date: 2017-08-26T23:54:11-05:00
 draft: false
 heroHeading: 'Kelley & Matt'
 heroSubHeading: 'Carmel, Indiana'
-heroBackground: 'images/parham/parham29.jpg'
-thumbnail: 'images/parham/hero-300.jpg'
+heroBackground: '/images/parham/parham29.jpg'
+thumbnail: '/images/parham/hero-300.jpg'
 ---
 
 {{% vendor-list color="dbdbdb" %}}

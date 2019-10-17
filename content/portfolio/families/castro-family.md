@@ -4,8 +4,8 @@ date: 2019-06-09T20:41:50-05:00
 draft: false
 heroHeading: 'Bella - Newborn Session'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/castro/P1044618.jpg'
-thumbnail: 'images/castro/P1044618.jpg'
+heroBackground: '/images/castro/P1044618.jpg'
+thumbnail: '/images/castro/P1044618.jpg'
 headerPosition: 'topFull'
 ---
 

@@ -4,8 +4,8 @@ date: 2016-06-11T23:54:11-05:00
 draft: false
 heroHeading: 'Lauren & Derek'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/vajda/vajda27.jpg'
-thumbnail: 'images/vajda/vajda-hero-300.jpg'
+heroBackground: '/images/vajda/vajda27.jpg'
+thumbnail: '/images/vajda/vajda-hero-300.jpg'
 ---
 <br/>
 <br/>

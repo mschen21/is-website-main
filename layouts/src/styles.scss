@@ -151,13 +151,12 @@ button {
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
-#return-to-top i {
+.fa-chevron-up {
   color: #fff;
   margin: 0;
   position: relative;
   left: 16px;
   top: 13px;
-  font-size: 19px;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -629,3 +628,37 @@ h2.review-title {
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {  }
 
+/*************
+ 09 - IMAGE LAZY LOAD
+ ************/
+
+ .placeholder {
+  background-color: #f6f6f6;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden;
+}
+
+.placeholder img {
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  transition: opacity 1s linear;
+}
+
+.img-small {
+  filter: blur(50px);
+  /* this is needed so Safari keeps sharp edges */
+  transform: scale(1);
+}
+
+.placeholder img.loaded {
+  opacity: 1;
+}
+
+.image_placeholder{  
+  display: block;
+}

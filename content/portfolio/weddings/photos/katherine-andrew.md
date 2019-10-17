@@ -4,8 +4,8 @@ date: 2018-02-25
 draft: false
 heroHeading: 'Katherine & Andrew'
 heroSubHeading: 'Engagement Photography in Chicago, Illinois'
-heroBackground: 'images/kandrew/kandrew1.jpeg'
-thumbnail: 'images/kandrew/kandrew1.jpeg'
+heroBackground: '/images/kandrew/kandrew1.jpeg'
+thumbnail: '/images/kandrew/kandrew1.jpeg'
 ---
 
 {{% section-row "mt-3 mb-3" %}}

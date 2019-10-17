@@ -3,8 +3,8 @@ title: Morgan & Glenn’s Wedding at Northerly Island
 date: '2019-10-13T21:30:22-05:00'
 heroHeading: Morgan & Glenn
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: images/uploads/img_5311.jpg
-thumbnail: images/uploads/img_5311.jpg
+heroBackground: /images/uploads/img_5311.jpg
+thumbnail: /images/uploads/img_5311.jpg
 vendorlist:
   - vendorname: Northerly Island Visitor Center
     vendortype: Wedding & Reception Venue
@@ -19,22 +19,24 @@ I was so honored when Morgan asked us to photograph their lovely wedding at The 
 
 Many happy tears and hearty stories were shared that night - we will never forget it!
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5288.jpg)
+{{< lazy-load "/images/uploads/img_5288.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5396.jpg)
+{{< lazy-load "/images/uploads/img_5288.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/mg1.jpg)
+{{< lazy-load "/images/uploads/img_5396.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5278.jpg)
+{{< lazy-load "/images/uploads/mg1.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/mg2.jpg)
+{{< lazy-load "/images/uploads/img_5278.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/mg3.jpg)
+{{< lazy-load "/images/uploads/mg2.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5274.jpg)
+{{< lazy-load "/images/uploads/mg3.jpg" >}}
 
-![Morgan & Glenn Wedding Image](/images/uploads/mg4.jpg)
+{{< lazy-load "/images/uploads/img_5274.jpg" >}}
+
+{{< lazy-load "/images/uploads/mg4.jpg" >}}
 
 Much love to this beautiful couple. We wish you the best in married life!!
 
-![Morgan & Glenn Wedding Image](/images/uploads/img_5377.jpg)
+{{< lazy-load "/images/uploads/img_5377.jpg" >}}

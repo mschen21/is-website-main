@@ -2,7 +2,7 @@
 title: "The Harding Family"
 date: 2019-03-13T21:00:19-05:00
 draft: false
-image: 'reviews/IMG_4561.jpg'
+image: '/reviews/IMG_4561.jpg'
 featured: true
 weight: 1
 link: '/portfolio/families/hardings/'

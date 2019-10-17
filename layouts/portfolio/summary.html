@@ -1,7 +1,7 @@
 <a href="{{ .Permalink }}">
   {{ if .Params.thumbnail }}
-  <div class="portfolio-image mb-2"
-    style="background-image: url('{{ .Site.BaseURL }}{{ .Params.thumbnail }}'); {{with .Params.thumbnailPercent}}background-position: {{.}};{{end}}">
+  <div class="lozad portfolio-image mb-2" data-background-image="{{ .Params.thumbnail }}"
+    style="{{with .Params.thumbnailPercent}}background-position: {{.}};{{end}}">
     {{ if .Params.heroHeading }}
     <div class="d-flex portfolio-image-overlay flex-column justify-content-center align-items-center">
       <div class="hero-title mt-2 ml-1 mr-1 ml-lg-0 mr-lg-0 text-center">{{.Params.heroHeading}}</div>

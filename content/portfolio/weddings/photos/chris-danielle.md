@@ -4,8 +4,8 @@ date: 2019-03-09
 draft: false
 heroHeading: 'Chris & Danielle'
 heroSubHeading: 'Proposal Photography in Chicago, Illinois'
-heroBackground: 'images/chrisdanielle/IMG_0640.jpg'
-thumbnail: 'images/chrisdanielle/IMG_0640.jpg'
+heroBackground: '/images/chrisdanielle/IMG_0640.jpg'
+thumbnail: '/images/chrisdanielle/IMG_0640.jpg'
 ---
 
 {{% section-row "mt-3 mb-3" %}}

@@ -4,8 +4,8 @@ date: 2019-06-07
 draft: false
 heroHeading: 'Diana & Adham'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/sahloul/P1033332.jpg'
-thumbnail: 'images/sahloul/P1033332.jpg'
+heroBackground: '/images/sahloul/P1033332.jpg'
+thumbnail: '/images/sahloul/P1033332.jpg'
 ---
 
 {{% vendor-list color="dbdbdb" %}}

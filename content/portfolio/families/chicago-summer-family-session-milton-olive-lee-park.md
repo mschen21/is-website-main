@@ -4,8 +4,8 @@ date: 2019-08-03
 draft: false
 heroHeading: 'Anderson Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/anderson-family-2019/IMG_2747.jpg'
-thumbnail: 'images/anderson-family-2019/IMG_2747.jpg'
+heroBackground: '/images/anderson-family-2019/IMG_2747.jpg'
+thumbnail: '/images/anderson-family-2019/IMG_2747.jpg'
 headerPosition: 'topFull'
 ---
 

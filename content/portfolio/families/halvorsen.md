@@ -4,8 +4,8 @@ date: 2018-06-16
 draft: false
 heroHeading: 'Halvorsen Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/halvorsen/IMG_9881.jpg'
-thumbnail: 'images/halvorsen/IMG_9881.jpg'
+heroBackground: '/images/halvorsen/IMG_9881.jpg'
+thumbnail: '/images/halvorsen/IMG_9881.jpg'
 ---
 
 {{% section-row "mt-3 mb-3" %}}

@@ -4,8 +4,8 @@ date: 2018-09-03
 draft: false
 heroHeading: 'Harding Family'
 heroSubHeading: 'Chicago, Illinois'
-heroBackground: 'images/harding/IMG_4561.jpg'
-thumbnail: 'images/harding/IMG_4561.jpg'
+heroBackground: '/images/harding/IMG_4561.jpg'
+thumbnail: '/images/harding/IMG_4561.jpg'
 ---
 
 {{% section-row "mt-3 mb-3" %}}

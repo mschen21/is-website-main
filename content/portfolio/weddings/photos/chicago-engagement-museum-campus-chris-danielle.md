@@ -4,8 +4,8 @@ date: 2019-07-27
 draft: false
 heroHeading: 'Chris & Danielle'
 heroSubHeading: 'Engagement Session at Museum Campus'
-heroBackground: 'images/chrisdanielle-engagement/DanielleChrisEngagement-046.jpg'
-thumbnail: 'images/chrisdanielle-engagement/DanielleChrisEngagement-046.jpg'
+heroBackground: '/images/chrisdanielle-engagement/DanielleChrisEngagement-046.jpg'
+thumbnail: '/images/chrisdanielle-engagement/DanielleChrisEngagement-046.jpg'
 ---
 
 {{% section-row "mt-3 mb-3" %}}
