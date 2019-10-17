@@ -4,8 +4,8 @@ date: 2019-09-21
 draft: false
 heroHeading: 'Madi & Chris'
 heroSubHeading: 'Engagement Session at Indiana University'
-heroBackground: 'images/madichris-engagement/IMG_4758.jpg'
-thumbnail: 'images/madichris-engagement/IMG_4758.jpg'
+heroBackground: '/images/madichris-engagement/IMG_4758.jpg'
+thumbnail: '/images/madichris-engagement/IMG_4758.jpg'
 ---
 
 {{% section-row "pt-4 pb-4" %}}

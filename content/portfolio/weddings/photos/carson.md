@@ -4,8 +4,8 @@ date: 2017-08-19T23:54:11-05:00
 draft: false
 heroHeading: 'Andrea & Jake'
 heroSubHeading: 'Niles, Michigan'
-heroBackground: 'images/carson/carson35.jpg'
-thumbnail: 'images/carson/hero-300.jpg'
+heroBackground: '/images/carson/carson35.jpg'
+thumbnail: '/images/carson/hero-300.jpg'
 ---
 
 {{% vendor-list color="dbdbdb" %}}
