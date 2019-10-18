@@ -4,8 +4,8 @@ date: 2017-08-19T23:54:11-05:00
 draft: false
 heroHeading: 'Elizabeth & Michael'
 heroSubHeading: 'Carmel, Indiana'
-heroBackground: 'images/wang/wang-hero-full.jpg'
-thumbnail: 'images/wang/wang-hero-small.jpg'
+heroBackground: '/images/wang/wang-hero-full.jpg'
+thumbnail: '/images/wang/wang-hero-small.jpg'
 ---
 
 {{% vendor-list color="dbdbdb" %}}

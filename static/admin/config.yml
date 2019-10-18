@@ -23,10 +23,11 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Vendor List"
         name: "vendorlist"
         widget: "list"
+        required: false
         fields:
           - {label: "Vendor Type", name: "vendortype", widget: "select", options: ["Venue", "Wedding Planner", "Wedding Videographer", "Flowers", "Makeup", "Entertainment", "Photo Booth", "DJ", "Rehearsal Dinner", "Wedding & Reception Venue", "Photographer", "Wedding Dress", "Bridesmaid Dresses", "Hair & Makeup", "Groom & Groomsmen Suits", "Music", "Cake"]}
           - {label: "Vendor Name", name: "vendorname", widget: "string"}
-          - {label: "Vendor URL", name: "vendorurl", widget: "string"}      
+          - {label: "Vendor URL", name: "vendorurl", widget: "string", required: false}      
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "weddingfilms"
     label: "Wedding Films"

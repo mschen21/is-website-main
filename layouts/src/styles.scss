@@ -224,13 +224,13 @@ button {
  .page-portfolio-single { // push down content for fixed top
   .hero-image {
     margin-top: 120px;
-    margin-bottom: -130px;
+    // margin-bottom: -130px;
   }
   .travel {
     margin-top: 145px;
   }
   .portfolio-single {
-    margin-top: 145px;
+    // margin-top: 145px;
   }
  }
 
@@ -259,8 +259,14 @@ button {
   background-color: transparent;
 }
 
-.portfolio-single p {
-  font-size: 1.03rem;
+.portfolio-single { 
+  p {
+    font-size: 1.03rem;
+    margin-bottom: 1.7rem;
+  }
+  img {
+    margin-bottom: 1.5rem;
+  }
 }
 
 .hero-image-setheight {
@@ -357,18 +363,19 @@ button {
   img {
     width: 100%;
   }
-  .vendor-list {
-    margin: 0 auto;
-    column-width: 25em;
-    .vendor-list-item {
-      font-size: .8rem;
-      font-family: 'Muli', sans-serif;
-      font-weight: 300;
-      text-transform: uppercase;
-    }
-    .white {
-      color: #FFF;
-    }
+}
+
+.vendor-list {
+  margin: 0 auto;
+  column-width: 25em;
+  .vendor-list-item {
+    font-size: .8rem;
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  .white {
+    color: #FFF;
   }
 }
 

@@ -4,44 +4,64 @@ date: 2019-05-24
 draft: false
 heroHeading: 'Ashley & Michael'
 heroSubHeading: 'Chicago, Indiana'
-heroBackground: 'images/chae/ashley-michael-film-shot.jpg'
-thumbnail: 'images/chae/ashley-michael-film-shot.jpg'
+heroBackground: '/images/chae/ashley-michael-film-shot.jpg'
+thumbnail: '/images/chae/ashley-michael-film-shot.jpg'
+vendorlist:
+  - vendorname: The Drake Hotel
+    vendortype: Wedding & Reception Venue
+    vendorurl: >-
+      https://www.thedrakehotel.com/
+  - vendorname: Tony - Exsalonce Salon
+    vendortype: Hair
+    vendorurl: >-
+      http://exsaloncechicago.com/
+  - vendorname: Shaun Rajah & Katerina Opalko
+    vendortype: Catering
+    vendorurl: >-
+  - vendorname: Joanne Buege - Cake Sweet Food Chicago
+    vendortype: Cake & Other Desserts
+    vendorurl: >-
+      https://www.theknot.com/marketplace/cake-chicago-chicago-il-537433
+  - vendorname: Rakoteet Photography
+    vendortype: Photographer
+    vendorurl: >-
+      https://www.rakoteet.photography/
+  - vendorname: Alice In Ivory
+    vendortype: Wedding Dress
+    vendorurl: >-
+      https://www.aliceinivory.com/
+  - vendorname: Kennedy Blue
+    vendortype: Bridesmaid Dresses
+    vendorurl: >-
+      https://www.kennedyblue.com/
+  - vendorname: Juliet Tan Floral Design
+    vendortype: Florist
+    vendorurl: >-
+      http://www.juliettanfloraldesign.com/
+  - vendorname: Sam Kee Hong Jewelry
+    vendortype: Jewelry/Rings
+    vendorurl: >-
+  - vendorname: Formal/Military Uniform
+    vendortype: Groom & Groomsmen Suits
+    vendorurl: >-
+  - vendorname: M&M Limousine Service
+    vendortype: Transportation
+    vendorurl: >-
+      https://www.mmlimo.com/
+  - vendorname: Basic Invite
+    vendortype: Stationary
+    vendorurl: >-
+      https://www.basicinvite.com/
+  - vendorname: DJ Dan - Sound Precision Entertainment
+    vendortype: DJ
+    vendorurl: >-
+      https://www.weddingwire.com/biz/sound-precision-entertainment-cleveland/841265c19cf0de3d.html
+  - vendorname: Lisa Jaroscak with Storybook Weddings & Events
+    vendortype: Wedding Planner
+    vendorurl: >-
+      http://storybookchicago.com/
+
 ---
-
-{{% vendor-list color="dbdbdb" %}}
-
-Wedding & Reception Venue // [The Drake Hotel](https://www.thedrakehotel.com/)
-
-Hair // [Tony - Exsalonce Salon](http://exsaloncechicago.com/)
-
-Catering // Shaun Rajah & Katerina Opalko
-
-Cake & Other Desserts // [Joanne Buege - Cake Sweet Food Chicago](https://www.theknot.com/marketplace/cake-chicago-chicago-il-537433)
-
-Photographer // [Rakoteet Photography](https://www.rakoteet.photography/)
-
-Wedding Dress // [Alice In Ivory](https://www.aliceinivory.com/)
-
-Shoes // [David's Bridal](https://www.davidsbridal.com/)
-
-Bridesmaid Dresses // [Kennedy Blue](https://www.kennedyblue.com/)
-
-Florist // [Juliet Tan Floral Design](http://www.juliettanfloraldesign.com/)
-
-Jewelry/Rings // Sam Kee Hong Jewelry
-
-Groom & Groomsmen Suits // Formal/Military Uniform
-
-Transportation // [M&M Limousine Service](https://www.mmlimo.com/)
-
-Stationary // [Basic Invite](https://www.basicinvite.com/)
-
-DJ // [DJ Dan - Sound Precision Entertainment](https://www.weddingwire.com/biz/sound-precision-entertainment-cleveland/841265c19cf0de3d.html)
-
-Wedding Planner // [Lisa Jaroscak with Storybook Weddings & Events](http://storybookchicago.com/)
-
-{{% /vendor-list %}}
-
 We couldn't wait any longer to share Ashley Chae and Mike Chae's wedding feature film from their elegant wedding at The Drake Hotel! It was an honor to celebrate their love :)
 
 {{% section-row %}}
