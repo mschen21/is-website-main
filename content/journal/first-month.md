@@ -3,7 +3,7 @@ title: "Noah’s 1st Month"
 date: 2018-12-10T23:37:53-05:00
 draft: false
 heroHeading: 'Noah’s 1st Month'
-thumbnail: 'images/journal/noahfirstmonth/NoahWeek4FinnEmma-042.jpg'
+thumbnail: '/images/journal/noahfirstmonth/NoahWeek4FinnEmma-042.jpg'
 categories: ["noah"]
 ---
 

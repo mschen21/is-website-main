@@ -3,7 +3,7 @@ title: "Noah’s 7th Month"
 date: 2019-06-02
 draft: false
 heroHeading: 'Noah’s 7th Month'
-thumbnail: 'images/journal/noahseventhmonth/P1011761.jpg'
+thumbnail: '/images/journal/noahseventhmonth/P1011761.jpg'
 categories: ["noah"]
 ---
 

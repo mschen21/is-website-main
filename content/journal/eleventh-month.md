@@ -3,7 +3,7 @@ title: "Noah’s 11th Month"
 date: 2019-10-08
 draft: false
 heroHeading: 'Noah’s 11th Month'
-thumbnail: 'images/journal/noaheleventhmonth/IMG_5844.jpg'
+thumbnail: '/images/journal/noaheleventhmonth/IMG_5844.jpg'
 categories: ["noah"]
 ---
 

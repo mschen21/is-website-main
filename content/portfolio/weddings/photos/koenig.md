@@ -6,35 +6,47 @@ heroHeading: 'Lauren & Adam'
 heroSubHeading: 'Chicago, Illinois'
 heroBackground: '/images/koenig/IMG_0564.jpg'
 thumbnail: '/images/koenig/koenig41-300.jpg'
+vendorlist:
+  - vendorname: Saranello's
+    vendortype: Rehearsal Dinner
+    vendorurl: >-
+      http://saranellos.com/
+  - vendorname: Renaissance Chicago North Shore Hotel by Marriott
+    vendortype: Wedding & Reception Venue
+    vendorurl: >-
+      https://www.marriott.com/hotels/travel/chinb-renaissance-chicago-north-shore-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+  - vendorname: Michele Zurlo
+    vendortype: Wedding Planner
+  - vendorname: Ivana & Steven Photography
+    vendortype: Photographer
+    vendorurl: >-
+      https://ivanasteven.com/
+  - vendorname: Bridal & Formal
+    vendortype: Wedding Dress
+    vendorurl: >-
+      https://bridalandformalinc.com/
+  - vendorname: David's Bridal
+    vendortype: Bridesmaid Dresses
+    vendorurl: >-
+      https://www.davidsbridal.com/
+  - vendorname: Hairs 2 the Bride
+    vendortype: Hair & Makeup
+    vendorurl: >-
+      http://www.hairs2thebride.com/
+  - vendorname: Men's Wearhouse
+    vendortype: Groom & Groomsmen Suits
+    vendorurl: >-
+      https://www.menswearhouse.com/
+  - vendorname: The Andrew Blake Band
+    vendortype: Music
+    vendorurl: >-
+      https://www.andrewblakeband.com/
+  - vendorname: Oak Mill Bakery
+    vendortype: Cake
+    vendorurl: >-
+      http://www.oakmillbakery.com/
 ---
-
-{{% vendor-list color="f1f1f1" %}}
-Rehearsal Dinner // [Saranello's](http://saranellos.com/)
-
-Wedding & Reception Venue // [Renaissance Chicago North Shore Hotel by Marriott](https://www.marriott.com/hotels/travel/chinb-renaissance-chicago-north-shore-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
-
-Wedding Planner // Michele Zurlo @ [Renaissance Chicago North Shore Hotel by Marriott](https://www.marriott.com/hotels/travel/chinb-renaissance-chicago-north-shore-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
-
-Photographer // [Ivana & Steven Photography](https://ivanasteven.com/)
-
-Wedding Dress // [Bridal & Formal](https://bridalandformalinc.com/)
-
-Bridesmaid Dresses // [David's Bridal](https://www.davidsbridal.com/)
-
-Hair & Makeup // [Hairs 2 the Bride](http://www.hairs2thebride.com/)
-
-Groom & Groomsmen Suits // [Men's Wearhouse](https://www.menswearhouse.com/)
-
-Music // [The Andrew Blake Band](https://www.andrewblakeband.com/)
-
-Cake // [Oak Mill Bakery](http://www.oakmillbakery.com/)
-{{% /vendor-list %}}
-
-{{% section-row "text-center mb-md-2" %}}
-
 # Lauren & Adam | Chicago Renaissance Wedding Photography
-
-{{% /section-row %}}
 
 {{% section-column "25em" %}}
 
@@ -54,35 +66,51 @@ We started the day in separate ballrooms for the bride and groom prepping hair m
 
 {{% /section-column %}}
 
-{{< figure src="/images/koenig/IMG_1217A.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/IMG_0696.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig1.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig2.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/IMG_1211.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig5.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig3.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/IMG_0564.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig6.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig7.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig8.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig9.jpg" alt="Koenig image" >}}
+{{< lazy-load "/images/koenig/IMG_1217A.jpg" >}}
+
+{{< lazy-load "/images/koenig/IMG_0696.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig1.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig2.jpg" >}}
+
+{{< lazy-load "/images/koenig/IMG_1211.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig5.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig3.jpg" >}}
+
+{{< lazy-load "/images/koenig/IMG_0564.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig6.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig7.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig8.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig9.jpg" >}}
 
 First looks are always one of our very favorite parts of the day. Lauren shared a first look not only with Adam, but also her father! Cue the tears. It was very sweet. I'd happily advocate first looks between daughters and fathers for every wedding!
 
-{{< figure src="/images/koenig/koenig10.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig11.jpg" alt="Koenig image" >}}
+{{< lazy-load "/images/koenig/koenig10.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig11.jpg" >}}
 
 And then the first look with Adam...
 
-{{< figure src="/images/koenig/koenig12.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig13.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig14.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig15.jpg" alt="Koenig image" >}}
+{{< lazy-load "/images/koenig/koenig12.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig13.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig14.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig15.jpg" >}}
 
 We've always wanted to attend a Jewish wedding and we finally got our wish! There are many Jewish traditions and it was a joy experiencing them through Lauren & Adam. First up, the signing of the [Ketubah](https://en.wikipedia.org/wiki/Ketubah). It's a Jewish wedding contract that Lauren & Adam signed in the presence of Rabbi Foster, their families and witnesses. Pamela Feldman-Hill of [Pearl Editions](https://www.facebook.com/pearleditions/) handmade and customized their Ketubah with loving care in Columbus, OH! Absolutely gorgeous and decorated with incredible care.
 
-{{< figure src="/images/koenig/koenig16.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig17.jpg" alt="Koenig image" >}}
+{{< lazy-load "/images/koenig/koenig16.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig17.jpg" >}}
 
 Next up: the beautiful ceremony! Lauren walked down the aisle with both her parents and the couple circled each other a total of seven times to create a sacred space with the promise of protection that Lauren & Adam are making to one another as it reminds them they are the center of each other's worlds. Their program described each element in detail, which really helped us understand the Jewish customs.
 
@@ -96,44 +124,66 @@ One of our favorite parts? The breaking of the glass!
 
 Adam stepped mightily on a glass, signifying celebration as guests share a big Mazel Tov. It's a reminder of how beautiful and fragile life can be and that relationships should always be treated with great care, love and respect. So many special elements filled with thoughtfulness and rich spiritual significant made this ceremony one to remember. Immediately after the ceremony, Lauren & Adam retired to a private room to share their first moments alone as husband and wife before rejoining the wedding celebration in a tradition called the [Yichud](https://en.wikipedia.org/wiki/Yichud)!
 
-{{< figure src="/images/koenig/koenig18.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig19.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig20.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig21.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig22.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig23.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig24.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig25.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig26.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig27.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig28.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig29.jpg" alt="Koenig image" >}}
+{{< lazy-load "/images/koenig/koenig18.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig19.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig20.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig21.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig22.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig23.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig24.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig25.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig26.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig27.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig28.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig29.jpg" >}}
 
 Last but not least, the reception to end all parties! Their bridal party pulled out all the stops for best entrance dance moves. The [Andrew Blake Band](https://www.andrewblakeband.com/) played absolutely incredible cover music and Sobol family friends performed a surprise song for the first dance, mother/son & father/daughter dances. The daughter is fresh off Broadway's Sound of Music!! So amazing. 
 
-{{< figure src="/images/koenig/koenig30.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig31.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig32.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig33.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig34.jpg" alt="Koenig image" >}}
+{{< lazy-load "/images/koenig/koenig30.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig31.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig32.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig33.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig34.jpg" >}}
 
 The absolute best part was the Jewish chair dance, or "[hora](https://www.theknot.com/content/jewish-wedding-reception-rituals)" that came out of nowhere. As we were enjoying the reception, a song came on that magically prompted all family and friends to link arms around each other, dance in concentric circles, and start lifting Lauren and Adam into the air bouncing on chairs! Oh my goodness. I will never forget that lively dance. Even Jody & Todd got a turn in this unforgettable dance.
 
-{{< figure src="/images/koenig/koenig35.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig36.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig37.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig38.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig39.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig40.jpg" alt="Koenig image" >}}
+{{< lazy-load "/images/koenig/koenig35.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig36.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig37.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig38.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig39.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig40.jpg" >}}
 
 Last but not least, a few sunset photos because there is nothing more magical to end a wedding day.
 
-{{< figure src="/images/koenig/koenig41.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig42.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig43.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig44.jpg" alt="Koenig image" >}}
-{{< figure src="/images/koenig/koenig45.jpg" alt="Koenig image" >}}
+{{< lazy-load "/images/koenig/koenig41.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig42.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig43.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig44.jpg" >}}
+
+{{< lazy-load "/images/koenig/koenig45.jpg" >}}
 
 Adam & Lauren, we love you so much and are so excited for your lives as the Koenig's. Enjoy your first few months of marriage! We can't wait to walk by your side and experience many more memories together.
-
-{{< cta-button "I want this wedding" "https://ivanasteven.com/contact" >}}
