@@ -14,71 +14,71 @@ I spent months planning Noah’s party. After landing on a “firefly” theme, 
 
 Knowing we wanted to have a larger party, we couldn’t host in our small city apartment. I reached out to [Soul City Church](https://soulcitychurch.com/) on a whim from their Contact form on their homepage, hoping they had available rooms for rent. To my great delight, they had an entire brochure outlining every room in their renovated space! I saw a children’s classroom with a nature theme and knew this was \*the one.\*
 
-IMG_9501.jpg
+{{< lazy-load "/images/uploads/IMG_9501.jpg" >}}
 
 To create a whimsical feel, I bought a bunch of fairy string lights and purchased tons of photo prints from Noah’s first year of life from Shutterfly. I abhor the idea of buying party decor that only gets used once and knew these items would be well loved for years to come. 
 
-IMG_9533.jpg
+{{< lazy-load "/images/uploads/IMG_9533.jpg" >}}
 
 My family arrived early on Saturday morning to help us bring our culinary snacks to life. We made homemade pumpkin spice popcorn and a rosemary citrus spritzer to complement the main meal of carnitas, chicharones, quesadillas, and nopal cactus salad from Carnitas Uruapan (delicious and we enjoyed leftovers for the next week). 
 
-IMG_9513.jpg
+{{< lazy-load "/images/uploads/IMG_9513.jpg" >}}
 
-Noah2.jpg
+{{< lazy-load "/images/uploads/Noah2.jpg" >}}
 
-noah3.jpg
+{{< lazy-load "/images/uploads/noah3.jpg" >}}
 
 Believe it or not, I have never baked a cake in my life! I figured, why not try for the first time on Noah’s birthday XD I bought my first cake pan and Googled birthday cake recipes. I stumbled upon this chocolate banana cake with peanut butter frosting and went for it. I went with a 9 inch cake pan instead of 5 because I wanted everyone to be able to enjoy cake, not just Noah during the smashing! 
 
-Noah1.jpg
+{{< lazy-load "/images/uploads/Noah1.jpg" >}}
 
-IMG_9516.jpg
+{{< lazy-load "/images/uploads/IMG_9516.jpg" >}}
 
-IMG_9582.jpg
+{{< lazy-load "/images/uploads/IMG_9582.jpg" >}}
 
 It was so sweet having our family travel to Chicago and friends come together to celebrate our baby’s birthday.
 
-IMG_9590.jpg
+{{< lazy-load "/images/uploads/IMG_9590.jpg" >}}
 
-IMG_9680.jpg
+{{< lazy-load "/images/uploads/IMG_9680.jpg" >}}
 
-IMG_9752.jpg
+{{< lazy-load "/images/uploads/IMG_9752.jpg" >}}
 
-IMG_9752.jpg
+{{< lazy-load "/images/uploads/IMG_9752.jpg" >}}
 
-IMG_9767.jpg
+{{< lazy-load "/images/uploads/IMG_9767.jpg" >}}
 
-IMG_9684.jpg
+{{< lazy-load "/images/uploads/IMG_9684.jpg" >}}
 
-IMG_9780.jpg
+{{< lazy-load "/images/uploads/IMG_9780.jpg" >}}
 
-IMG_9798.jpg
+{{< lazy-load "/images/uploads/IMG_9798.jpg" >}}
 
-IMG_9676.jpg
+{{< lazy-load "/images/uploads/IMG_9676.jpg" >}}
 
-IMG_9691.jpg
+{{< lazy-load "/images/uploads/IMG_9691.jpg" >}}
 
 Noah had his 1 year doctor’s appointment the day before the party and had 4 vaccines shots in addition to a toe prick that did not put Noah in the best mood for his party, haha. (Sorry, baby!) 
 
-IMG_9601.jpg 
+{{< lazy-load "/images/uploads/IMG_9601.jpg" >}}
 
-IMG_9618.jpg
+{{< lazy-load "/images/uploads/IMG_9618.jpg" >}}
 
 Noah’s cake smash made us chuckle. He’s never used silverware in his life but refused to smash the cake with his hand and reached for the fork. He stabbed his slice of cake with a vengeance and eventually succumbed to the more practical hand on cake technique. Funny baby. 
 
-IMG_9643.jpg
+{{< lazy-load "/images/uploads/IMG_9643.jpg" >}}
 
-IMG_9650.jpg
+{{< lazy-load "/images/uploads/IMG_9650.jpg" >}}
 
-noah5.jpg
+{{< lazy-load "/images/uploads/noah5.jpg" >}}
 
-IMG_9727.jpg
+{{< lazy-load "/images/uploads/IMG_9727.jpg" >}}
 
-noah4.jpg
+{{< lazy-load "/images/uploads/noah4.jpg" >}}
 
-IMG_9682.jpg
+{{< lazy-load "/images/uploads/IMG_9682.jpg" >}}
 
-IMG_9692.jpg
+{{< lazy-load "/images/uploads/IMG_9692.jpg" >}}
 
 One thing that often gets overlooked is the milestone of 1 year of becoming parents! As the days fly by, Steven and I realize the value of time more and more. 
 
