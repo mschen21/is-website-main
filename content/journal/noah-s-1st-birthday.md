@@ -2,7 +2,6 @@
 title: Noah's 1st Birthday
 date: '2019-11-13T20:00:17-06:00'
 heroHeading: Noah's 1st Birthday
-heroSubHeading: Noah's 1st Birthday
 heroBackground: /images/uploads/img_9533.jpg
 thumbnail: /images/uploads/img_9533.jpg
 ---
