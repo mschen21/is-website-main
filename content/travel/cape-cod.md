@@ -3,7 +3,7 @@ title: "Cape Cod"
 date: 2019-05-19T23:37:53-05:00
 draft: false
 heroHeading: 'Cape Cod | May 4-9, 2019'
-thumbnail: 'images/journal/capecod/CapeCod-045.jpg'
+thumbnail: '/images/journal/capecod/CapeCod-045.jpg'
 tags: 'noah'
 ---
 

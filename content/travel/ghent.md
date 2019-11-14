@@ -3,7 +3,7 @@ title: "Ghent"
 date: 2017-03-07T22:17:08-05:00
 draft: false
 heroHeading: 'Ghent | March 6-7, 2017'
-thumbnail: 'images/travel/ghent/Ghent083.jpg'
+thumbnail: '/images/travel/ghent/Ghent083.jpg'
 ---
 
 We woke up at 5am in Amsterdam to catch the train to Ghent, snacking on Stroopwafel during our ride. I wish we had more trains in the US. They're the best mode of transportation - so scenic and fun! Our Airbnb, a stylish rooftop apartment, also wow-ed. It was beautiful, spacious, and the loveliest home we could have imagined for our stay in Ghent!  

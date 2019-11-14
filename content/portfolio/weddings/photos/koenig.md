@@ -46,10 +46,7 @@ vendorlist:
     vendorurl: >-
       http://www.oakmillbakery.com/
 ---
-# Lauren & Adam | Chicago Renaissance Wedding Photography
-
 {{% section-column "25em" %}}
-
 How to begin our love for Lauren & Adam? Let's start with Lauren's family: the Sobol's. Our story begins back at Indiana University when I met Lauren's brother, Adam, in 2012. We worked as orientation leaders together for freshman orientation that summer. We immediately struck up a friendship and made all sorts of lifelong memories from fun college antics. Adam ironically also became friends with Steven through pursuing the same major, Informatics, and later becoming roommates for their graduate degree in Information Systems. We've even all shared a Valentine's Day dinner together and narrowly avoided burning the apartment down when cooking steaks...we now live in Chicago together and feel lucky to call Adam one of our best friends.
 
 In 2016, we invited the entire Sobol family to our wedding because they are the absolute kindest, most adorable, loving, supportive, and FUN family you will EVER meet! From the moment you meet Jody, Lauren's mom, she is your instant best friend who is invested in your life and cares about you deeply. Todd, Lauren's dad, served as our personal guide and insider to the family and hotel on Lauren & Adam's wedding day. He even helped me carry my bags around and gave us tips for best spots for shooting at the [Renaissance Chicago North Shore Hotel by Marriott](https://www.marriott.com/hotels/travel/chinb-renaissance-chicago-north-shore-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2). Do you know how much that means to me as a pregnant lady? Everything!! Steven and I took [a trip to the Middle East](https://ivanasteven.com/travel/israel/) earlier this year, coinciding with Carly, Lauren's sister's study abroad program. Though we didn't get a chance to meet up, Carly told us all the best places to visit including eating at [Miznon](https://www.tripadvisor.com/Restaurant_Review-g293984-d2587122-Reviews-Miznon-Tel_Aviv_Tel_Aviv_District.html), whose food I still dream about to this day.

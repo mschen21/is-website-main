@@ -4,7 +4,7 @@ date: 2017-03-12
 draft: true
 heroHeading: 'London | March 8-12, 2017'
 travelDates: 'March 8-12, 2017'
-thumbnail: 'images/travel/london/London275.jpg'
+thumbnail: '/images/travel/london/London275.jpg'
 ---
 
 The recent London attack is definitely a sad occurence after having such a wonderful and thankfully safe trip to the city :( Reading the news has been heart-breaking... it's only through prayer that we remain hopeful for what the future holds! 

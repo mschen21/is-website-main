@@ -11,57 +11,79 @@ categories: ["noah"]
 
 Our last month documenting our baby’s life by months! Our baby is an active crawler who loves to stand and take little steps before toppling down again. This month encompassed so many fun memories with our exuberant little guy.
 
-{{< figure src="/images/journal/noaheleventhmonth/noah1.jpg" alt="Noah Eleventh Month Image" >}}
+{{< lazy-load "/images/journal/noaheleventhmonth/noah1.jpg" >}}
 
 Steven and I took our first weekend trip together without Noah for fun! We spent Labor Day weekend in Colorado. Liberating, freeing, relaxing, and yet we missed our babe. He ended up staying in Indiana with our families over the weekend and also the week afterwards until we came home for a wedding the following weekend. 
 
 My mom decided to give him his first big haircut, which instantly matured Noah’s look into a toddler. Crazy town!!
 
-{{< figure src="/images/journal/noaheleventhmonth/8ed76402-3408-428c-8b8f-17131177205d.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/noah2.jpg" alt="Noah Eleventh Month Image" >}}
+{{< lazy-load "/images/journal/noaheleventhmonth/8ed76402-3408-428c-8b8f-17131177205d.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/noah2.jpg" >}}
 
 We celebrated my mom’s birthday together in Indiana!
 
-{{< figure src="/images/journal/noaheleventhmonth/IMG_6325.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_6336.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/noah10.jpg" alt="Noah Eleventh Month Image" >}}
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_6325.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_6336.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/noah10.jpg" >}}
 
 We took a day to visit County Line Orchard to go apple picking, take pictures with pumpkins and sunflowers, and enjoy the beautiful fall sun. Our friends, Kelli, Chris & Trevor joined us! Trevor and Noah are only 1-2 weeks apart and it’s been so fun seeing them grow up together.
 
-{{< figure src="/images/journal/noaheleventhmonth/IMG_4550.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_4575.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_4585.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_4600.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_4627.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_4645.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_4659.jpg" alt="Noah Eleventh Month Image" >}}
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_4550.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_4575.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_4585.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_4600.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_4627.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_4645.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_4659.jpg" >}}
 
 Noah is so playful and fun. He loves getting tossed in the air, pulling up on furniture and ripping paper. He’s observant and loves to imitate us now. “Mamama and bababa” are some of his favorite babbles.
 
-{{< figure src="/images/journal/noaheleventhmonth/noah9.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_2588.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/noah3.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_5787.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/noah4.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_5822.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/noah5.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_5879.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/noah7.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_5859.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/noah8.jpg" alt="Noah Eleventh Month Image" >}}
+{{< lazy-load "/images/journal/noaheleventhmonth/noah9.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_2588.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/noah3.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_5787.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/noah4.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_5822.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/noah5.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_5879.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/noah7.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_5859.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/noah8.jpg" >}}
 
 He knows that certain things belong together now. With great effort, he’ll try and put the bottle cap back on the bottle, or my glasses back on my face after grabbing them. He’s also become more of a snuggler and okay with lying on his back. 
 
 Making memories with Noah together is my favorite thing in the world. 
 
-{{< figure src="/images/journal/noaheleventhmonth/noah11.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_6744.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_6796.jpg" alt="Noah Eleventh Month Image" >}}
-{{< figure src="/images/journal/noaheleventhmonth/IMG_6797.jpg" alt="Noah Eleventh Month Image" >}}
+{{< lazy-load "/images/journal/noaheleventhmonth/noah11.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_6744.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_6796.jpg" >}}
+
+{{< lazy-load "/images/journal/noaheleventhmonth/IMG_6797.jpg" >}}
 
 All in all, we are so grateful to be his parents and to have the gift of raising him. We love our little family and can’t wait to make even more memories with him as he grows...next up ONE YEARS OLD!
 
-{{< figure src="/images/journal/noaheleventhmonth/noahmonth11cover.jpg" alt="Noah Eleventh Month Image" >}}
+{{< lazy-load "/images/journal/noaheleventhmonth/noahmonth11cover.jpg" >}}
 
 Keep up with Noah’s monthly milestones below!
 

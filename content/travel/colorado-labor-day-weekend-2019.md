@@ -3,7 +3,7 @@ title: "Colorado Labor Day Weekend Getaway"
 date: 2019-09-02
 draft: false
 heroHeading: 'Colorado | Aug 30 - Sept 2, 2019'
-thumbnail: 'images/travel/colorado/Colorado-57.jpg'
+thumbnail: '/images/travel/colorado/Colorado-57.jpg'
 ---
 
 If you’ve been following us for a while, you probably know that traveling is one of the things that Steven and I love to do. We took 17 trips together in 2017, and haven’t had a non-wedding related getaway just the two of us since Noah was born until now! 

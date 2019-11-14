@@ -3,7 +3,7 @@ title: "Amsterdam"
 date: 2017-03-06T23:19:37-05:00
 draft: false
 heroHeading: 'Amsterdam | March 4-6, 2017'
-thumbnail: 'images/travel/amsterdam/Amsterdam046.jpg'
+thumbnail: '/images/travel/amsterdam/Amsterdam046.jpg'
 ---
 
 Last fall, Steven and I started planning this spring vacation. We found an amazing flight to Amsterdam and started dreaming about where we could go. Eventually, we landed on Amsterdam, Ghent & Bruges in Belgium, and London -- all new destinations for both of us! The Schiphol Airport in Amsterdam (AMS) is one of the largest, boasting a taxi time of up to 30 minutes! Definitely the case for us as well. 
