@@ -2,6 +2,7 @@
 title: Noah's 1st Birthday
 date: '2019-11-13T20:00:17-06:00'
 heroHeading: Noah's 1st Birthday
+heroSubHeading: ' '
 heroBackground: /images/uploads/img_9533.jpg
 thumbnail: /images/uploads/img_9533.jpg
 ---
@@ -40,8 +41,6 @@ It was so sweet having our family travel to Chicago and friends come together to
 {{< lazy-load "/images/uploads/IMG_9590.jpg" >}}
 
 {{< lazy-load "/images/uploads/IMG_9680.jpg" >}}
-
-{{< lazy-load "/images/uploads/IMG_9752.jpg" >}}
 
 {{< lazy-load "/images/uploads/IMG_9752.jpg" >}}
 
