@@ -92,8 +92,10 @@ We wouldn’t have it any other way. Parenthood is sanctifying and ultimately, o
 
 Check out Noah’s monthly milestones from his first year of life below. (Still can’t believe it’s over!) \*cue the tears\* 
 
-Month 1 | Month 2 | Month 3 | Month 4 | Month 5 | Month 6 | Month 7 | Month 8 | Month 9 | Month 10 | Month 11
+Keep up with Noah’s monthly milestones below!
 
-Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business. We thank you!)
+[Month 1](/journal/first-month/) | [Month 2](/journal/second-month/) | [Month 3](/journal/third-month/) | [Month 4](/journal/fourth-month/) | [Month 5](/journal/fifth-month/) | [Month 6](/journal/sixth-month/) | [Month 7](/journal/seventh-month/) | [Month 8](/journal/eighth-month/) | [Month 9](/journal/nine-month/) | [Month 10](/journal/tenth-month/) | [Month 11](/journal/eleventh-month/)
 
-Baby Must-Haves | New Mom Essentials | Photography Equipment
+Bonus: we’re sharing our favorite and most used baby products here! Our hope is that they bring your family joy too! (If you buy through our link, that supports our business and would mean the world to us).
+
+[Baby Must-Haves](https://kit.com/ivanasteven/our-baby-must-haves) | [New Mom Essentials](https://kit.com/ivanasteven/new-mom-essentials) | [Photography Equipment](https://kit.com/ivanasteven/photography-gear)
