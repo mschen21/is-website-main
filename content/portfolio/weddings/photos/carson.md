@@ -1,13 +1,12 @@
 ---
-title: Andrea & Jake | Michigan Wedding Photography"
-date: 2017-08-19T23:54:11-05:00
-draft: false
-heroHeading: 'Andrea & Jake'
-heroSubHeading: 'Niles, Michigan'
-heroBackground: '/images/carson/carson35.jpg'
-thumbnail: '/images/carson/hero-300.jpg'
----
+title: Andrea & Jake | Michigan Wedding Photography
+date: 2017-08-20T04:54:11.000+00:00
+heroHeading: Andrea & Jake
+heroSubHeading: Niles, Michigan
+heroBackground: "/images/carson/carson35.jpg"
+thumbnail: "/images/carson/hero-300.jpg"
 
+---
 {{% vendor-list color="dbdbdb" %}}
 
 Reception Venue // The Morris Estate
