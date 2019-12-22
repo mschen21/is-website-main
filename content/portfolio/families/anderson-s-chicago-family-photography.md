@@ -1,47 +1,45 @@
 +++
-date = 2019-08-03T00:00:00Z
+date = 2019-10-12T04:00:00Z
 draft = true
 headerPosition = "topFull"
-heroBackground = "/images/anderson-family-2019/IMG_2747.jpg"
-heroHeading = "Anderson Family"
-heroSubHeading = "Chicago, Illinois"
-thumbnail = "/images/anderson-family-2019/IMG_2747.jpg"
-title = "Anderson's | Chicago Family Photography"
+heroBackground = ""
+heroHeading = "Clara"
+heroSubHeading = "Naperville, Illinois"
+thumbnail = ""
+title = "Clara’s Newborn Session in Naperville"
 
 +++
 {{% section-row "mt-3 mb-3" %}}
 
-We first met Love & Matt through our small group at Park Community Church. They were pregnant with their now 3-year old daughter, Sophia, and facing a lot of fear and anxiety from the cyst found in her brain through the ultrasounds. We prayed and walked through this scary journey with them, trusting that God was in control, even when *everything* felt out of our control. Fast forward to now, and Sophia is the most obedient, sweet, and wonderful toddler. She’s completely healthy, and can’t wait to be a big sister to her potential “bother!”
+I first met Chloe through our time as bridesmaids together for one of our best friend, Christina’s wedding! We ended up using the same wedding photographer ([Maria Harte Photography](https://www.mariahartephotography.com/)) when we got married and now live in the Chicago area together :) I met Ryan through various mutual friends from our alma mater, Indiana University.
 
-Matt & Love now lead our small group and have been a tremendous blessing in our lives. Love loves a good deal, is a negotiations queen, party planner extraordinaire and world traveler. Matt is a sarcastic Renaissance man, who is an amazing cook + baker, and has a B.S. in Music, and not 1, not 2, but 3 Master’s degrees (Religion, MBA & JD). They helped throw us our amazing airplane themed baby shower in Chicago and have been awesome parent mentors to us! 
+![](images/uploads/IMG_7586.jpg)
 
-We’re so thrilled to have documented this special time in their lives as a family of 3.5 as they welcome baby #2 in October! 
+We were so, so excited when baby Clara entered the world! She sweetly stayed calm during our entire session and didn’t cry once. Her sweet demeanor melted our hearts.
 
-{{% /section-row %}}
+![](images/uploads/IMG_7462.jpg)
 
-{{< figure src="/images/anderson-family-2019/IMG_2758.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/afam1.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/IMG_2764.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/afam2.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/afam4.jpg" alt="Anderson's Family Session image" >}}
+![](images/uploads/IMG_7581.jpg)
 
-I’m a big fan of mama hugs with babies. (Can’t imagine why).
+The Ciesla family has a gorgeous home in Naperville and we couldn’t have asked for a better in-home newborn session!
 
-{{< figure src="/images/anderson-family-2019/IMG_2855.jpg" alt="Anderson's Family Session image" >}}
+![](images/uploads/IMG_7428.jpg)
 
-It’s rare to get photos of just mom and dad as husband and wife after you have a kid, which is why I always try and capture these for our couples!
+![](images/uploads/IMG_7423.jpg)
 
-{{< figure src="/images/anderson-family-2019/IMG_2804.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/IMG_2963.jpg" alt="Anderson's Family Session image" >}}
+![](images/uploads/c1.jpg)
 
-Beautiful mama, Love! 
+  
+![](images/uploads/IMG_7401.jpg)
 
-{{% section-row %}}
+![](images/uploads/c3.jpg)
 
-{{< figure src="/images/anderson-family-2019/afam3.jpg" alt="Anderson's Family Session image" >}}
+![](images/uploads/IMG_7531.jpg)
 
-{{% /section-row %}}
+![](images/uploads/c2.jpg)
 
-We love you, Anderson fam! 
+![](images/uploads/IMG_7423.jpg)
 
-{{< figure src="/images/anderson-family-2019/IMG_2767.jpg" alt="Anderson's Family Session image" >}}
+![](images/uploads/c4.jpg)
+
+![](images/uploads/IMG_7384.jpg)
