@@ -1,7 +1,7 @@
 ---
 title: Margaret & Chris Engagement at Garfield Park Conservatory + Museum Campus
 date: '2019-12-21T23:29:11-05:00'
-heroHeading: Margaret & Chris Engagement
+heroHeading: Margaret & Chris
 heroSubHeading: Garfield Park Conservatory + Museum Campus
 heroBackground: /images/uploads/img_6124.jpg
 thumbnail: /images/uploads/img_6124.jpg
