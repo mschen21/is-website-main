@@ -18,7 +18,6 @@ sections:
 - type: document
   path: content/homepage/about.md
   label: Homepage - About Us
-  match: "**/*"
 - type: directory
   path: content/portfolio/portraits
   label: Portrait Session
