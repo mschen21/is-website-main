@@ -1,6 +1,5 @@
 +++
 date = 2019-12-22T04:29:11Z
-draft = true
 headerPosition = "topFull"
 heroBackground = "/images/uploads/img_6124.jpg"
 heroHeading = "Margaret & Chris Engagement"
@@ -9,9 +8,9 @@ thumbnail = "/images/uploads/img_6124.jpg"
 title = "Margaret & Chris | Chicago Engagement Photography"
 
 +++
-With almost a decade of dating under their belt, Margaret and Chris took the next step and decided to tie the knot :) I had the pleasure of getting to know Margaret through our time in the same sorority at Indiana University! She even served as President in the pledge class right below mine. 
+With almost a decade of dating under their belt, Margaret and Chris took the next step and decided to tie the knot :) I had the pleasure of getting to know Margaret through our time in the same sorority at Indiana University! She even served as President in the pledge class right below mine.
 
-Their love inspires us and they authentically love one another so well. It shone through the photos and we loved getting to start our time at sunrise at Museum Campus together before ending our time at the [Garfield Park Conservatory](https://garfieldconservatory.org/). 
+Their love inspires us and they authentically love one another so well. It shone through the photos and we loved getting to start our time at sunrise at Museum Campus together before ending our time at the [Garfield Park Conservatory](https://garfieldconservatory.org/).
 
 ![null](/images/uploads/img_5997.jpg)
 
@@ -33,7 +32,7 @@ Chris is an actor, and naturally had the best faces and personality come through
 
 ![null](/images/uploads/img_5974.jpg)
 
-Margaret’s dress perfectly suited the floral and fauna of the Garfield Park Conservatory. 
+Margaret’s dress perfectly suited the floral and fauna of the Garfield Park Conservatory.
 
 ![null](/images/uploads/img_6284.jpg)
 
@@ -49,7 +48,7 @@ Margaret’s dress perfectly suited the floral and fauna of the Garfield Park Co
 
 ![null](/images/uploads/mc4.jpg)
 
-Margaret & Chris, we cannot wait to capture your wedding in 2020! :) 
+Margaret & Chris, we cannot wait to capture your wedding in 2020! :)
 
 ![null](/images/uploads/img_6276.jpg)
 
