@@ -5,6 +5,36 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/pages/about
+  label: About Us Page
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pages
+  label: Custom Pages
+  create: all
+  match: "**/*"
+  exclude: about/*
+- type: document
+  path: content/homepage/about.md
+  label: Homepage - About Us
+  match: "**/*"
+- type: directory
+  path: content/portfolio/portraits
+  label: Portrait Session
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/portfolio/events
+  label: Events Session
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/portfolio/weddings
+  label: Wedding Session
+  create: all
+  match: "**/*"
+- type: directory
   path: content/portfolio/families
   label: Family Session
   create: all
