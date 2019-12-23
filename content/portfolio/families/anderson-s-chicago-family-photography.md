@@ -1,6 +1,5 @@
 +++
 date = 2019-10-12T04:00:00Z
-draft = true
 headerPosition = "topFull"
 heroBackground = "images/uploads/IMG_7462.jpg"
 heroHeading = "Clara"
