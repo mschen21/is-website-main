@@ -9,6 +9,12 @@ thumbnail = "/images/uploads/IMG_8013.jpg"
 title = "Donohoe Family Session in Winnetka"
 
 +++
-The Donohoe family welcomed a 5th member to their family last year, little Tom! He’s so cute and completes their family. It was a true honor getting to photograph their family for a second year around the city of Winnetka.
+The Donohoe family welcomed a 5th member to their family last year, little Tom! He’s so cute and completes their family. It was a true honor getting to photograph their family for a second year around the city of Winnetka and even by the beach!
 
 Katie & Brian are amazing parents and I am huge fans of their other kids too, MB & Lennie. Twas a lovely fall session and we can’t wait to continue watching the kids grow up!
+
+![](/images/uploads/IMG_8013.jpg)
+
+One of my favorite photos with kids is to put a leaf in front of their face. Sounds silly, but always turns out so cute!
+
+The Donohoe’s have the loveliest front porch that they take pictures of their kids with every year. We continued the tradition and love the photos we got.
