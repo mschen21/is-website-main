@@ -20,20 +20,20 @@ We loved getting to celebrate Fareeda amongst so many family and friends. Her pa
 
 A few weeks later, we’d get to capture the Moussa’s fall family session as well. More from that coming soon :) Happy birthday, sweet girl!
 
-F1.jpg
+![](images/uploads/f1.jpg)
 
-IMG_7643.jpg
+![](images/uploads/IMG_7643.jpg)
 
-F2.jpg
+![](images/uploads/f2.jpg)
 
-IMG_7626.jpg
+![](images/uploads/IMG_7626.jpg)
 
-F3.jpg
+![](images/uploads/f3.jpg)
 
-F4.jpg
+![](images/uploads/f4.jpg)
 
-IMG_7746.jpg
+![](images/uploads/IMG_7746.jpg)
 
-F5.jpg
+![](images/uploads/f5.jpg)
 
-IMG_7725.jpg
+![](images/uploads/IMG_7725.jpg)
