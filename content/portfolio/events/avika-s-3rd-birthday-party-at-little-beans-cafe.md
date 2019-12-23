@@ -17,7 +17,7 @@ Surrounded by colorful pastel colors, [Kids Wonderland](https://www.kidswonderla
 
 We loved getting to celebrate Fareeda amongst so many family and friends. Her parents are an incredible power couple and everyone surrounded Fareeda with so much love all day. Amazing balloon creations and the most lovely rabbit themed cake from [Toni Patisserie](https://www.tonipatisserie.com/) adorned the space.
 
-A few weeks later, we’d get to capture the Moussa’s fall family session as well. More from that coming soon :) Happy birthday, sweet girl!
+A few weeks later, we’d get to capture the Ibrahim’s fall family session as well. More from that coming soon :) Happy birthday, sweet girl!
 
 ![](images/uploads/f1.jpg)
 
