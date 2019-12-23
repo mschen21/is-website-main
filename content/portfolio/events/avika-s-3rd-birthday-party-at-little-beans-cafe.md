@@ -1,6 +1,5 @@
 +++
 date = 2019-10-12T04:00:00Z
-draft = true
 heroBackground = "/images/uploads/IMG_7602.jpg"
 heroHeading = "Fareeda’s 2nd Birthday at Kids Wonderland"
 heroPositionPercent = "10% 20% !important"
