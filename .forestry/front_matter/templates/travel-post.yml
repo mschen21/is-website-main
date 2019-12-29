@@ -1,0 +1,22 @@
+---
+label: Travel Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: heroHeading
+  label: heroHeading
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: file
+  name: heroBackground
+  label: heroBackground
+- type: text
+  name: tags
+  label: tags
