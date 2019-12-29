@@ -4,19 +4,29 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  description: This is the webpage title of the post. This can be different from the
+    heading title.
+  config:
+    required: true
+  label: Post Title
 - type: datetime
   name: date
-  label: date
+  label: Date
+  config:
+    required: true
 - type: text
   name: heroHeading
-  label: heroHeading
+  label: Background Image Title Overlay
+  description: This is the title that overlay on the heading background image.
+  config:
+    required: true
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Post Thumbnail
+  description: This image can be the same as the heading background image.
 - type: file
   name: heroBackground
-  label: heroBackground
+  label: Heading Background Image
 - type: text
   name: tags
-  label: tags
+  label: Post Tags
