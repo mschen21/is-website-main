@@ -30,5 +30,9 @@ fields:
 - type: text
   name: tags
   label: Post Tags
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
 pages:
 - content/travel/canada-day-in-calgary.md
