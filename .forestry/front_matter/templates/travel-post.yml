@@ -30,3 +30,5 @@ fields:
 - type: text
   name: tags
   label: Post Tags
+pages:
+- content/travel/canada-day-in-calgary.md
