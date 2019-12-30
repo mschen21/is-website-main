@@ -1,44 +1,20 @@
 +++
-date = 2019-10-26T05:00:00Z
+date = 2019-12-14T06:00:00Z
 draft = true
 headerPosition = "topFull"
-heroBackground = "/images/IMG_9483.jpg"
-heroHeading = "Kalant Family Session at Lincoln Park Zoo"
-heroSubHeading = "Lincoln Park Zoo"
-thumbnail = "/images/IMG_9483.jpg"
-title = "Kalant Family Session at Lincoln Park Zoo"
+heroBackground = "/images/IMG_0118.jpg"
+heroHeading = "Villegas Family Session at Garfield Park Conservatory"
+heroSubHeading = "Garfield Park Conservatory"
+thumbnail = "/images/IMG_0118.jpg"
+title = "Villegas Family Session at Garfield Park Conservatory"
 
 +++
 {{% section-row "mt-3 mb-3" %}}
 
-As photographers, we have the privilege of getting to know our clients as they experience pivotal milestones in their lives. Engagement, marriage, and babies to name a few of our favorites.
+We treasure our friendship with the Villegas family! Our story started back in Indiana when we attended the same church. Wanchen was a single lady and hadn't yet met Chris! Fast forward a few years and they now have a beautiful one year old named Lydia. 
 
-This year, we got to hang out with the Kalant family not once, but twice!!
+Wanchen and I walked through pregnancy together (alongside another one of our dear friends, Maysa). We had babies born at the end of Oct (Noah), beginning of Dec (Titus) and beginning of Jan (Lydia). Every time I think of our babies, I can't help but see God's grace and faithfulness in our journeys. 
 
-We celebrated baby Kate turning 1 together in early October before meeting the Kalant family for a lovely fall family session at [Lincoln Park Zoo](https://www.lpzoo.org/ "Lincoln Park Zoo") at the end of the month.
+Chris' mother helps take care of Lydia during the week while her parents work, so it meant so much to have Chris' parents present as well given their instrumental involvement in Lydia's life. 
 
-Jen & Dean are incredibly kind and capable parents who instantly felt like friends. With connections to IU and Carmel, IN, how could we not be? :) The Kalant's found us through our mutual friends, the Stewarts. We love both these families so much!
-
-See below for some of our favorites from our time together. We can't wait to continue walking through life together!
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_9302.jpg)
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/k1.jpg)
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_9363.jpg)![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/k2.jpg)
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_9445.jpg)
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_9453.jpg)
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_9454.jpg)
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_9483.jpg)
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/k4.jpg)
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/k3.jpg)
-
-And of course, a big congrats to Jen + Dean on one whole year of surviving parenthood!!! Never forget the parents ;) 
-
-![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_9494.jpg)
+We hope you enjoy these special photos as much as we enjoyed taking them!
