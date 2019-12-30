@@ -1,47 +1,22 @@
 +++
-date = 2019-08-03T00:00:00Z
+date = 2019-10-26T05:00:00Z
 draft = true
 headerPosition = "topFull"
-heroBackground = "/images/anderson-family-2019/IMG_2747.jpg"
-heroHeading = "Anderson Family"
-heroSubHeading = "Chicago, Illinois"
-thumbnail = "/images/anderson-family-2019/IMG_2747.jpg"
-title = "Anderson's | Chicago Family Photography"
+heroBackground = "/images/IMG_9483.jpg"
+heroHeading = "Kalant Family Session at Lincoln Park Zoo"
+heroSubHeading = "Lincoln Park Zoo"
+thumbnail = "/images/IMG_9483.jpg"
+title = "Kalant Family Session at Lincoln Park Zoo"
 
 +++
 {{% section-row "mt-3 mb-3" %}}
 
-We first met Love & Matt through our small group at Park Community Church. They were pregnant with their now 3-year old daughter, Sophia, and facing a lot of fear and anxiety from the cyst found in her brain through the ultrasounds. We prayed and walked through this scary journey with them, trusting that God was in control, even when *everything* felt out of our control. Fast forward to now, and Sophia is the most obedient, sweet, and wonderful toddler. She’s completely healthy, and can’t wait to be a big sister to her potential “bother!”
+As photographers, we have the privilege of getting to know our clients as they experience pivotal milestones in their lives. Engagement, marriage, and babies to name a few of our favorites. 
 
-Matt & Love now lead our small group and have been a tremendous blessing in our lives. Love loves a good deal, is a negotiations queen, party planner extraordinaire and world traveler. Matt is a sarcastic Renaissance man, who is an amazing cook + baker, and has a B.S. in Music, and not 1, not 2, but 3 Master’s degrees (Religion, MBA & JD). They helped throw us our amazing airplane themed baby shower in Chicago and have been awesome parent mentors to us! 
+This year, we got to hang out with the Kalant family not once, but twice!!
 
-We’re so thrilled to have documented this special time in their lives as a family of 3.5 as they welcome baby #2 in October! 
+We celebrated baby Kate turning 1 together in early October before meeting the Kalant family for a lovely fall family session at [Lincoln Park Zoo](https://www.lpzoo.org/ "Lincoln Park Zoo") at the end of the month. 
 
-{{% /section-row %}}
+Jen & Dean are incredibly kind and capable parents who instantly felt like friends. With connections to IU and Carmel, IN, how could we not be? :) The Kalant's found us through our mutual friends, the Stewarts. We love both these families so much!
 
-{{< figure src="/images/anderson-family-2019/IMG_2758.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/afam1.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/IMG_2764.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/afam2.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/afam4.jpg" alt="Anderson's Family Session image" >}}
-
-I’m a big fan of mama hugs with babies. (Can’t imagine why).
-
-{{< figure src="/images/anderson-family-2019/IMG_2855.jpg" alt="Anderson's Family Session image" >}}
-
-It’s rare to get photos of just mom and dad as husband and wife after you have a kid, which is why I always try and capture these for our couples!
-
-{{< figure src="/images/anderson-family-2019/IMG_2804.jpg" alt="Anderson's Family Session image" >}}
-{{< figure src="/images/anderson-family-2019/IMG_2963.jpg" alt="Anderson's Family Session image" >}}
-
-Beautiful mama, Love! 
-
-{{% section-row %}}
-
-{{< figure src="/images/anderson-family-2019/afam3.jpg" alt="Anderson's Family Session image" >}}
-
-{{% /section-row %}}
-
-We love you, Anderson fam! 
-
-{{< figure src="/images/anderson-family-2019/IMG_2767.jpg" alt="Anderson's Family Session image" >}}
+See below for some of our favorites from our time together. We can't wait to continue walking through life together!
