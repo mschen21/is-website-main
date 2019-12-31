@@ -2,7 +2,7 @@
 date = 2019-10-26T05:00:00Z
 headerPosition = "topFull"
 heroBackground = "/images/uploads/IMG_9483.jpg"
-heroHeading = "Kalant Family Session at Lincoln Park Zoo"
+heroHeading = "Kalant Family Session"
 heroSubHeading = "Lincoln Park Zoo"
 thumbnail = "/images/uploads/IMG_9483.jpg"
 title = "Kalant Family Session at Lincoln Park Zoo"

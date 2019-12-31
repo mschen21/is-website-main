@@ -2,7 +2,7 @@
 date = 2019-12-14T06:00:00Z
 headerPosition = "topFull"
 heroBackground = "/images/uploads/IMG_0118.jpg"
-heroHeading = "Villegas Family Session at Garfield Park Conservatory"
+heroHeading = "Villegas Family Session"
 heroSubHeading = "Garfield Park Conservatory"
 thumbnail = "/images/uploads/IMG_0118.jpg"
 title = "Villegas Family Session at Garfield Park Conservatory"
