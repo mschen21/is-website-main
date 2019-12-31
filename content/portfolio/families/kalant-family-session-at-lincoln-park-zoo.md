@@ -1,10 +1,10 @@
 +++
 date = 2019-12-14T06:00:00Z
 headerPosition = "topFull"
-heroBackground = "/images/uploads/IMG_0118.jpg"
+heroBackground = "https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_0118.jpg"
 heroHeading = "Villegas Family Session"
 heroSubHeading = "Garfield Park Conservatory"
-thumbnail = "/images/uploads/IMG_0118.jpg"
+thumbnail = "https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_0118.jpg"
 title = "Villegas Family Session at Garfield Park Conservatory"
 
 +++
@@ -18,7 +18,7 @@ Chris' mother helps take care of Lydia during the week while her parents work, s
 
 ![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_0005.jpg)
 
-We hope you enjoy these special photos at [Garfield Park Conservatory](https://garfieldconservatory.org/ "Garfield Park Conservatory") as much as we enjoyed taking them! 
+We hope you enjoy these special photos at [Garfield Park Conservatory](https://garfieldconservatory.org/ "Garfield Park Conservatory") as much as we enjoyed taking them!
 
 ![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/v2.jpg)![](https://s3.us-east-1.amazonaws.com/ivanasteven-web-assets/IMG_0122.jpg)
 
