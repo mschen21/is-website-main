@@ -4,22 +4,29 @@ hide_body: false
 fields:
 - type: datetime
   name: date
-  label: date
+  label: Post Date
 - type: text
   name: headerPosition
-  label: headerPosition
+  label: Header Position
+  description: Don't edit this field.
+  default: topFull
 - type: file
   name: heroBackground
-  label: heroBackground
+  label: Post Hero Background
+  description: This is the main hero banner on the post.
 - type: text
   name: heroHeading
-  label: heroHeading
+  label: Main Heading
+  description: This is the main heading on top of the hero background
 - type: text
   name: heroSubHeading
-  label: heroSubHeading
+  label: Sub Heading
+  description: This is the heading below the main.
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Post Thumbnail
+  description: This image can be the same as the hero background image.
 - type: text
   name: title
-  label: title
+  label: Page Title
+  description: This is the title under the main hero image. Mainly for SEO.
