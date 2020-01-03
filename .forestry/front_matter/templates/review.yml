@@ -1,0 +1,22 @@
+---
+label: Review
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: boolean
+  name: featured
+  label: featured
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: link
+  label: link
