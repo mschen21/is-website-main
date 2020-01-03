@@ -1,0 +1,25 @@
+---
+label: Family Session
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: headerPosition
+  label: headerPosition
+- type: file
+  name: heroBackground
+  label: heroBackground
+- type: text
+  name: heroHeading
+  label: heroHeading
+- type: text
+  name: heroSubHeading
+  label: heroSubHeading
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: title
+  label: title
