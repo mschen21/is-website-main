@@ -69,7 +69,7 @@ The Anping Tree House had endlessly long Banyan tree roots covering the warehous
 
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_0942.jpg)
 
-Beimen Crystal Palace is a popular place for weddings and we stopped by purely for the photo opp ;) 
+Beimen Crystal Palace is a popular venue for weddings and we stopped by purely for the photo opp ;)
 
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_0983.jpg)
 
