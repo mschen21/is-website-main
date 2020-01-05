@@ -1,6 +1,5 @@
 +++
 date = 2019-11-14T06:00:00Z
-draft = true
 gallery = []
 heroBackground = "https://dihttzbq1w95x.cloudfront.net/IMG_1073.jpg"
 heroHeading = "Taiwan"
@@ -51,7 +50,7 @@ We visited the city of Tainan for the first time via train, touring the [Chikhan
 
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_0911.jpg)
 
-By a miracle, we happened to be visiting Taiwan the exact same time as my dear friends, Katie & Sinsar from Ann Arbor! We magically got to meet up in Tainan alongside our friend, Ginny, who recently got engaged :) It was SO sweet getting to catch up over delectable and super fresh sashimi together. 
+By a miracle, we happened to be visiting Taiwan the exact same time as my dear friends, Katie & Sinsar from Ann Arbor! We magically got to meet up in Tainan alongside our friend, Ginny, who recently got engaged :) It was SO sweet getting to catch up over delectable and super fresh sashimi together.
 
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_0833.jpg)
 
@@ -59,7 +58,7 @@ By a miracle, we happened to be visiting Taiwan the exact same time as my dear f
 
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_0835.jpg)
 
-The Anping Tree House had endlessly long Banyan tree roots covering the warehouse and featured a photo slideshow of frogs that was actually really beautiful. 
+The Anping Tree House had endlessly long Banyan tree roots covering the warehouse and featured a photo slideshow of frogs that was actually really beautiful.
 
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_0955.jpg)
 
@@ -85,7 +84,7 @@ Lastly in Taiwan, we visited the [Jingzijiao Salt Fields](https://www.tripadviso
 
 After Tainan, we drove to another new city for us: Kaohsiung to explore more of Taiwan.
 
-One place that I surprisingly really enjoyed visiting was [Fo Guang Shan Temple](https://www.taiwangods.com/html/landscape_en/1_0011.aspx?i=87). On its walls, it shared the history of Buddhism and many dedicated monks roamed the peaceful roads. Everyone lives there, cares for the land, and lovely gardens are there for enjoyment as you pray. 
+One place that I surprisingly really enjoyed visiting was [Fo Guang Shan Temple](https://www.taiwangods.com/html/landscape_en/1_0011.aspx?i=87). On its walls, it shared the history of Buddhism and many dedicated monks roamed the peaceful roads. Everyone lives there, cares for the land, and lovely gardens are there for enjoyment as you pray.
 
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_1082.jpg)
 
@@ -101,12 +100,20 @@ We stopped by the seaside port.
 
 ![](https://dihttzbq1w95x.cloudfront.net/t18.jpg)
 
-We finished up our time in Kaohsiung at the [Dragon & Tiger Pagodas](https://en.wikipedia.org/wiki/Dragon_and_Tiger_Pagodas), which were swamped with tourists but still had very cool views. 
+We finished up our time in Kaohsiung at the [Dragon & Tiger Pagodas](https://en.wikipedia.org/wiki/Dragon_and_Tiger_Pagodas), which were swamped with tourists but still had very cool views.
 
 ![](https://dihttzbq1w95x.cloudfront.net/t19.jpg)
 
 ![](https://dihttzbq1w95x.cloudfront.net/t20.jpg)
 
-That's all for this year, Taiwan! Of course, it wouldn't be right to visit Taiwan and not share about the amazing food. My favorite foods are from the night market and unfortunately I was too busy devouring food to take photos. 
+That's all for this year, Taiwan! Of course, it wouldn't be right to visit Taiwan and not share about the amazing food. My favorite foods are from the night market and unfortunately I was too busy devouring food to take photos.
 
 Otherwise, enjoy these other food pics! We can't wait to be back again :)
+
+![](https://dihttzbq1w95x.cloudfront.net/IMG_1054.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/IMG_1061.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/IMG_1063.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/IMG_0816.jpg)
