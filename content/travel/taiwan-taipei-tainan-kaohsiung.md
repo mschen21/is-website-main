@@ -71,6 +71,42 @@ The Anping Tree House had endlessly long Banyan tree roots covering the warehous
 
 Beimen Crystal Palace is a popular venue for weddings and we stopped by purely for the photo opp ;)
 
-![](https://dihttzbq1w95x.cloudfront.net/IMG_0983.jpg)
-
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_0988.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/t11.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/t12.jpg)
+
+Lastly in Taiwan, we visited the [Jingzijiao Salt Fields](https://www.tripadvisor.com/Attraction_Review-g13792512-d7113208-Reviews-Jingzaijiao_Tile_Paved_Salt_Fields-Beimen_Tainan.html). As you may have guessed, this is where they harvest salt! You can normally witness jaw dropping sunsets here, but alas we came on a cloudy day. It was super fun still!
+
+![](https://dihttzbq1w95x.cloudfront.net/t13.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/t14.jpg)
+
+After Tainan, we drove to another new city for us: Kaohsiung to explore more of Taiwan.
+
+One place that I surprisingly really enjoyed visiting was [Fo Guang Shan Temple](https://www.taiwangods.com/html/landscape_en/1_0011.aspx?i=87). On its walls, it shared the history of Buddhism and many dedicated monks roamed the peaceful roads. Everyone lives there, cares for the land, and lovely gardens are there for enjoyment as you pray. 
+
+![](https://dihttzbq1w95x.cloudfront.net/IMG_1082.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/t15.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/IMG_1102.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/t16.jpg)
+
+We stopped by the seaside port.
+
+![](https://dihttzbq1w95x.cloudfront.net/t17.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/t18.jpg)
+
+We finished up our time in Kaohsiung at the [Dragon & Tiger Pagodas](https://en.wikipedia.org/wiki/Dragon_and_Tiger_Pagodas), which were swamped with tourists but still had very cool views. 
+
+![](https://dihttzbq1w95x.cloudfront.net/t19.jpg)
+
+![](https://dihttzbq1w95x.cloudfront.net/t20.jpg)
+
+That's all for this year, Taiwan! Of course, it wouldn't be right to visit Taiwan and not share about the amazing food. My favorite foods are from the night market and unfortunately I was too busy devouring food to take photos. 
+
+Otherwise, enjoy these other food pics! We can't wait to be back again :)
