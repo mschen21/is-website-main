@@ -1,6 +1,5 @@
 +++
 date = 2019-11-20T06:00:00Z
-draft = true
 gallery = []
 heroBackground = "https://dihttzbq1w95x.cloudfront.net/IMG_1583.jpg"
 heroHeading = "Korea (Seoul & Nami Island)"
@@ -101,7 +100,7 @@ The island is based on the popular children's book "Le Petite Prince" or "[The L
 
 If you watch Korean dramas, you may recognize Nami Island from the popular series "[Winter Sonata](https://en.wikipedia.org/wiki/Winter_Sonata "Winter Sonata")." Tall orange trees stretched towards the sky and the moment you entered the island, you felt at peace. Everything was picturesque and we biked around the entire island. 
 
-So unbelievably beautiful - would highly recommend both of them!
+Would highly recommend visiting any season of the year.
 
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_1741.jpg)
 
@@ -110,3 +109,7 @@ So unbelievably beautiful - would highly recommend both of them!
 ![](https://dihttzbq1w95x.cloudfront.net/t33.jpg)
 
 ![](https://dihttzbq1w95x.cloudfront.net/t34.jpg)
+
+Looking forward to many more visits to Korea (as long as Steven's sister is still there) ;) 
+
+We loved our time there and are still dreaming of the Korean fried chicken. Until next time.
