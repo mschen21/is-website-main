@@ -1,6 +1,5 @@
 +++
 date = 2020-02-11T06:00:00Z
-draft = true
 gallery = []
 heroBackground = "https://dihttzbq1w95x.cloudfront.net/P1088642.jpg"
 heroHeading = "Doha, Qatar"
@@ -26,15 +25,21 @@ At around 50 degrees, we found the chilliest weather of our trip here so we had 
 
 ![](https://dihttzbq1w95x.cloudfront.net/qatar2.jpg)
 
-Knowing we only had one day here, we made the most of it!
+Knowing we only had one day here, we made the most of it! We started the day at the [Souq Waqif](https://www.tripadvisor.com/Attraction_Review-g294009-d1768661-Reviews-Souq_Waqif-Doha.html), a famous shopping market that wasn't yet bustling when we arrived (tourist mistake to visit in the morning).
 
 ![](https://dihttzbq1w95x.cloudfront.net/P1088619.jpg)
 
 ![](https://dihttzbq1w95x.cloudfront.net/qatar1.jpg)
 
+The famous [Spiral Mosque](https://www.tripadvisor.com/ShowUserReviews-g294009-d2061376-r345616976-Fanar_Qatar_Islamic_Cultural_Center-Doha.html) in Doha.
+
 ![](https://dihttzbq1w95x.cloudfront.net/P1088627.jpg)
 
+The most efficient way for police to get around of course ;)
+
 ![](https://dihttzbq1w95x.cloudfront.net/P1088642.jpg)
+
+The [Islamic Museum of Art](http://www.mia.org.qa/en/), designed by IM Pei. Such a beautiful work of art and definitely a must do! The lobby has floor to ceiling windows that make the perfect backdrop for a wedding on the water.
 
 ![](https://dihttzbq1w95x.cloudfront.net/P1088653.jpg)
 
@@ -44,9 +49,11 @@ Knowing we only had one day here, we made the most of it!
 
 ![](https://dihttzbq1w95x.cloudfront.net/P1088663.jpg)
 
+Qatar's economy used to depend on the pearl market until its primary export became oil.  
+
 ![](https://dihttzbq1w95x.cloudfront.net/P1088685.jpg)
 
-Our favorite meal in Qatar (granted we only had 3). Fattoush salad, pine nut hummus with Lebanese sausage, and grilled chicken breasts with french fries complimented by a mint lemonade. <3
+Our favorite meal in Qatar (granted we only had 3) at [MAMIG Armenian & Lebanese restaurant](https://www.mamigdoha.com/). Fattoush salad, pine nut hummus with Lebanese sausage, and grilled chicken breasts with french fries complimented by a mint lemonade. <3
 
 ![](https://dihttzbq1w95x.cloudfront.net/P1088702.jpg)
 
