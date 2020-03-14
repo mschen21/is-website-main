@@ -18,11 +18,15 @@ Attending an Indian wedding has claimed a spot on our bucket list for a long tim
 
 We booked our flight to India on Qatar Airways and saw that they offered an option to take a day long layover in Doha with a 5-star complimentary hotel stay. As a result, we decided to knock another country off the list and visit Qatar :)
 
+Qatar Airways booked us a stay at the [Marriott Marquis City Center](https://www.marriott.com/hotels/travel/dohmq-marriott-marquis-city-center-doha-hotel/), which was the best Marriott we've ever stayed at. We got upgraded to a _massive_ suite and had access to the Executive Lounge through Steven's status, which is always a treat.
+
+At around 50 degrees, we found the chilliest weather of our trip here so we had to wear the one jacket we brought each the whole day, haha!
+
 ![](https://dihttzbq1w95x.cloudfront.net/IMG_0024.jpg)
 
 ![](https://dihttzbq1w95x.cloudfront.net/qatar2.jpg)
 
-Having visited Dubai in the past, we figured it would be similar -- an affluent Middle Eastern country. We weren't wrong! They had just built a brand new subway system for the upcoming World Cup and it was the nicest one we've ever been on. We used the subway like locals across the entire city.
+Knowing we only had one day here, we made the most of it!
 
 ![](https://dihttzbq1w95x.cloudfront.net/P1088619.jpg)
 
