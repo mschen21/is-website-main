@@ -8,7 +8,6 @@ thumbnail = "https://dihttzbq1w95x.cloudfront.net/P1088653.jpg"
 title = "Doha, Qatar"
 
 +++
-Doha, Qatar  
 February 2020
 
 Many months ago, one of Steven's best friends from his MSIS graduate program at IU invited us to his wedding. This wasn't just any wedding. No, it was an Indian wedding in INDIA!
